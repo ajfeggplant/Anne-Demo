@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="CreateApt_script" package="Demo.suite" timestamp="2018-09-05 16:51:14.368 -0400"
+ tests="1"  failures="1" errors="1" time="196.587671">
+  <properties>
+   <property name="RunDate" value="2018-09-05 16:51:14.368 -0400"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="CreateApt.script" assertions="1" status="error"  time="196.585779">
+    <failure type="FAILURE" message="Image Not Found click Error - No Image Found On Screen: &quot;patient&quot;  Restricted Search Rectangle ((555,276),(2157,1607))\n -- Execution Time 0:03:16 CreateApt.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;patient&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

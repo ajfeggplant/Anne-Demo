@@ -1,0 +1,10 @@
+﻿2018-09-08 18:26:23.723 -0400	START		Running No Show.script	1	execute string	(null)
+2018-09-08 18:26:23.976 -0400	click	FlowBoard	at (339, 182)	3	on_no_show	No Show.script
+2018-09-08 18:26:25.264 -0400	click	PatientName	at (645, 1031)	6	on_no_show	No Show.script
+2018-09-08 18:26:25.650 -0400	typetext		moussaka[returnKey]	7	on_no_show	No Show.script
+2018-09-08 18:26:26.195 -0400	click	aptStatus	at (1282, 1408)	10	on_no_show	No Show.script
+2018-09-08 18:27:05.532 -0400	click	-None	at (1405, 1370)	11	on_no_show	No Show.script
+2018-09-08 18:27:53.785 -0400	click	Arrived	at (959, 776)	12	on_no_show	No Show.script
+2018-09-08 18:27:55.732 -0400	click	Save	at (934, 715)	13	on_no_show	No Show.script
+2018-09-08 18:27:56.078 -0400	EndTestCase		(Duration:"92.352337", Errors:"0", Exceptions:"0", StartTime:"2018-09-08 18:26:23 -0400", Successes:"1", TestCase:"No Show.script", Warnings:"0")	1	execute string	(null)
+2018-09-08 18:27:56.103 -0400	SUCCESS		Execution Time 0:01:32 No Show.script	1	execute string	(null)

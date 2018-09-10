@@ -1,0 +1,10 @@
+﻿2018-09-08 17:45:56.256 -0400	START		Running CreateApt.script	1	execute string	(null)
+2018-09-08 17:45:57.068 -0400	click	addNewApt	at (53, 591)	5	on_createapt	CreateApt.script
+2018-09-08 17:45:59.153 -0400	set		SEARCHRECTANGLE = (VisitType_A,VisitType_B)	8	on_createapt	CreateApt.script
+2018-09-08 17:45:59.396 -0400	click	dropDown	at (1448, 364)	9	on_createapt	CreateApt.script
+2018-09-08 17:46:12.535 -0400	LogWarning		OCR Text read in search rect: Category:\nDate:\nTitle:\nOffice Visit\t▼\nO All\nNo Show\n\nOffice Visit\n• Tir\nEstablished Patient\n\nNp\a/ Patipnt\n\n1\tVV 1 G L 1 II L\nHealth and Behavioral Assessment\ndu\nPreventive Care Services\n\nOphthalmological Services\n( \
+2018-09-08 17:47:21.307 -0400	LogWarning		OCR Text read in search rect: Category:\nDate:\nTitle:\nOffice Visit\t▼\nO All\nNo Show\n\nOffice Visit\n• Tir\nEstablished Patient\n\nNp\a/ Patipnt\n\n1\tVV 1 G L 1 II L\nHealth and Behavioral Assessment\ndu\nPreventive Care Services\n\nOphthalmological Services\n( \
+2018-09-08 17:48:02.398 -0400	LogWarning		OCR Text read in search rect: Category:\nDate:\nTitle:\nOffice Visit\t▼\nO All\nNo Show\n\nOffice Visit\n• Tir\nEstablished Patient\n\nNp\a/ Patipnt\n\n1\tVV 1 G L 1 II L\nHealth and Behavioral Assessment\ndu\nPreventive Care Services\n\nOphthalmological Services\n( \
+2018-09-08 17:49:47.001 -0400	Exception		Retrieving Frame Buffer:Aborted in freezeFrameBuffer while frozenForDoctor	10	on_createapt	CreateApt.script
+2018-09-08 17:49:47.006 -0400	EndTestCase		(Duration:"230.748527", Errors:"1", Exceptions:"1", StartTime:"2018-09-08 17:45:56 -0400", Successes:"0", TestCase:"CreateApt.script", Warnings:"3")	1	execute string	(null)
+2018-09-08 17:49:47.009 -0400	ABORTED		Execution Time 0:03:50 CreateApt.script	1	execute string	(null)

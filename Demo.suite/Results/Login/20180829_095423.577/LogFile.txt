@@ -1,0 +1,4 @@
+﻿2018-08-29 09:54:23.578 -0400	START		Running Login.script	1	execute string	(null)
+2018-08-29 09:54:29.994 -0400	Exception	Username	No Image Found On Screen: "Username"	3	on_login	Login.script
+2018-08-29 09:54:29.997 -0400	EndTestCase		(Duration:"6.417831", Errors:"1", Exceptions:"1", StartTime:"2018-08-29 09:54:23 -0400", Successes:"0", TestCase:"Login.script", Warnings:"0")	1	execute string	(null)
+2018-08-29 09:54:30.000 -0400	ABORTED		Execution Time 0:00:06 Login.script	1	execute string	(null)

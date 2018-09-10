@@ -1,0 +1,34 @@
+﻿Params provider, visitType, ptName
+//put "office" into visitType
+//put "smith" into provider
+
+Click "addNewApt"
+
+//change apt type
+Set the SearchRectangle to ("VisitType_A","VisitType_B")
+Click (Image:"dropDown", WaitFor:3)
+click (text:visitType,  DPI:170)
+
+//randomly choosing an hour so it is not all on top of eachother
+typetext tabkey, 
+typetext returnkey
+wait 1
+typetext tabkey
+typetext (random(9,17)), returnkey
+set the SearchRectangle to ()
+
+//change search rectanlge to enire appt screen
+Set the SearchRectangle to ("apointmentPopUp_A","apointmentPopUp_B")
+
+//Select patient
+Click "Patient_1"
+wait 2
+typetext ptName, return
+click (text:"Eggplant,"&&ptName, DPI:170)
+wait 3
+
+//Verify Apt info
+WaitFor 3, text:provider
+WaitFor 3, text:visitType
+
+set the SearchRectangle to ()

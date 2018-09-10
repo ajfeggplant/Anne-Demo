@@ -1,0 +1,18 @@
+﻿2018-09-08 17:52:51.831 -0400	START		Running CreateApt.script	1	execute string	(null)
+2018-09-08 17:52:52.968 -0400	click	addNewApt	at (53, 591)	5	on_createapt	CreateApt.script
+2018-09-08 17:52:54.822 -0400	set		SEARCHRECTANGLE = (VisitType_A,VisitType_B)	8	on_createapt	CreateApt.script
+2018-09-08 17:52:55.131 -0400	click	dropDown	at (1448, 364)	9	on_createapt	CreateApt.script
+2018-09-08 17:52:55.771 -0400	click	(TEXT:"New Patient")	at (846, 509)	10	on_createapt	CreateApt.script
+2018-09-08 17:52:55.984 -0400	typetext		[tab]	13	on_createapt	CreateApt.script
+2018-09-08 17:52:56.199 -0400	typetext		[returnKey]	14	on_createapt	CreateApt.script
+2018-09-08 17:52:57.225 -0400	typetext		[tab]	16	on_createapt	CreateApt.script
+2018-09-08 17:52:57.465 -0400	typetext		16[returnKey]	17	on_createapt	CreateApt.script
+2018-09-08 17:52:57.472 -0400	set		SEARCHRECTANGLE = ()	18	on_createapt	CreateApt.script
+2018-09-08 17:53:02.322 -0400	set		SEARCHRECTANGLE = (apointmentPopUp_A,apointmentPopUp_B)	21	on_createapt	CreateApt.script
+2018-09-08 17:53:16.897 -0400	LogWarning	Patient_1	Timing Problem: Increase search time in script for this search
+2018-09-08 17:53:41.570 -0400	click	Patient_1	at (868, 856)	24	on_createapt	CreateApt.script
+2018-09-08 17:53:43.902 -0400	typetext		29[return]	26	on_createapt	CreateApt.script
+2018-09-08 17:53:45.018 -0400	click	(TEXT:"29")	at (1495, 356)	27	on_createapt	CreateApt.script
+2018-09-08 17:53:57.526 -0400	LogWarning		OCR Text read in search rect: ;\nSearch\nName\n\n\nt\nStatus:\nSearch by:\nName ▼\nfor:\n2|9\n1\nNo records found. Please expand your <\nClick Here to add a new patient.\nPhone\nSS\nDOB\nID\nM\n▼\nT\nT\n77\n□ Days Of □□□□□□(\nWeek:\tSu Mo Tu We Th Fr 5\n- None\nuntil date\nRoom Number:\nComments:\nSave\nFind Available\nDelete\nCancel\nCreate Duplicate
+2018-09-08 17:57:45.454 -0400	EndTestCase		(Duration:"293.621655", Errors:"1", Exceptions:"0", StartTime:"2018-09-08 17:52:51 -0400", Successes:"0", TestCase:"CreateApt.script", Warnings:"2")	1	execute string	(null)
+2018-09-08 17:57:45.461 -0400	ABORTED		Execution Time 0:04:53 CreateApt.script	1	execute string	(null)

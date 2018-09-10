@@ -1,0 +1,19 @@
+﻿2018-09-08 21:09:51.942 -0400	START		Running CreateApt.script	1	execute string	(null)
+2018-09-08 21:09:52.744 -0400	click	addNewApt	at (53, 591)	5	on_createapt	CreateApt.script
+2018-09-08 21:09:54.509 -0400	set		SEARCHRECTANGLE = (VisitType_A,VisitType_B)	8	on_createapt	CreateApt.script
+2018-09-08 21:09:54.750 -0400	click	dropDown	at (1459, 364)	9	on_createapt	CreateApt.script
+2018-09-08 21:09:55.834 -0400	click	(TEXT:"Established Patient")	at (884, 476)	10	on_createapt	CreateApt.script
+2018-09-08 21:09:56.049 -0400	typetext		[tab]	13	on_createapt	CreateApt.script
+2018-09-08 21:09:56.266 -0400	typetext		[returnKey]	14	on_createapt	CreateApt.script
+2018-09-08 21:09:57.315 -0400	typetext		[tab]	16	on_createapt	CreateApt.script
+2018-09-08 21:09:57.554 -0400	typetext		12[returnKey]	17	on_createapt	CreateApt.script
+2018-09-08 21:09:57.561 -0400	set		SEARCHRECTANGLE = ()	18	on_createapt	CreateApt.script
+2018-09-08 21:10:01.988 -0400	set		SEARCHRECTANGLE = (apointmentPopUp_A,apointmentPopUp_B)	21	on_createapt	CreateApt.script
+2018-09-08 21:10:02.742 -0400	click	Patient_1	at (776, 854)	24	on_createapt	CreateApt.script
+2018-09-08 21:10:04.948 -0400	typetext		caviar[return]	26	on_createapt	CreateApt.script
+2018-09-08 21:10:07.263 -0400	click	(TEXT:"Eggplant, caviar")	at (774, 566)	27	on_createapt	CreateApt.script
+2018-09-08 21:10:12.452 -0400	waitfor	(TEXT:"Smith")	found at (814, 951)	31	on_createapt	CreateApt.script
+2018-09-08 21:10:14.601 -0400	waitfor	(TEXT:"Established Patient")	found at (876, 563)	32	on_createapt	CreateApt.script
+2018-09-08 21:10:14.702 -0400	set		SEARCHRECTANGLE = ()	34	on_createapt	CreateApt.script
+2018-09-08 21:10:14.703 -0400	EndTestCase		(Duration:"22.759604", Errors:"0", Exceptions:"0", StartTime:"2018-09-08 21:09:51 -0400", Successes:"1", TestCase:"CreateApt.script", Warnings:"0")	1	execute string	(null)
+2018-09-08 21:10:14.724 -0400	SUCCESS		Execution Time 0:00:22 CreateApt.script	1	execute string	(null)

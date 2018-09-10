@@ -1,0 +1,10 @@
+﻿2018-08-28 15:03:13.599 -0400	START		Running SelectProvider.script	1	execute string	(null)
+2018-08-28 15:03:14.524 -0400	set		SEARCHRECTANGLE = (ProviderList_A,ProviderList_B)	4	on_selectprovider	SelectProvider.script
+2018-08-28 15:05:51.966 -0400	OCRUpdateWarning	(TEXT:"stone")	Found Text -- Using TextDifference:1
+2018-08-28 15:05:52.666 -0400	click	(TEXT:"stone")	at (15, 456)	5	on_selectprovider	SelectProvider.script
+2018-08-28 15:05:52.668 -0400	set		SEARCHRECTANGLE = ()	6	on_selectprovider	SelectProvider.script
+2018-08-28 15:06:14.429 -0400	set		SEARCHRECTANGLE = (WhoseSchedule_A,WhoseSchedule_B)	9	on_selectprovider	SelectProvider.script
+2018-08-28 15:06:15.025 -0400	waitfor	(TEXT:"stone")	found at (1125, 280)	10	on_selectprovider	SelectProvider.script
+2018-08-28 15:06:15.027 -0400	set		SEARCHRECTANGLE = ()	11	on_selectprovider	SelectProvider.script
+2018-08-28 15:06:15.028 -0400	EndTestCase		(Duration:"181.427699", Errors:"0", Exceptions:"0", StartTime:"2018-08-28 15:03:13 -0400", Successes:"1", TestCase:"SelectProvider.script", Warnings:"0")	1	execute string	(null)
+2018-08-28 15:06:15.109 -0400	SUCCESS		Execution Time 0:03:01 SelectProvider.script	1	execute string	(null)

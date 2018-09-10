@@ -1,0 +1,12 @@
+﻿2018-09-05 17:28:21.230 -0400	START		Running CreateApt.script	1	execute string	(null)
+2018-09-05 17:28:22.330 -0400	click	addNewApt	at (53, 591)	5	on_createapt	CreateApt.script
+2018-09-05 17:28:24.563 -0400	set		SEARCHRECTANGLE = (VisitType_A,VisitType_B)	8	on_createapt	CreateApt.script
+2018-09-05 17:28:25.701 -0400	click	dropDown	at (1422, 364)	9	on_createapt	CreateApt.script
+2018-09-05 17:28:27.588 -0400	click	(TEXT:"Established Patient")	at (884, 476)	10	on_createapt	CreateApt.script
+2018-09-05 17:28:28.132 -0400	typetext		[tab][tab][tab]	13	on_createapt	CreateApt.script
+2018-09-05 17:28:28.657 -0400	typetext		16	14	on_createapt	CreateApt.script
+2018-09-05 17:28:28.662 -0400	set		SEARCHRECTANGLE = ()	15	on_createapt	CreateApt.script
+2018-09-05 17:28:33.963 -0400	set		SEARCHRECTANGLE = (apointmentPopUp_A,apointmentPopUp_B)	18	on_createapt	CreateApt.script
+2018-09-05 17:29:10.506 -0400	Exception	(TEXT:"smith")	No Text Found On Screen: "(TEXT:"smith")"	20	on_createapt	CreateApt.script
+2018-09-05 17:29:10.509 -0400	EndTestCase		(Duration:"49.277737", Errors:"1", Exceptions:"1", StartTime:"2018-09-05 17:28:21 -0400", Successes:"0", TestCase:"CreateApt.script", Warnings:"0")	1	execute string	(null)
+2018-09-05 17:29:10.513 -0400	ABORTED		Execution Time 0:00:49 CreateApt.script	1	execute string	(null)

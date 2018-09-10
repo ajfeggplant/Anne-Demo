@@ -1,0 +1,14 @@
+﻿Params provider
+
+click Calendar
+wait 3
+
+//Select Provider in provider list
+set the SearchRectangle to ("ProviderList_A","ProviderList_B")
+click (text:provider, DPI:170)
+set the SearchRectangle to ()
+
+//confirm we are lookig at the right provider
+set the SearchRectangle to ("WhoseSchedule_A","WhoseSchedule_B")
+WaitFor 3.0, (text:provider, DPI:170)
+set the SearchRectangle to ()

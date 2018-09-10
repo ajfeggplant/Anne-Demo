@@ -1,0 +1,8 @@
+﻿2018-09-08 18:13:49.205 -0400	START		Running Edit Apt Time.script	1	execute string	(null)
+2018-09-08 18:13:49.511 -0400	click	FlowBoard	at (339, 182)	3	on_edit_apt_time	Edit Apt Time.script
+2018-09-08 18:14:25.758 -0400	click	PatientName	at (645, 1031)	6	on_edit_apt_time	Edit Apt Time.script
+2018-09-08 18:14:26.104 -0400	typetext		fries[returnKey]	7	on_edit_apt_time	Edit Apt Time.script
+2018-09-08 18:14:28.340 -0400	click	(TEXT:"fries")	at (376, 1089)	10	on_edit_apt_time	Edit Apt Time.script
+2018-09-08 18:16:07.820 -0400	Exception	Appointment	No Image Found On Screen: "Appointment"	11	on_edit_apt_time	Edit Apt Time.script
+2018-09-08 18:16:07.823 -0400	EndTestCase		(Duration:"138.616986", Errors:"1", Exceptions:"1", StartTime:"2018-09-08 18:13:49 -0400", Successes:"0", TestCase:"Edit Apt Time.script", Warnings:"0")	1	execute string	(null)
+2018-09-08 18:16:08.088 -0400	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Appointment" -- Execution Time 0:02:18 Edit Apt Time.script	1	execute string	(null)

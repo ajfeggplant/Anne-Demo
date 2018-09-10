@@ -1,0 +1,5 @@
+﻿2018-09-05 13:46:31.209 -0400	START		Running VerifyApt.script
+2018-09-05 13:47:55.984 -0400	click	FlowBoard	at (309, 179)	6	on_verifyapt	VerifyApt.script
+2018-09-05 13:47:56.574 -0400	click		at current mouse point (309, 179)	9	on_verifyapt	VerifyApt.script
+2018-09-05 13:47:57.005 -0400	EndTestCase		(Duration:"85.794957", Errors:"0", Exceptions:"0", StartTime:"2018-09-05 13:46:31 -0400", Successes:"1", TestCase:"VerifyApt.script", Warnings:"0")
+2018-09-05 13:47:57.026 -0400	SUCCESS		Execution Time 0:01:25 VerifyApt.script

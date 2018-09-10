@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="CreateApt_script" package="Demo.suite" timestamp="2018-09-08 17:45:56.255 -0400"
+ tests="1"  failures="0" errors="0" time="230.750402">
+  <properties>
+   <property name="RunDate" value="2018-09-08 17:45:56.255 -0400"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="CreateApt.script" assertions="1" status="error"  time="230.748527">
+    <error type="Exception" message="Retrieving Frame Buffer:Aborted in freezeFrameBuffer while frozenForDoctor" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,7 @@
+﻿2018-08-28 14:38:50.528 -0400	START		Running Login.script	1	execute string	(null)
+2018-08-28 14:38:50.983 -0400	click	Username	at (635, 411)	3	on_login	Login.script
+2018-08-28 14:38:51.997 -0400	typetext		[tab]	4	on_login	Login.script
+2018-08-28 14:38:52.998 -0400	typetext			5	on_login	Login.script
+2018-08-28 14:38:54.450 -0400	click	LoginButton	at (1271, 584)	6	on_login	Login.script
+2018-08-28 14:39:06.390 -0400	EndTestCase		(Duration:"15.860862", Errors:"1", Exceptions:"0", StartTime:"2018-08-28 14:38:50 -0400", Successes:"0", TestCase:"Login.script", Warnings:"0")	1	execute string	(null)
+2018-08-28 14:39:06.392 -0400	ABORTED		Execution Time 0:00:15 Login.script	1	execute string	(null)

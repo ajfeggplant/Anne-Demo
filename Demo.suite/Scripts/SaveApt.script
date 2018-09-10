@@ -1,0 +1,10 @@
+﻿
+//save the apointment without checking in
+Click "Save"
+wait 1
+if ImageFound("Ok1")
+	Click FoundImageLocation()
+end if
+
+//verify that appointment has closed correctly
+WaitFor 8.0, "Reports"

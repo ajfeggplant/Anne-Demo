@@ -1,0 +1,7 @@
+﻿2018-09-08 16:01:27.916 -0400	START		Running CreateApt.script	1	execute string	(null)
+2018-09-08 16:01:28.732 -0400	click	addNewApt	at (53, 638)	5	on_createapt	CreateApt.script
+2018-09-08 16:01:31.394 -0400	set		SEARCHRECTANGLE = (VisitType_A,VisitType_B)	8	on_createapt	CreateApt.script
+2018-09-08 16:01:31.647 -0400	click	dropDown	at (1448, 364)	9	on_createapt	CreateApt.script
+2018-09-08 16:01:43.910 -0400	LogWarning		OCR Text read in search rect: Category:\nDate:\nTitle:\nOffice Visit\t▼\nO Al\nNo Show\n\nOffice Visit\n• Til\nEstablished Patient\n\nNp\a/ Patipnt\n\n1\tVV 1 G L 1 II L\nHealth and Behavioral Assessment\ndi\nPreventive Care Services\n\nOphthalmological Services\n( \
+2018-09-08 16:02:33.607 -0400	EndTestCase		(Duration:"65.689642", Errors:"1", Exceptions:"0", StartTime:"2018-09-08 16:01:27 -0400", Successes:"0", TestCase:"CreateApt.script", Warnings:"1")	1	execute string	(null)
+2018-09-08 16:02:33.609 -0400	ABORTED		Execution Time 0:01:05 CreateApt.script	1	execute string	(null)

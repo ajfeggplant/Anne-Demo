@@ -1,0 +1,5 @@
+﻿2018-09-10 10:14:08.373 -0400	START		Running CleanUp.script	1	execute string	(null)
+2018-09-10 10:14:08.430 -0400	typetext		[windowsAltKey][F4]	1	on_cleanup	CleanUp.script
+2018-09-10 10:14:10.763 -0400	waitfor	Chrome	found at (79, 253)	2	on_cleanup	CleanUp.script
+2018-09-10 10:14:10.780 -0400	EndTestCase		(Duration:"2.405138", Errors:"0", Exceptions:"0", StartTime:"2018-09-10 10:14:08 -0400", Successes:"1", TestCase:"CleanUp.script", Warnings:"0")	1	execute string	(null)
+2018-09-10 10:14:10.816 -0400	SUCCESS		Execution Time 0:00:02 CleanUp.script	1	execute string	(null)

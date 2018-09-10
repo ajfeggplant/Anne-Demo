@@ -1,0 +1,4 @@
+﻿2018-09-05 11:02:06.061 -0400	START		Running CreateApt.script	1	execute string	(null)
+2018-09-05 11:02:25.440 -0400	Exception	addNewApt	No Image Found On Screen: "addNewApt"	3	on_createapt	CreateApt.script
+2018-09-05 11:02:25.443 -0400	EndTestCase		(Duration:"19.381052", Errors:"1", Exceptions:"1", StartTime:"2018-09-05 11:02:06 -0400", Successes:"0", TestCase:"CreateApt.script", Warnings:"0")	1	execute string	(null)
+2018-09-05 11:02:25.649 -0400	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "addNewApt" -- Execution Time 0:00:19 CreateApt.script	1	execute string	(null)

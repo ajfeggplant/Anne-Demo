@@ -1,0 +1,3 @@
+﻿2018-09-05 14:40:58.708 -0400	START		Running CreateApt.script
+2018-09-05 14:41:14.966 -0400	EndTestCase		(Duration:"16.255038", Errors:"1", Exceptions:"0", StartTime:"2018-09-05 14:40:58 -0400", Successes:"0", TestCase:"CreateApt.script", Warnings:"0")
+2018-09-05 14:41:14.968 -0400	ABORTED		Execution Time 0:00:16 CreateApt.script

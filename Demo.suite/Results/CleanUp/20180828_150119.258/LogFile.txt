@@ -1,0 +1,5 @@
+﻿2018-08-28 15:01:19.259 -0400	START		Running CleanUp.script	1	execute string	(null)
+2018-08-28 15:01:19.734 -0400	click	closeX	at (1898, 14)	1	on_cleanup	CleanUp.script
+2018-08-28 15:01:22.442 -0400	waitfor	background	found at (1465, 635)	2	on_cleanup	CleanUp.script
+2018-08-28 15:01:22.443 -0400	EndTestCase		(Duration:"3.18288", Errors:"0", Exceptions:"0", StartTime:"2018-08-28 15:01:19 -0400", Successes:"1", TestCase:"CleanUp.script", Warnings:"0")	1	execute string	(null)
+2018-08-28 15:01:22.512 -0400	SUCCESS		Execution Time 0:00:03 CleanUp.script	1	execute string	(null)

@@ -1,0 +1,3 @@
+﻿2018-09-08 17:31:21.809 -0400	START		Running SaveApt.script	1	execute string	(null)
+2018-09-08 17:31:21.811 -0400	EndTestCase		(Duration:"0.000487", Errors:"1", Exceptions:"0", StartTime:"2018-09-08 17:31:21 -0400", Successes:"0", TestCase:"SaveApt.script", Warnings:"0")	1	execute string	(null)
+2018-09-08 17:31:22.686 -0400	FAILURE	Screen_Error.png	SenseTalk Compiler Exception in saveapt:\nSyntax Error at line 6: Syntax Error - can't understand "end" at or near character 78 -- Execution Time 0:00:00 SaveApt.script	1	execute string	(null)

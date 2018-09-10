@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Login_script" package="Demo.suite" timestamp="2018-08-29 09:54:23.577 -0400"
+ tests="1"  failures="0" errors="0" time="6.419865">
+  <properties>
+   <property name="RunDate" value="2018-08-29 09:54:23.577 -0400"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="Login.script" assertions="1" status="error"  time="6.417831">
+    <error type="Exception" message="No Image Found On Screen: &quot;Username&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Edit Apt Time_script" package="Demo.suite" timestamp="2018-09-10 10:34:38.253 -0400"
+ tests="1"  failures="0" errors="0" time="19.609774">
+  <properties>
+   <property name="RunDate" value="2018-09-10 10:34:38.253 -0400"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Edit Apt Time.script" assertions="1" status="success"  time="19.6079">
+  </testcase>
+ </testsuite>
+</testsuites>

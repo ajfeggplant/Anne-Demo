@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="SaveAptAsWalkIn_script" package="Demo.suite" timestamp="2018-09-05 11:11:26.918 -0400"
+ tests="1"  failures="0" errors="0" time="33.481172">
+  <properties>
+   <property name="RunDate" value="2018-09-05 11:11:26.918 -0400"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="SaveAptAsWalkIn.script" assertions="1" status="success"  time="33.479311">
+  </testcase>
+ </testsuite>
+</testsuites>

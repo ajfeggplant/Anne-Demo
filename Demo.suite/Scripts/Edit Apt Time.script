@@ -1,0 +1,25 @@
+﻿params provider, visitType, ptName
+
+Click "FlowBoard"
+
+//change filter
+Click "PatientName"
+TypeText ptName, returnkey
+
+//check in apt
+Click (text:"Eggplant,"&&ptName, DPI:170)
+Click (Image:"Appointment")
+wait 2
+Click (Image:"Time")
+wait 2
+typetext backspace,  backspace
+typetext random(8,16), returnkey
+ScrollWheelDown 20
+click "Save"
+wait 3
+
+
+
+
+
+

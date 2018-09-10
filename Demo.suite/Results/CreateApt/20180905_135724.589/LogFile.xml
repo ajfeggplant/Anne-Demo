@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="CreateApt_script" package="Demo.suite" timestamp="2018-09-05 13:57:24.589 -0400"
+ tests="1"  failures="1" errors="0" time="62.286083">
+  <properties>
+   <property name="RunDate" value="2018-09-05 13:57:24.589 -0400"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="CreateApt.script" assertions="1" status="failure"  time="62.283789">
+    <failure type="FAILURE" message="SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got '((719,567),(719,634),(719,701),(719,768))'. -- Execution Time 0:01:02 CreateApt.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

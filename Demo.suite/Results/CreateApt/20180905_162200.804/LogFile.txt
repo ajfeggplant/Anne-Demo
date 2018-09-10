@@ -1,0 +1,10 @@
+﻿2018-09-05 16:22:00.805 -0400	START		Running CreateApt.script	1	execute string	(null)
+2018-09-05 16:22:01.421 -0400	click	PatientClient	at (956, 183)	4	function_createpatient	CreatePatient.script
+2018-09-05 16:22:02.586 -0400	click	NewSearch	at (958, 346)	5	function_createpatient	CreatePatient.script
+2018-09-05 16:22:27.326 -0400	typetext		ttttt	8	function_createpatient	CreatePatient.script
+2018-09-05 16:22:34.221 -0400	typetext		[downArrow]	9	function_createpatient	CreatePatient.script
+2018-09-05 16:22:34.734 -0400	typetext		t	10	function_createpatient	CreatePatient.script
+2018-09-05 16:22:47.546 -0400	typetext		tt	11	function_createpatient	CreatePatient.script
+2018-09-05 16:22:48.077 -0400	typetext		tt	12	function_createpatient	CreatePatient.script
+2018-09-05 16:24:08.491 -0400	EndTestCase		(Duration:"127.685172", Errors:"1", Exceptions:"0", StartTime:"2018-09-05 16:22:00 -0400", Successes:"0", TestCase:"CreateApt.script", Warnings:"0")	1	execute string	(null)
+2018-09-05 16:24:08.493 -0400	ABORTED		Execution Time 0:02:07 CreateApt.script	1	execute string	(null)

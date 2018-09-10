@@ -1,0 +1,6 @@
+﻿2018-08-28 14:07:03.607 -0400	START		Running Launch EMR.script
+2018-08-28 14:07:03.972 -0400	doubleclick	Chrome	at (38, 240)	1	on_launch_emr	Launch EMR.script
+2018-08-28 14:07:06.649 -0400	click	addressbar	at (152, 48)	2	on_launch_emr	Launch EMR.script
+2018-08-28 14:07:07.985 -0400	typetext		demo.openemr.io/c/openemr[returnKey]	3	on_launch_emr	Launch EMR.script
+2018-08-28 14:07:08.248 -0400	EndTestCase		(Duration:"4.63999", Errors:"0", Exceptions:"0", StartTime:"2018-08-28 14:07:03 -0400", Successes:"1", TestCase:"Launch EMR.script", Warnings:"0")
+2018-08-28 14:07:08.266 -0400	SUCCESS		Execution Time 0:00:04 Launch EMR.script

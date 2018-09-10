@@ -1,0 +1,22 @@
+﻿2018-09-08 18:13:08.378 -0400	START		Running CreateApt.script	1	execute string	(null)
+2018-09-08 18:13:09.409 -0400	click	addNewApt	at (53, 591)	5	on_createapt	CreateApt.script
+2018-09-08 18:13:11.992 -0400	set		SEARCHRECTANGLE = (VisitType_A,VisitType_B)	8	on_createapt	CreateApt.script
+2018-09-08 18:13:13.103 -0400	click	dropDown	at (1465, 364)	9	on_createapt	CreateApt.script
+2018-09-08 18:13:14.391 -0400	click	(TEXT:"Office Visit")	at (840, 363)	10	on_createapt	CreateApt.script
+2018-09-08 18:13:14.606 -0400	typetext		[tab]	13	on_createapt	CreateApt.script
+2018-09-08 18:13:14.942 -0400	typetext		[returnKey]	14	on_createapt	CreateApt.script
+2018-09-08 18:13:16.026 -0400	typetext		[tab]	16	on_createapt	CreateApt.script
+2018-09-08 18:13:16.264 -0400	typetext		13[returnKey]	17	on_createapt	CreateApt.script
+2018-09-08 18:13:16.273 -0400	set		SEARCHRECTANGLE = ()	18	on_createapt	CreateApt.script
+2018-09-08 18:13:20.727 -0400	set		SEARCHRECTANGLE = (apointmentPopUp_A,apointmentPopUp_B)	21	on_createapt	CreateApt.script
+2018-09-08 18:13:21.910 -0400	click	Patient_1	at (776, 854)	24	on_createapt	CreateApt.script
+2018-09-08 18:13:24.408 -0400	typetext		fries[return]	26	on_createapt	CreateApt.script
+2018-09-08 18:13:26.147 -0400	set		SEARCHRECTANGLE = (PatientSearchName,apointmentPopUp_B)	27	on_createapt	CreateApt.script
+2018-09-08 18:13:26.967 -0400	click	(TEXT:"fries")	at (829, 563)	28	on_createapt	CreateApt.script
+2018-09-08 18:13:30.379 -0400	set		SEARCHRECTANGLE = ()	30	on_createapt	CreateApt.script
+2018-09-08 18:13:34.809 -0400	set		SEARCHRECTANGLE = (apointmentPopUp_A,apointmentPopUp_B)	31	on_createapt	CreateApt.script
+2018-09-08 18:13:37.433 -0400	waitfor	(TEXT:"Smith")	found at (814, 951)	33	on_createapt	CreateApt.script
+2018-09-08 18:13:39.706 -0400	waitfor	(TEXT:"Office Visit")	found at (829, 563)	34	on_createapt	CreateApt.script
+2018-09-08 18:13:39.714 -0400	set		SEARCHRECTANGLE = ()	36	on_createapt	CreateApt.script
+2018-09-08 18:13:39.715 -0400	EndTestCase		(Duration:"31.334323", Errors:"0", Exceptions:"0", StartTime:"2018-09-08 18:13:08 -0400", Successes:"1", TestCase:"CreateApt.script", Warnings:"0")	1	execute string	(null)
+2018-09-08 18:13:40.085 -0400	SUCCESS		Execution Time 0:00:31 CreateApt.script	1	execute string	(null)

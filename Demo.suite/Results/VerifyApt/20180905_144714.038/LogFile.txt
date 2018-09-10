@@ -1,0 +1,8 @@
+﻿2018-09-05 14:47:14.039 -0400	START		Running VerifyApt.script	1	execute string	(null)
+2018-09-05 14:49:29.136 -0400	click	FlowBoard	at (339, 182)	3	on_verifyapt	VerifyApt.script
+2018-09-05 14:49:30.569 -0400	click	PatientName	at (647, 1031)	5	on_verifyapt	VerifyApt.script
+2018-09-05 14:49:36.596 -0400	typetext		aubergine[returnKey]	6	on_verifyapt	VerifyApt.script
+2018-09-05 14:50:23.231 -0400	set		SEARCHRECTANGLE = (flowBoard_A,flowBoard_B)	8	on_verifyapt	VerifyApt.script
+2018-09-05 14:50:34.476 -0400	Log		Visit Completed	9	on_verifyapt	VerifyApt.script
+2018-09-05 14:50:35.037 -0400	EndTestCase		(Duration:"200.996289", Errors:"0", Exceptions:"0", StartTime:"2018-09-05 14:47:14 -0400", Successes:"1", TestCase:"VerifyApt.script", Warnings:"0")	1	execute string	(null)
+2018-09-05 14:50:35.058 -0400	SUCCESS		Execution Time 0:03:20 VerifyApt.script	1	execute string	(null)

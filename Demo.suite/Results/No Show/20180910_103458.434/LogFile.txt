@@ -1,0 +1,4 @@
+﻿2018-09-10 10:34:58.435 -0400	START		Running No Show.script	1	execute string	(null)
+2018-09-10 10:35:15.313 -0400	Exception	FlowBoard	No Image Found On Screen: "FlowBoard"	3	on_no_show	No Show.script
+2018-09-10 10:35:15.318 -0400	EndTestCase		(Duration:"16.880767", Errors:"1", Exceptions:"1", StartTime:"2018-09-10 10:34:58 -0400", Successes:"0", TestCase:"No Show.script", Warnings:"0")	1	execute string	(null)
+2018-09-10 10:35:15.530 -0400	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "FlowBoard" -- Execution Time 0:00:16 No Show.script	1	execute string	(null)

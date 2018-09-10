@@ -1,0 +1,16 @@
+﻿2018-09-05 16:19:04.178 -0400	START		Running CreateApt.script	1	execute string	(null)
+2018-09-05 16:19:04.795 -0400	click	PatientClient	at (956, 183)	4	function_createpatient	CreatePatient.script
+2018-09-05 16:19:05.922 -0400	click	NewSearch	at (958, 346)	5	function_createpatient	CreatePatient.script
+2018-09-05 16:19:08.022 -0400	typetext		ttttt	8	function_createpatient	CreatePatient.script
+2018-09-05 16:19:08.534 -0400	typetext		[downArrow]	9	function_createpatient	CreatePatient.script
+2018-09-05 16:19:09.054 -0400	typetext		t	10	function_createpatient	CreatePatient.script
+2018-09-05 16:19:09.623 -0400	typetext		POCtt	11	function_createpatient	CreatePatient.script
+2018-09-05 16:19:10.262 -0400	typetext		melongenott	12	function_createpatient	CreatePatient.script
+2018-09-05 16:19:10.839 -0400	typetext		20071t	13	function_createpatient	CreatePatient.script
+2018-09-05 16:19:11.366 -0400	typetext		[downArrow]t	14	function_createpatient	CreatePatient.script
+2018-09-05 16:19:11.999 -0400	typetext		510077497t	15	function_createpatient	CreatePatient.script
+2018-09-05 16:19:13.087 -0400	click	CreateNewPatient	at (456, 874)	16	function_createpatient	CreatePatient.script
+2018-09-05 16:21:32.438 -0400	click	ConfirmCreateNewPatient	at (801, 1192)	17	function_createpatient	CreatePatient.script
+2018-09-05 16:21:58.768 -0400	click	Ok1	at (1696, 661)	19	function_createpatient	CreatePatient.script
+2018-09-05 16:21:59.012 -0400	EndTestCase		(Duration:"174.832557", Errors:"1", Exceptions:"0", StartTime:"2018-09-05 16:19:04 -0400", Successes:"0", TestCase:"CreateApt.script", Warnings:"0")	1	execute string	(null)
+2018-09-05 16:21:59.493 -0400	FAILURE	Screen_Error.png	SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got ''. -- Execution Time 0:02:54 CreateApt.script	1	execute string	(null)

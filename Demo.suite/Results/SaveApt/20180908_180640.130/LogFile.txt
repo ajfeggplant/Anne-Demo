@@ -1,0 +1,6 @@
+﻿2018-09-08 18:06:40.131 -0400	START		Running SaveApt.script	1	execute string	(null)
+2018-09-08 18:06:41.082 -0400	click	Save	at (578, 1506)	3	on_saveapt	SaveApt.script
+2018-09-08 18:09:36.141 -0400	click	Ok1	at (1540, 317)	4	on_saveapt	SaveApt.script
+2018-09-08 18:09:36.278 -0400	Exception	IT	Could Not Open Image: IT	5	on_saveapt	SaveApt.script
+2018-09-08 18:09:36.282 -0400	EndTestCase		(Duration:"176.149345", Errors:"1", Exceptions:"1", StartTime:"2018-09-08 18:06:40 -0400", Successes:"0", TestCase:"SaveApt.script", Warnings:"0")	1	execute string	(null)
+2018-09-08 18:09:36.651 -0400	FAILURE	Screen_Error.png	File Not Found click Error - Could Not Open Image: IT -- Execution Time 0:02:56 SaveApt.script	1	execute string	(null)

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="VerifyApt_script" package="Demo.suite" timestamp="2018-09-05 11:35:27.519 -0400"
+ tests="1"  failures="0" errors="0" time="0.028193">
+  <properties>
+   <property name="RunDate" value="2018-09-05 11:35:27.519 -0400"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="VerifyApt.script" assertions="1" status="success"  time="0.026471">
+  </testcase>
+ </testsuite>
+</testsuites>

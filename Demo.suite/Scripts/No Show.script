@@ -1,0 +1,16 @@
+﻿params provider, visitType, ptName
+
+Click "FlowBoard"
+
+//change filter
+Click "PatientName"
+TypeText ptName, returnkey
+wait 2
+
+//check in apt
+Click "aptStatus"
+click "-None"
+click "Noshow"
+click "Save"
+
+WaitFor "Noshow_1_Apt"

@@ -1,0 +1,10 @@
+﻿2018-09-08 21:10:22.436 -0400	START		Running No Show.script	1	execute string	(null)
+2018-09-08 21:10:22.632 -0400	click	FlowBoard	at (339, 182)	3	on_no_show	No Show.script
+2018-09-08 21:10:23.813 -0400	click	PatientName	at (645, 1031)	6	on_no_show	No Show.script
+2018-09-08 21:10:24.103 -0400	typetext		caviar[returnKey]	7	on_no_show	No Show.script
+2018-09-08 21:10:24.920 -0400	click	aptStatus	at (1317, 1368)	10	on_no_show	No Show.script
+2018-09-08 21:11:18.623 -0400	click	-None	at (936, 488)	11	on_no_show	No Show.script
+2018-09-08 21:11:19.068 -0400	click	Arrived	at (959, 776)	12	on_no_show	No Show.script
+2018-09-08 21:11:20.684 -0400	click	Save	at (934, 715)	13	on_no_show	No Show.script
+2018-09-08 21:11:20.687 -0400	EndTestCase		(Duration:"58.249703", Errors:"0", Exceptions:"0", StartTime:"2018-09-08 21:10:22 -0400", Successes:"1", TestCase:"No Show.script", Warnings:"0")	1	execute string	(null)
+2018-09-08 21:11:20.818 -0400	SUCCESS		Execution Time 0:00:58 No Show.script	1	execute string	(null)

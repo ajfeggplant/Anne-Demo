@@ -1,0 +1,4 @@
+﻿2018-09-08 17:49:47.256 -0400	START		Running SaveAptAsWalkIn.script	1	execute string	(null)
+2018-09-08 17:50:45.202 -0400	Exception		Retrieving Frame Buffer:Aborted in freezeFrameBuffer while frozenForDoctor	3	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-09-08 17:50:45.206 -0400	EndTestCase		(Duration:"57.948638", Errors:"1", Exceptions:"1", StartTime:"2018-09-08 17:49:47 -0400", Successes:"0", TestCase:"SaveAptAsWalkIn.script", Warnings:"0")	1	execute string	(null)
+2018-09-08 17:50:45.210 -0400	ABORTED		Execution Time 0:00:57 SaveAptAsWalkIn.script	1	execute string	(null)

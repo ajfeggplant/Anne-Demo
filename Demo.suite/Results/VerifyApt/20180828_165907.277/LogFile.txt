@@ -1,0 +1,6 @@
+﻿2018-08-28 16:59:07.278 -0400	START		Running VerifyApt.script
+2018-08-28 16:59:07.903 -0400	set		SEARCHRECTANGLE = (flowBoard_A,flowBoard_B)	6	on_verifyapt	VerifyApt.script
+2018-08-28 16:59:08.452 -0400	waitfor	(TEXT:"Doe, Jane")	found at (165, 586)	8	on_verifyapt	VerifyApt.script
+2018-08-28 16:59:08.453 -0400	Exception		Image Property List did not contain "ImageName" property	10	on_verifyapt	VerifyApt.script
+2018-08-28 16:59:08.906 -0400	EndTestCase		(Duration:"1.62695", Errors:"1", Exceptions:"1", StartTime:"2018-08-28 16:59:07 -0400", Successes:"0", TestCase:"VerifyApt.script", Warnings:"0")
+2018-08-28 16:59:09.009 -0400	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Image Property List did not contain "ImageName" property  Restricted Search Rectangle ((55,573),(1906,703))\n -- Execution Time 0:00:01 VerifyApt.script

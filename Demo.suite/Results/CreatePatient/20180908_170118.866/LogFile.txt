@@ -1,0 +1,364 @@
+﻿2018-09-08 17:01:18.868 -0400	START		Running CreatePatient.script
+2018-09-08 17:01:19.586 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 17:01:21.290 -0400	click	NewSearch	at (958, 346)	10	on_createpatient	CreatePatient.script
+2018-09-08 17:01:24.434 -0400	typetext		[tab][tab][tab][tab][tab][tab][tab][tab][tab]	15	on_createpatient	CreatePatient.script
+2018-09-08 17:01:24.651 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:01:24.866 -0400	typetext		[tab]	21	on_createpatient	CreatePatient.script
+2018-09-08 17:01:25.195 -0400	typetext		moussaka[tab][tab]	23	on_createpatient	CreatePatient.script
+2018-09-08 17:01:25.528 -0400	typetext		Eggplant[tab][tab]	25	on_createpatient	CreatePatient.script
+2018-09-08 17:01:25.856 -0400	typetext		1973/10/3[tab]	27	on_createpatient	CreatePatient.script
+2018-09-08 17:01:26.071 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:01:26.288 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:01:26.503 -0400	typetext		[tab]	32	on_createpatient	CreatePatient.script
+2018-09-08 17:01:26.831 -0400	typetext		445891039[tab]	35	on_createpatient	CreatePatient.script
+2018-09-08 17:01:27.238 -0400	click	CreateNewPatient	at (456, 921)	38	on_createpatient	CreatePatient.script
+2018-09-08 17:01:28.766 -0400	click	ConfirmCreateNewPatient	at (801, 1192)	39	on_createpatient	CreatePatient.script
+2018-09-08 17:01:35.818 -0400	click	Ok1	at (1696, 517)	41	on_createpatient	CreatePatient.script
+2018-09-08 17:01:37.063 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 17:01:38.696 -0400	click	NewSearch	at (958, 346)	10	on_createpatient	CreatePatient.script
+2018-09-08 17:01:41.838 -0400	typetext		[tab][tab][tab][tab][tab][tab][tab][tab][tab]	15	on_createpatient	CreatePatient.script
+2018-09-08 17:01:42.054 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:01:42.272 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:01:42.486 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:01:42.701 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:01:42.915 -0400	typetext		[tab]	21	on_createpatient	CreatePatient.script
+2018-09-08 17:01:43.247 -0400	typetext		stir-fry[tab][tab]	23	on_createpatient	CreatePatient.script
+2018-09-08 17:01:43.577 -0400	typetext		Eggplant[tab][tab]	25	on_createpatient	CreatePatient.script
+2018-09-08 17:01:43.906 -0400	typetext		1972/6/16[tab]	27	on_createpatient	CreatePatient.script
+2018-09-08 17:01:44.119 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:01:44.335 -0400	typetext		[tab]	32	on_createpatient	CreatePatient.script
+2018-09-08 17:01:44.660 -0400	typetext		833869913[tab]	35	on_createpatient	CreatePatient.script
+2018-09-08 17:01:45.120 -0400	click	CreateNewPatient	at (456, 921)	38	on_createpatient	CreatePatient.script
+2018-09-08 17:01:46.547 -0400	click	ConfirmCreateNewPatient	at (801, 1192)	39	on_createpatient	CreatePatient.script
+2018-09-08 17:01:53.509 -0400	click	Ok1	at (1696, 597)	41	on_createpatient	CreatePatient.script
+2018-09-08 17:01:53.956 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 17:01:55.546 -0400	click	NewSearch	at (958, 346)	10	on_createpatient	CreatePatient.script
+2018-09-08 17:01:58.742 -0400	typetext		[tab][tab][tab][tab][tab][tab][tab][tab][tab]	15	on_createpatient	CreatePatient.script
+2018-09-08 17:01:58.956 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:01:59.168 -0400	typetext		[tab]	21	on_createpatient	CreatePatient.script
+2018-09-08 17:01:59.486 -0400	typetext		curried[tab][tab]	23	on_createpatient	CreatePatient.script
+2018-09-08 17:01:59.818 -0400	typetext		Eggplant[tab][tab]	25	on_createpatient	CreatePatient.script
+2018-09-08 17:02:00.156 -0400	typetext		1984/11/14[tab]	27	on_createpatient	CreatePatient.script
+2018-09-08 17:02:00.372 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:02:00.588 -0400	typetext		[tab]	32	on_createpatient	CreatePatient.script
+2018-09-08 17:02:00.910 -0400	typetext		564131609[tab]	35	on_createpatient	CreatePatient.script
+2018-09-08 17:02:01.317 -0400	click	CreateNewPatient	at (456, 921)	38	on_createpatient	CreatePatient.script
+2018-09-08 17:02:02.727 -0400	click	ConfirmCreateNewPatient	at (801, 1192)	39	on_createpatient	CreatePatient.script
+2018-09-08 17:02:09.600 -0400	click	Ok1	at (1696, 557)	41	on_createpatient	CreatePatient.script
+2018-09-08 17:02:10.037 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 17:02:11.723 -0400	click	NewSearch	at (958, 346)	10	on_createpatient	CreatePatient.script
+2018-09-08 17:02:14.879 -0400	typetext		[tab][tab][tab][tab][tab][tab][tab][tab][tab]	15	on_createpatient	CreatePatient.script
+2018-09-08 17:02:15.091 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:02:15.307 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:02:15.522 -0400	typetext		[tab]	21	on_createpatient	CreatePatient.script
+2018-09-08 17:02:15.814 -0400	typetext		salad[tab][tab]	23	on_createpatient	CreatePatient.script
+2018-09-08 17:02:16.139 -0400	typetext		Eggplant[tab][tab]	25	on_createpatient	CreatePatient.script
+2018-09-08 17:02:16.473 -0400	typetext		1983/1/25[tab]	27	on_createpatient	CreatePatient.script
+2018-09-08 17:02:16.691 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:02:16.907 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:02:17.120 -0400	typetext		[tab]	32	on_createpatient	CreatePatient.script
+2018-09-08 17:02:17.442 -0400	typetext		372553978[tab]	35	on_createpatient	CreatePatient.script
+2018-09-08 17:02:17.889 -0400	click	CreateNewPatient	at (456, 921)	38	on_createpatient	CreatePatient.script
+2018-09-08 17:02:19.389 -0400	click	ConfirmCreateNewPatient	at (801, 1192)	39	on_createpatient	CreatePatient.script
+2018-09-08 17:02:25.934 -0400	click	Ok1	at (1696, 557)	41	on_createpatient	CreatePatient.script
+2018-09-08 17:02:26.371 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 17:02:27.996 -0400	click	NewSearch	at (958, 346)	10	on_createpatient	CreatePatient.script
+2018-09-08 17:02:31.155 -0400	typetext		[tab][tab][tab][tab][tab][tab][tab][tab][tab]	15	on_createpatient	CreatePatient.script
+2018-09-08 17:02:31.373 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:02:31.587 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:02:31.802 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:02:32.015 -0400	typetext		[tab]	21	on_createpatient	CreatePatient.script
+2018-09-08 17:02:32.318 -0400	typetext		caviar[tab][tab]	23	on_createpatient	CreatePatient.script
+2018-09-08 17:02:32.645 -0400	typetext		Eggplant[tab][tab]	25	on_createpatient	CreatePatient.script
+2018-09-08 17:02:32.973 -0400	typetext		1968/3/20[tab]	27	on_createpatient	CreatePatient.script
+2018-09-08 17:02:33.190 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:02:33.405 -0400	typetext		[tab]	32	on_createpatient	CreatePatient.script
+2018-09-08 17:02:33.732 -0400	typetext		262823614[tab]	35	on_createpatient	CreatePatient.script
+2018-09-08 17:02:34.181 -0400	click	CreateNewPatient	at (456, 921)	38	on_createpatient	CreatePatient.script
+2018-09-08 17:02:35.653 -0400	click	ConfirmCreateNewPatient	at (801, 1192)	39	on_createpatient	CreatePatient.script
+2018-09-08 17:02:42.288 -0400	click	Ok1	at (1696, 661)	41	on_createpatient	CreatePatient.script
+2018-09-08 17:02:42.716 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 17:02:44.313 -0400	click	NewSearch	at (958, 346)	10	on_createpatient	CreatePatient.script
+2018-09-08 17:02:47.471 -0400	typetext		[tab][tab][tab][tab][tab][tab][tab][tab][tab]	15	on_createpatient	CreatePatient.script
+2018-09-08 17:02:47.687 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:02:47.905 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:02:48.120 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:02:48.335 -0400	typetext		[tab]	21	on_createpatient	CreatePatient.script
+2018-09-08 17:02:48.707 -0400	typetext		ratatouille[tab][tab]	23	on_createpatient	CreatePatient.script
+2018-09-08 17:02:49.035 -0400	typetext		Eggplant[tab][tab]	25	on_createpatient	CreatePatient.script
+2018-09-08 17:02:49.351 -0400	typetext		2000/7/4[tab]	27	on_createpatient	CreatePatient.script
+2018-09-08 17:02:49.566 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:02:49.783 -0400	typetext		[tab]	32	on_createpatient	CreatePatient.script
+2018-09-08 17:02:50.113 -0400	typetext		448186426[tab]	35	on_createpatient	CreatePatient.script
+2018-09-08 17:02:50.570 -0400	click	CreateNewPatient	at (456, 921)	38	on_createpatient	CreatePatient.script
+2018-09-08 17:02:52.019 -0400	click	ConfirmCreateNewPatient	at (801, 1192)	39	on_createpatient	CreatePatient.script
+2018-09-08 17:02:59.760 -0400	click	Ok1	at (1696, 557)	41	on_createpatient	CreatePatient.script
+2018-09-08 17:03:00.194 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 17:03:01.798 -0400	click	NewSearch	at (958, 346)	10	on_createpatient	CreatePatient.script
+2018-09-08 17:03:05.002 -0400	typetext		[tab][tab][tab][tab][tab][tab][tab][tab][tab]	15	on_createpatient	CreatePatient.script
+2018-09-08 17:03:05.217 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:03:05.429 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:03:05.641 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:03:05.854 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:03:06.070 -0400	typetext		[tab]	21	on_createpatient	CreatePatient.script
+2018-09-08 17:03:06.403 -0400	typetext		sandwich[tab][tab]	23	on_createpatient	CreatePatient.script
+2018-09-08 17:03:06.729 -0400	typetext		Eggplant[tab][tab]	25	on_createpatient	CreatePatient.script
+2018-09-08 17:03:07.053 -0400	typetext		1966/12/5[tab]	27	on_createpatient	CreatePatient.script
+2018-09-08 17:03:07.268 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:03:07.482 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:03:07.694 -0400	typetext		[tab]	32	on_createpatient	CreatePatient.script
+2018-09-08 17:03:08.020 -0400	typetext		865303127[tab]	35	on_createpatient	CreatePatient.script
+2018-09-08 17:03:08.477 -0400	click	CreateNewPatient	at (456, 921)	38	on_createpatient	CreatePatient.script
+2018-09-08 17:03:09.977 -0400	click	ConfirmCreateNewPatient	at (801, 1192)	39	on_createpatient	CreatePatient.script
+2018-09-08 17:03:17.603 -0400	click	Ok1	at (1696, 637)	41	on_createpatient	CreatePatient.script
+2018-09-08 17:03:18.787 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 17:03:20.548 -0400	click	NewSearch	at (958, 346)	10	on_createpatient	CreatePatient.script
+2018-09-08 17:03:23.683 -0400	typetext		[tab][tab][tab][tab][tab][tab][tab][tab][tab]	15	on_createpatient	CreatePatient.script
+2018-09-08 17:03:23.897 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:03:24.110 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:03:24.328 -0400	typetext		[tab]	21	on_createpatient	CreatePatient.script
+2018-09-08 17:03:24.649 -0400	typetext		braised[tab][tab]	23	on_createpatient	CreatePatient.script
+2018-09-08 17:03:24.979 -0400	typetext		Eggplant[tab][tab]	25	on_createpatient	CreatePatient.script
+2018-09-08 17:03:25.307 -0400	typetext		1973/9/27[tab]	27	on_createpatient	CreatePatient.script
+2018-09-08 17:03:25.522 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:03:25.736 -0400	typetext		[tab]	32	on_createpatient	CreatePatient.script
+2018-09-08 17:03:26.067 -0400	typetext		381622860[tab]	35	on_createpatient	CreatePatient.script
+2018-09-08 17:03:26.545 -0400	click	CreateNewPatient	at (456, 921)	38	on_createpatient	CreatePatient.script
+2018-09-08 17:03:27.919 -0400	click	ConfirmCreateNewPatient	at (801, 1192)	39	on_createpatient	CreatePatient.script
+2018-09-08 17:03:34.430 -0400	click	Ok1	at (1696, 597)	41	on_createpatient	CreatePatient.script
+2018-09-08 17:03:34.861 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 17:03:36.463 -0400	click	NewSearch	at (958, 346)	10	on_createpatient	CreatePatient.script
+2018-09-08 17:03:39.626 -0400	typetext		[tab][tab][tab][tab][tab][tab][tab][tab][tab]	15	on_createpatient	CreatePatient.script
+2018-09-08 17:03:39.842 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:03:40.058 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:03:40.274 -0400	typetext		[tab]	21	on_createpatient	CreatePatient.script
+2018-09-08 17:03:40.653 -0400	typetext		baba ganoush[tab][tab]	23	on_createpatient	CreatePatient.script
+2018-09-08 17:03:40.984 -0400	typetext		Eggplant[tab][tab]	25	on_createpatient	CreatePatient.script
+2018-09-08 17:03:41.299 -0400	typetext		1990/9/8[tab]	27	on_createpatient	CreatePatient.script
+2018-09-08 17:03:41.515 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:03:41.729 -0400	typetext		[tab]	32	on_createpatient	CreatePatient.script
+2018-09-08 17:03:42.060 -0400	typetext		159187517[tab]	35	on_createpatient	CreatePatient.script
+2018-09-08 17:03:42.457 -0400	click	CreateNewPatient	at (456, 921)	38	on_createpatient	CreatePatient.script
+2018-09-08 17:03:44.059 -0400	click	ConfirmCreateNewPatient	at (801, 1192)	39	on_createpatient	CreatePatient.script
+2018-09-08 17:03:55.939 -0400	click	Ok1	at (1696, 557)	41	on_createpatient	CreatePatient.script
+2018-09-08 17:04:17.811 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 17:04:19.148 -0400	click	NewSearch	at (958, 346)	10	on_createpatient	CreatePatient.script
+2018-09-08 17:04:22.343 -0400	typetext		[tab][tab][tab][tab][tab][tab][tab][tab][tab]	15	on_createpatient	CreatePatient.script
+2018-09-08 17:04:22.561 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:04:22.778 -0400	typetext		[tab]	21	on_createpatient	CreatePatient.script
+2018-09-08 17:04:23.109 -0400	typetext		caponata[tab][tab]	23	on_createpatient	CreatePatient.script
+2018-09-08 17:04:23.437 -0400	typetext		Eggplant[tab][tab]	25	on_createpatient	CreatePatient.script
+2018-09-08 17:04:23.745 -0400	typetext		1966/1/3[tab]	27	on_createpatient	CreatePatient.script
+2018-09-08 17:04:23.958 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:04:24.172 -0400	typetext		[tab]	32	on_createpatient	CreatePatient.script
+2018-09-08 17:04:24.499 -0400	typetext		351705494[tab]	35	on_createpatient	CreatePatient.script
+2018-09-08 17:04:24.892 -0400	click	CreateNewPatient	at (456, 921)	38	on_createpatient	CreatePatient.script
+2018-09-08 17:04:26.358 -0400	click	ConfirmCreateNewPatient	at (801, 1192)	39	on_createpatient	CreatePatient.script
+2018-09-08 17:04:37.686 -0400	click	Ok1	at (1696, 661)	41	on_createpatient	CreatePatient.script
+2018-09-08 17:04:38.129 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 17:04:39.855 -0400	click	NewSearch	at (958, 346)	10	on_createpatient	CreatePatient.script
+2018-09-08 17:04:43.043 -0400	typetext		[tab][tab][tab][tab][tab][tab][tab][tab][tab]	15	on_createpatient	CreatePatient.script
+2018-09-08 17:04:43.256 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:04:43.475 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:04:43.693 -0400	typetext		[tab]	21	on_createpatient	CreatePatient.script
+2018-09-08 17:04:43.975 -0400	typetext		Tian[tab][tab]	23	on_createpatient	CreatePatient.script
+2018-09-08 17:04:44.298 -0400	typetext		Eggplant[tab][tab]	25	on_createpatient	CreatePatient.script
+2018-09-08 17:04:44.631 -0400	typetext		1963/5/16[tab]	27	on_createpatient	CreatePatient.script
+2018-09-08 17:04:44.847 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:04:45.063 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:04:45.279 -0400	typetext		[tab]	32	on_createpatient	CreatePatient.script
+2018-09-08 17:04:45.610 -0400	typetext		735032366[tab]	35	on_createpatient	CreatePatient.script
+2018-09-08 17:04:46.030 -0400	click	CreateNewPatient	at (456, 921)	38	on_createpatient	CreatePatient.script
+2018-09-08 17:04:47.503 -0400	click	ConfirmCreateNewPatient	at (801, 1192)	39	on_createpatient	CreatePatient.script
+2018-09-08 17:04:54.954 -0400	click	Ok1	at (1696, 637)	41	on_createpatient	CreatePatient.script
+2018-09-08 17:04:55.386 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 17:04:56.989 -0400	click	NewSearch	at (958, 346)	10	on_createpatient	CreatePatient.script
+2018-09-08 17:05:00.176 -0400	typetext		[tab][tab][tab][tab][tab][tab][tab][tab][tab]	15	on_createpatient	CreatePatient.script
+2018-09-08 17:05:00.395 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:05:00.611 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:05:00.828 -0400	typetext		[tab]	21	on_createpatient	CreatePatient.script
+2018-09-08 17:05:01.131 -0400	typetext		smoked[tab][tab]	23	on_createpatient	CreatePatient.script
+2018-09-08 17:05:01.460 -0400	typetext		Eggplant[tab][tab]	25	on_createpatient	CreatePatient.script
+2018-09-08 17:05:01.785 -0400	typetext		1970/5/25[tab]	27	on_createpatient	CreatePatient.script
+2018-09-08 17:05:02.000 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:05:02.214 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:05:02.427 -0400	typetext		[tab]	32	on_createpatient	CreatePatient.script
+2018-09-08 17:05:02.756 -0400	typetext		540632375[tab]	35	on_createpatient	CreatePatient.script
+2018-09-08 17:05:03.200 -0400	click	CreateNewPatient	at (456, 921)	38	on_createpatient	CreatePatient.script
+2018-09-08 17:05:04.698 -0400	click	ConfirmCreateNewPatient	at (801, 1192)	39	on_createpatient	CreatePatient.script
+2018-09-08 17:05:15.304 -0400	click	Ok1	at (1696, 517)	41	on_createpatient	CreatePatient.script
+2018-09-08 17:05:16.527 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 17:05:18.125 -0400	click	NewSearch	at (958, 346)	10	on_createpatient	CreatePatient.script
+2018-09-08 17:05:21.324 -0400	typetext		[tab][tab][tab][tab][tab][tab][tab][tab][tab]	15	on_createpatient	CreatePatient.script
+2018-09-08 17:05:21.540 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:05:21.755 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:05:21.972 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:05:22.187 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:05:22.401 -0400	typetext		[tab]	21	on_createpatient	CreatePatient.script
+2018-09-08 17:05:22.701 -0400	typetext		stewed[tab][tab]	23	on_createpatient	CreatePatient.script
+2018-09-08 17:05:23.024 -0400	typetext		Eggplant[tab][tab]	25	on_createpatient	CreatePatient.script
+2018-09-08 17:05:23.356 -0400	typetext		1972/7/30[tab]	27	on_createpatient	CreatePatient.script
+2018-09-08 17:05:23.575 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:05:23.794 -0400	typetext		[tab]	32	on_createpatient	CreatePatient.script
+2018-09-08 17:05:24.120 -0400	typetext		201606345[tab]	35	on_createpatient	CreatePatient.script
+2018-09-08 17:05:24.516 -0400	click	CreateNewPatient	at (456, 921)	38	on_createpatient	CreatePatient.script
+2018-09-08 17:05:25.997 -0400	click	ConfirmCreateNewPatient	at (801, 1192)	39	on_createpatient	CreatePatient.script
+2018-09-08 17:05:32.567 -0400	click	Ok1	at (1696, 597)	41	on_createpatient	CreatePatient.script
+2018-09-08 17:05:33.002 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 17:05:34.646 -0400	click	NewSearch	at (958, 346)	10	on_createpatient	CreatePatient.script
+2018-09-08 17:05:37.845 -0400	typetext		[tab][tab][tab][tab][tab][tab][tab][tab][tab]	15	on_createpatient	CreatePatient.script
+2018-09-08 17:05:38.060 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:05:38.275 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:05:38.492 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:05:38.708 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:05:38.925 -0400	typetext		[tab]	21	on_createpatient	CreatePatient.script
+2018-09-08 17:05:39.278 -0400	typetext		Bruschetta[tab][tab]	23	on_createpatient	CreatePatient.script
+2018-09-08 17:05:39.613 -0400	typetext		Eggplant[tab][tab]	25	on_createpatient	CreatePatient.script
+2018-09-08 17:05:39.945 -0400	typetext		1975/2/14[tab]	27	on_createpatient	CreatePatient.script
+2018-09-08 17:05:40.163 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:05:40.380 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:05:40.597 -0400	typetext		[tab]	32	on_createpatient	CreatePatient.script
+2018-09-08 17:05:40.925 -0400	typetext		398736327[tab]	35	on_createpatient	CreatePatient.script
+2018-09-08 17:05:41.380 -0400	click	CreateNewPatient	at (456, 921)	38	on_createpatient	CreatePatient.script
+2018-09-08 17:05:42.977 -0400	click	ConfirmCreateNewPatient	at (801, 1192)	39	on_createpatient	CreatePatient.script
+2018-09-08 17:05:50.233 -0400	click	Ok1	at (1696, 517)	41	on_createpatient	CreatePatient.script
+2018-09-08 17:05:50.665 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 17:05:52.316 -0400	click	NewSearch	at (958, 346)	10	on_createpatient	CreatePatient.script
+2018-09-08 17:05:55.509 -0400	typetext		[tab][tab][tab][tab][tab][tab][tab][tab][tab]	15	on_createpatient	CreatePatient.script
+2018-09-08 17:05:55.725 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:05:55.942 -0400	typetext		[tab]	21	on_createpatient	CreatePatient.script
+2018-09-08 17:05:56.231 -0400	typetext		puree[tab][tab]	23	on_createpatient	CreatePatient.script
+2018-09-08 17:05:56.561 -0400	typetext		Eggplant[tab][tab]	25	on_createpatient	CreatePatient.script
+2018-09-08 17:05:56.891 -0400	typetext		1988/1/25[tab]	27	on_createpatient	CreatePatient.script
+2018-09-08 17:05:57.105 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:05:57.321 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:05:57.538 -0400	typetext		[tab]	32	on_createpatient	CreatePatient.script
+2018-09-08 17:05:57.871 -0400	typetext		691259428[tab]	35	on_createpatient	CreatePatient.script
+2018-09-08 17:05:58.333 -0400	click	CreateNewPatient	at (456, 921)	38	on_createpatient	CreatePatient.script
+2018-09-08 17:05:59.801 -0400	click	ConfirmCreateNewPatient	at (801, 1192)	39	on_createpatient	CreatePatient.script
+2018-09-08 17:06:06.792 -0400	click	Ok1	at (1696, 517)	41	on_createpatient	CreatePatient.script
+2018-09-08 17:06:07.227 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 17:06:08.801 -0400	click	NewSearch	at (958, 346)	10	on_createpatient	CreatePatient.script
+2018-09-08 17:06:12.017 -0400	typetext		[tab][tab][tab][tab][tab][tab][tab][tab][tab]	15	on_createpatient	CreatePatient.script
+2018-09-08 17:06:12.233 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:06:12.525 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:06:12.741 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:06:12.957 -0400	typetext		[tab]	21	on_createpatient	CreatePatient.script
+2018-09-08 17:06:13.286 -0400	typetext		fritters[tab][tab]	23	on_createpatient	CreatePatient.script
+2018-09-08 17:06:13.613 -0400	typetext		Eggplant[tab][tab]	25	on_createpatient	CreatePatient.script
+2018-09-08 17:06:13.942 -0400	typetext		1981/7/19[tab]	27	on_createpatient	CreatePatient.script
+2018-09-08 17:06:14.157 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:06:14.374 -0400	typetext		[tab]	32	on_createpatient	CreatePatient.script
+2018-09-08 17:06:14.706 -0400	typetext		172122095[tab]	35	on_createpatient	CreatePatient.script
+2018-09-08 17:06:15.174 -0400	click	CreateNewPatient	at (456, 921)	38	on_createpatient	CreatePatient.script
+2018-09-08 17:06:16.750 -0400	click	ConfirmCreateNewPatient	at (801, 1192)	39	on_createpatient	CreatePatient.script
+2018-09-08 17:06:24.690 -0400	click	Ok1	at (1696, 557)	41	on_createpatient	CreatePatient.script
+2018-09-08 17:06:25.122 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 17:06:26.715 -0400	click	NewSearch	at (958, 346)	10	on_createpatient	CreatePatient.script
+2018-09-08 17:06:29.933 -0400	typetext		[tab][tab][tab][tab][tab][tab][tab][tab][tab]	15	on_createpatient	CreatePatient.script
+2018-09-08 17:06:30.149 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:06:30.363 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:06:30.579 -0400	typetext		[tab]	21	on_createpatient	CreatePatient.script
+2018-09-08 17:06:30.885 -0400	typetext		cutlet[tab][tab]	23	on_createpatient	CreatePatient.script
+2018-09-08 17:06:31.219 -0400	typetext		Eggplant[tab][tab]	25	on_createpatient	CreatePatient.script
+2018-09-08 17:06:31.550 -0400	typetext		1977/9/26[tab]	27	on_createpatient	CreatePatient.script
+2018-09-08 17:06:31.763 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:06:31.979 -0400	typetext		[tab]	32	on_createpatient	CreatePatient.script
+2018-09-08 17:06:32.307 -0400	typetext		302532293[tab]	35	on_createpatient	CreatePatient.script
+2018-09-08 17:06:32.739 -0400	click	CreateNewPatient	at (456, 921)	38	on_createpatient	CreatePatient.script
+2018-09-08 17:06:34.817 -0400	click	ConfirmCreateNewPatient	at (801, 1192)	39	on_createpatient	CreatePatient.script
+2018-09-08 17:06:42.155 -0400	click	Ok1	at (1696, 597)	41	on_createpatient	CreatePatient.script
+2018-09-08 17:06:42.584 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 17:06:44.261 -0400	click	NewSearch	at (958, 346)	10	on_createpatient	CreatePatient.script
+2018-09-08 17:06:47.460 -0400	typetext		[tab][tab][tab][tab][tab][tab][tab][tab][tab]	15	on_createpatient	CreatePatient.script
+2018-09-08 17:06:47.673 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:06:47.888 -0400	typetext		[tab]	21	on_createpatient	CreatePatient.script
+2018-09-08 17:06:48.206 -0400	typetext		stuffed[tab][tab]	23	on_createpatient	CreatePatient.script
+2018-09-08 17:06:48.533 -0400	typetext		Eggplant[tab][tab]	25	on_createpatient	CreatePatient.script
+2018-09-08 17:06:48.852 -0400	typetext		1982/4/3[tab]	27	on_createpatient	CreatePatient.script
+2018-09-08 17:06:49.064 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:06:49.279 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:06:49.497 -0400	typetext		[tab]	32	on_createpatient	CreatePatient.script
+2018-09-08 17:06:49.816 -0400	typetext		838398210[tab]	35	on_createpatient	CreatePatient.script
+2018-09-08 17:06:50.269 -0400	click	CreateNewPatient	at (456, 921)	38	on_createpatient	CreatePatient.script
+2018-09-08 17:06:51.812 -0400	click	ConfirmCreateNewPatient	at (801, 1192)	39	on_createpatient	CreatePatient.script
+2018-09-08 17:06:59.371 -0400	click	Ok1	at (1696, 517)	41	on_createpatient	CreatePatient.script
+2018-09-08 17:06:59.789 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 17:07:01.400 -0400	click	NewSearch	at (958, 346)	10	on_createpatient	CreatePatient.script
+2018-09-08 17:07:04.588 -0400	typetext		[tab][tab][tab][tab][tab][tab][tab][tab][tab]	15	on_createpatient	CreatePatient.script
+2018-09-08 17:07:04.801 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:07:05.016 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:07:05.232 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:07:05.451 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:07:05.666 -0400	typetext		[tab]	21	on_createpatient	CreatePatient.script
+2018-09-08 17:07:05.953 -0400	typetext		pasta[tab][tab]	23	on_createpatient	CreatePatient.script
+2018-09-08 17:07:06.283 -0400	typetext		Eggplant[tab][tab]	25	on_createpatient	CreatePatient.script
+2018-09-08 17:07:06.601 -0400	typetext		1966/2/7[tab]	27	on_createpatient	CreatePatient.script
+2018-09-08 17:07:06.819 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:07:07.035 -0400	typetext		[tab]	32	on_createpatient	CreatePatient.script
+2018-09-08 17:07:07.363 -0400	typetext		583301814[tab]	35	on_createpatient	CreatePatient.script
+2018-09-08 17:07:07.808 -0400	click	CreateNewPatient	at (456, 921)	38	on_createpatient	CreatePatient.script
+2018-09-08 17:07:09.351 -0400	click	ConfirmCreateNewPatient	at (801, 1192)	39	on_createpatient	CreatePatient.script
+2018-09-08 17:07:16.915 -0400	click	Ok1	at (1696, 661)	41	on_createpatient	CreatePatient.script
+2018-09-08 17:07:17.340 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 17:07:19.066 -0400	click	NewSearch	at (958, 346)	10	on_createpatient	CreatePatient.script
+2018-09-08 17:07:22.253 -0400	typetext		[tab][tab][tab][tab][tab][tab][tab][tab][tab]	15	on_createpatient	CreatePatient.script
+2018-09-08 17:07:22.469 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:07:22.747 -0400	typetext		[tab]	21	on_createpatient	CreatePatient.script
+2018-09-08 17:07:23.039 -0400	typetext		pesto[tab][tab]	23	on_createpatient	CreatePatient.script
+2018-09-08 17:07:23.371 -0400	typetext		Eggplant[tab][tab]	25	on_createpatient	CreatePatient.script
+2018-09-08 17:07:23.704 -0400	typetext		1996/4/29[tab]	27	on_createpatient	CreatePatient.script
+2018-09-08 17:07:23.920 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:07:24.137 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:07:24.352 -0400	typetext		[tab]	32	on_createpatient	CreatePatient.script
+2018-09-08 17:07:24.677 -0400	typetext		519417807[tab]	35	on_createpatient	CreatePatient.script
+2018-09-08 17:07:25.081 -0400	click	CreateNewPatient	at (456, 921)	38	on_createpatient	CreatePatient.script
+2018-09-08 17:07:26.508 -0400	click	ConfirmCreateNewPatient	at (801, 1192)	39	on_createpatient	CreatePatient.script
+2018-09-08 17:07:36.832 -0400	click	Ok1	at (1696, 517)	41	on_createpatient	CreatePatient.script
+2018-09-08 17:07:38.067 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 17:07:56.130 -0400	click	NewSearch	at (958, 346)	10	on_createpatient	CreatePatient.script
+2018-09-08 17:07:59.324 -0400	typetext		[tab][tab][tab][tab][tab][tab][tab][tab][tab]	15	on_createpatient	CreatePatient.script
+2018-09-08 17:07:59.538 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:07:59.755 -0400	typetext		[tab]	21	on_createpatient	CreatePatient.script
+2018-09-08 17:08:00.119 -0400	typetext		millefoglie[tab][tab]	23	on_createpatient	CreatePatient.script
+2018-09-08 17:08:00.450 -0400	typetext		Eggplant[tab][tab]	25	on_createpatient	CreatePatient.script
+2018-09-08 17:08:00.770 -0400	typetext		1977/4/3[tab]	27	on_createpatient	CreatePatient.script
+2018-09-08 17:08:00.986 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:08:01.202 -0400	typetext		[tab]	32	on_createpatient	CreatePatient.script
+2018-09-08 17:08:01.529 -0400	typetext		256414135[tab]	35	on_createpatient	CreatePatient.script
+2018-09-08 17:08:01.940 -0400	click	CreateNewPatient	at (456, 921)	38	on_createpatient	CreatePatient.script
+2018-09-08 17:08:03.449 -0400	click	ConfirmCreateNewPatient	at (801, 1192)	39	on_createpatient	CreatePatient.script
+2018-09-08 17:08:10.677 -0400	click	Ok1	at (1696, 597)	41	on_createpatient	CreatePatient.script
+2018-09-08 17:08:11.121 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 17:08:12.820 -0400	click	NewSearch	at (958, 346)	10	on_createpatient	CreatePatient.script
+2018-09-08 17:08:16.023 -0400	typetext		[tab][tab][tab][tab][tab][tab][tab][tab][tab]	15	on_createpatient	CreatePatient.script
+2018-09-08 17:08:16.240 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:08:16.453 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:08:16.667 -0400	typetext		[tab]	21	on_createpatient	CreatePatient.script
+2018-09-08 17:08:16.979 -0400	typetext		tonnato[tab][tab]	23	on_createpatient	CreatePatient.script
+2018-09-08 17:08:17.304 -0400	typetext		Eggplant[tab][tab]	25	on_createpatient	CreatePatient.script
+2018-09-08 17:08:17.631 -0400	typetext		1963/6/14[tab]	27	on_createpatient	CreatePatient.script
+2018-09-08 17:08:17.850 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:08:18.067 -0400	typetext		[tab]	32	on_createpatient	CreatePatient.script
+2018-09-08 17:08:18.394 -0400	typetext		330226935[tab]	35	on_createpatient	CreatePatient.script
+2018-09-08 17:08:18.822 -0400	click	CreateNewPatient	at (456, 921)	38	on_createpatient	CreatePatient.script
+2018-09-08 17:08:20.412 -0400	click	ConfirmCreateNewPatient	at (801, 1192)	39	on_createpatient	CreatePatient.script
+2018-09-08 17:08:30.410 -0400	click	Ok1	at (1696, 661)	41	on_createpatient	CreatePatient.script
+2018-09-08 17:08:31.636 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 17:08:33.203 -0400	click	NewSearch	at (958, 346)	10	on_createpatient	CreatePatient.script
+2018-09-08 17:08:36.405 -0400	typetext		[tab][tab][tab][tab][tab][tab][tab][tab][tab]	15	on_createpatient	CreatePatient.script
+2018-09-08 17:08:36.617 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:08:36.836 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:08:37.050 -0400	typetext		[downArrow]	18	on_createpatient	CreatePatient.script
+2018-09-08 17:08:37.265 -0400	typetext		[tab]	21	on_createpatient	CreatePatient.script
+2018-09-08 17:08:37.583 -0400	typetext		tempura[tab][tab]	23	on_createpatient	CreatePatient.script
+2018-09-08 17:08:37.909 -0400	typetext		Eggplant[tab][tab]	25	on_createpatient	CreatePatient.script
+2018-09-08 17:08:38.235 -0400	typetext		1968/9/23[tab]	27	on_createpatient	CreatePatient.script
+2018-09-08 17:08:38.449 -0400	typetext		[downArrow]	30	on_createpatient	CreatePatient.script
+2018-09-08 17:08:38.666 -0400	typetext		[tab]	32	on_createpatient	CreatePatient.script
+2018-09-08 17:08:38.992 -0400	typetext		366840861[tab]	35	on_createpatient	CreatePatient.script
+2018-09-08 17:08:39.438 -0400	click	CreateNewPatient	at (456, 921)	38	on_createpatient	CreatePatient.script
+2018-09-08 17:08:40.917 -0400	click	ConfirmCreateNewPatient	at (801, 1192)	39	on_createpatient	CreatePatient.script
+2018-09-08 17:08:52.785 -0400	click	Ok1	at (1696, 661)	41	on_createpatient	CreatePatient.script
+2018-09-08 17:08:53.415 -0400	EndTestCase		(Duration:"454.54531", Errors:"0", Exceptions:"0", StartTime:"2018-09-08 17:01:18 -0400", Successes:"1", TestCase:"CreatePatient.script", Warnings:"0")
+2018-09-08 17:08:53.454 -0400	SUCCESS		Execution Time 0:07:34 CreatePatient.script

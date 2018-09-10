@@ -1,0 +1,50 @@
+﻿(* Creates Patients with the first name of Eggplant and a last name of the list below. The birthdate, SSN, and salutaton are all randomly generate" *)
+
+put ("DimSum", "HotPot", "Kimchi", "pancake", "pita", "poutine", "Tapas", "wrap", "PadThai", "FriedRice", "hummus") into lastnames
+
+repeat for each item of lastnames
+	
+	//wait 4
+	Click "PatientClient"
+	MoveTo (FoundImageLocation() + (10,0))
+	
+	wait 1
+	Click "NewSearch"
+	
+	wait 5
+	
+	//tab over to start of pt section
+	typetext tabKey,tabKey,tabKey,tabKey,tabKey,tabKey,tabKey,tabKey,tabKey
+	//salutation
+	repeat random (1,4)
+		typetext downarrow
+	end repeat
+	
+	typetext tabKey
+	//patient fist name
+	typetext it, tabKey, tabKey,
+	//patient last name
+	typetext "Eggplant", tabKey, tabKey
+	//Birth date
+	typetext random (1960, 2000), "/", random (1,12), "/", random (1,30), tabKey
+	//Gender
+	repeat random (1,2)
+		typetext downarrow, 
+	end repeat
+	typetext tabKey
+	
+	//SSN
+	TypeText random(100000000, 999999999), tabKey
+	
+	//Create the patient
+	Click "CreateNewPatient"
+	Click "ConfirmCreateNewPatient"
+	wait 5
+	click "Ok1"
+	
+end repeat
+
+
+
+
+

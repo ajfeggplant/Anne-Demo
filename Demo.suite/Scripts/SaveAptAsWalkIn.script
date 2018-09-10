@@ -1,0 +1,14 @@
+﻿//change status to arrived to mark as walk-in
+
+Click "-None"
+Click "Arrived"
+Click "Save"
+
+wait 2 
+
+if imagefound ("Ok1")
+	click FoundImageLocation()
+end if
+
+//verify that appointment has closed correctly
+WaitFor 8.0, "Reports"

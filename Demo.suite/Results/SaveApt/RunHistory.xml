@@ -1,0 +1,259 @@
+﻿<?xml version="1.0"?>
+<runHistory script="SaveApt">
+ <run>
+  <RunDate>2018-09-05 17:18:43.345 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.003163</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180905_171843.345/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in saveapt:
+Syntax Error at line 6: Syntax Error - can&#x27;t understand &quot;end&quot; at or near character 78</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-05 17:29:10.780 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.003231</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180905_172910.780/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in saveapt:
+Syntax Error at line 6: Syntax Error - can&#x27;t understand &quot;end&quot; at or near character 78</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-08 16:02:34.161 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.002310</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180908_160234.161/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in saveapt:
+Syntax Error at line 6: Syntax Error - can&#x27;t understand &quot;end&quot; at or near character 78</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-08 17:31:21.808 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.002401</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180908_173121.808/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in saveapt:
+Syntax Error at line 6: Syntax Error - can&#x27;t understand &quot;end&quot; at or near character 78</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-08 17:57:46.206 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>3.382911</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180908_175746.206/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-08 18:01:37.995 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>22.413099</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180908_180137.995/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Save&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-08 18:06:40.130 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>176.151587</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180908_180640.130/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: IT</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-08 18:12:27.127 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>7.151237</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180908_181227.127/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-08 18:13:40.981 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>7.096085</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180908_181340.981/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-08 18:17:11.673 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>137.544025</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180908_181711.673/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Save&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-08 18:23:00.249 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>5.446326</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180908_182300.249/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-08 18:26:15.067 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>7.320547</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180908_182615.067/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-08 21:04:40.267 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>4.023323</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180908_210440.267/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-08 21:10:15.071 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>6.515129</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180908_211015.071/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-08 21:15:56.113 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>4.998242</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180908_211556.113/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-08 21:20:27.008 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>4.461865</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180908_212027.008/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-10 10:12:19.610 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>6.985066</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180910_101219.610/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-10 10:27:18.178 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>7.222995</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180910_102718.178/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-10 10:34:28.652 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>8.093323</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180910_103428.652/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-10 10:44:44.816 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>7.774576</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180910_104444.816/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-10 10:47:18.350 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>4.334379</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180910_104718.350/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

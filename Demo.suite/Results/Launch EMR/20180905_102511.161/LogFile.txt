@@ -1,0 +1,4 @@
+﻿2018-09-05 10:25:11.164 -0400	START		Running Launch EMR.script	1	execute string	(null)
+2018-09-05 10:25:56.150 -0400	doubleclick	Chrome	at (79, 269)	1	on_launch_emr	Launch EMR.script
+2018-09-05 10:26:11.465 -0400	EndTestCase		(Duration:"60.296611", Errors:"1", Exceptions:"0", StartTime:"2018-09-05 10:25:11 -0400", Successes:"0", TestCase:"Launch EMR.script", Warnings:"0")	1	execute string	(null)
+2018-09-05 10:26:11.468 -0400	ABORTED		Execution Time 0:01:00 Launch EMR.script	1	execute string	(null)

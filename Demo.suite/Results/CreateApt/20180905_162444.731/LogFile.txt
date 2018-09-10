@@ -1,0 +1,15 @@
+﻿2018-09-05 16:24:44.732 -0400	START		Running CreateApt.script	1	execute string	(null)
+2018-09-05 16:24:45.417 -0400	click	PatientClient	at (956, 183)	4	function_createpatient	CreatePatient.script
+2018-09-05 16:24:46.621 -0400	click	NewSearch	at (958, 346)	5	function_createpatient	CreatePatient.script
+2018-09-05 16:25:02.519 -0400	typetext		[tab][tab][tab][tab][tab]	8	function_createpatient	CreatePatient.script
+2018-09-05 16:25:06.379 -0400	typetext		[downArrow]	9	function_createpatient	CreatePatient.script
+2018-09-05 16:25:06.892 -0400	typetext		[tab]	10	function_createpatient	CreatePatient.script
+2018-09-05 16:25:07.461 -0400	typetext		EMR[tab][tab]	11	function_createpatient	CreatePatient.script
+2018-09-05 16:25:08.087 -0400	typetext		megplant[tab][tab]	12	function_createpatient	CreatePatient.script
+2018-09-05 16:25:16.688 -0400	typetext		1972/01/01[tab]	13	function_createpatient	CreatePatient.script
+2018-09-05 16:25:17.215 -0400	typetext		[downArrow][tab]	14	function_createpatient	CreatePatient.script
+2018-09-05 16:25:25.127 -0400	typetext		414802502[tab]	15	function_createpatient	CreatePatient.script
+2018-09-05 16:25:29.934 -0400	click	CreateNewPatient	at (456, 874)	16	function_createpatient	CreatePatient.script
+2018-09-05 16:25:31.660 -0400	click	ConfirmCreateNewPatient	at (911, 1192)	17	function_createpatient	CreatePatient.script
+2018-09-05 16:27:15.805 -0400	EndTestCase		(Duration:"151.072245", Errors:"1", Exceptions:"0", StartTime:"2018-09-05 16:24:44 -0400", Successes:"0", TestCase:"CreateApt.script", Warnings:"0")	1	execute string	(null)
+2018-09-05 16:27:15.808 -0400	ABORTED		Execution Time 0:02:31 CreateApt.script	1	execute string	(null)

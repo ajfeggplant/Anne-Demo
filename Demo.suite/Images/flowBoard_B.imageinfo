@@ -1,0 +1,20 @@
+﻿{
+    CaptureDate = "2018-08-28 20:11:34 +0000";
+    CaptureHost = "Amazon Windows 10";
+    CaptureScreenSize =     (
+        1920,
+        1080
+    );
+    HasAlpha = 1;
+    HotSpotX = 26;
+    HotSpotY = 25;
+    ImageDescription = <>;
+    ImageTolerance = 70;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 1880;
+    OriginalLocationY = 678;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+}

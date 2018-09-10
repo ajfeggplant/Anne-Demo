@@ -1,0 +1,4 @@
+﻿2018-09-05 17:26:56.399 -0400	START		Running Launch EMR.script	1	execute string	(null)
+2018-09-05 17:26:56.408 -0400	Exception		Remote Connection Unavailable	1	on_launch_emr	Launch EMR.script
+2018-09-05 17:26:56.411 -0400	EndTestCase		(Duration:"0.010387", Errors:"1", Exceptions:"1", StartTime:"2018-09-05 17:26:56 -0400", Successes:"0", TestCase:"Launch EMR.script", Warnings:"0")	1	execute string	(null)
+2018-09-05 17:26:56.429 -0400	FAILURE		No Remote Connection doubleclick Error - Remote Connection Unavailable -- Execution Time 0:00:00 Launch EMR.script	1	execute string	(null)

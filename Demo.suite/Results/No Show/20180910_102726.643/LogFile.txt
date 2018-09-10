@@ -1,0 +1,7 @@
+﻿2018-09-10 10:27:26.644 -0400	START		Running No Show.script	1	execute string	(null)
+2018-09-10 10:27:27.388 -0400	click	FlowBoard	at (339, 182)	3	on_no_show	No Show.script
+2018-09-10 10:27:28.622 -0400	click	PatientName	at (645, 1031)	6	on_no_show	No Show.script
+2018-09-10 10:27:29.079 -0400	typetext		dumpling[returnKey]	7	on_no_show	No Show.script
+2018-09-10 10:27:29.704 -0400	click	aptStatus	at (1288, 1368)	10	on_no_show	No Show.script
+2018-09-10 10:28:30.845 -0400	EndTestCase		(Duration:"64.199904", Errors:"1", Exceptions:"0", StartTime:"2018-09-10 10:27:26 -0400", Successes:"0", TestCase:"No Show.script", Warnings:"0")	1	execute string	(null)
+2018-09-10 10:28:30.848 -0400	ABORTED		Execution Time 0:01:04 No Show.script	1	execute string	(null)

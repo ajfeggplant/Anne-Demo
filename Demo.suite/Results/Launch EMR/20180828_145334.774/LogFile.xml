@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Launch EMR_script" package="Demo.suite" timestamp="2018-08-28 14:53:34.774 -0400"
+ tests="1"  failures="0" errors="0" time="7.257687">
+  <properties>
+   <property name="RunDate" value="2018-08-28 14:53:34.774 -0400"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Launch EMR.script" assertions="1" status="success"  time="7.252596">
+  </testcase>
+ </testsuite>
+</testsuites>

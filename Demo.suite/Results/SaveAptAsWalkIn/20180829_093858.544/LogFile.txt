@@ -1,0 +1,8 @@
+﻿2018-08-29 09:38:58.545 -0400	START		Running SaveAptAsWalkIn.script	1	execute string	(null)
+2018-08-29 09:38:59.555 -0400	click	-None	at (734, 534)	3	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-08-29 09:39:01.539 -0400	click	Arrived	at (737, 666)	4	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-08-29 09:39:03.386 -0400	click	Save	at (612, 692)	5	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-08-29 09:39:08.430 -0400	imagefound	SlotAlreadyUsed	Unable to Find Image SlotAlreadyUsed	6	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-08-29 09:42:41.887 -0400	waitfor	Reports	found at (847, 90)	11	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-08-29 09:42:41.888 -0400	EndTestCase		(Duration:"223.342173", Errors:"0", Exceptions:"0", StartTime:"2018-08-29 09:38:58 -0400", Successes:"1", TestCase:"SaveAptAsWalkIn.script", Warnings:"0")	1	execute string	(null)
+2018-08-29 09:42:41.906 -0400	SUCCESS		Execution Time 0:03:43 SaveAptAsWalkIn.script	1	execute string	(null)

@@ -1,0 +1,16 @@
+﻿2018-09-08 15:56:05.315 -0400	START		Running CreatePatient.script	1	execute string	(null)
+2018-09-08 15:56:10.191 -0400	click	PatientClient	at (956, 183)	4	on_createpatient	CreatePatient.script
+2018-09-08 15:56:12.110 -0400	click	NewSearch	at (958, 346)	6	on_createpatient	CreatePatient.script
+2018-09-08 15:56:15.212 -0400	typetext		[tab][tab][tab][tab][tab]	9	on_createpatient	CreatePatient.script
+2018-09-08 15:56:15.426 -0400	typetext		[downArrow]	10	on_createpatient	CreatePatient.script
+2018-09-08 15:56:15.638 -0400	typetext		[tab]	11	on_createpatient	CreatePatient.script
+2018-09-08 15:56:15.907 -0400	typetext		ZZZ[tab][tab]	12	on_createpatient	CreatePatient.script
+2018-09-08 15:56:16.235 -0400	typetext		badımcan[tab][tab]	13	on_createpatient	CreatePatient.script
+2018-09-08 15:56:16.569 -0400	typetext		1985/01/01[tab]	14	on_createpatient	CreatePatient.script
+2018-09-08 15:56:16.799 -0400	typetext		[downArrow][tab]	15	on_createpatient	CreatePatient.script
+2018-09-08 15:56:17.130 -0400	typetext		501698619[tab]	16	on_createpatient	CreatePatient.script
+2018-09-08 15:56:17.601 -0400	click	CreateNewPatient	at (456, 874)	17	on_createpatient	CreatePatient.script
+2018-09-08 16:01:09.973 -0400	click	ConfirmCreateNewPatient	at (801, 1192)	18	on_createpatient	CreatePatient.script
+2018-09-08 16:01:16.383 -0400	click	Ok1	at (1696, 557)	20	on_createpatient	CreatePatient.script
+2018-09-08 16:01:16.413 -0400	EndTestCase		(Duration:"311.095297", Errors:"0", Exceptions:"0", StartTime:"2018-09-08 15:56:05 -0400", Successes:"1", TestCase:"CreatePatient.script", Warnings:"0")	1	execute string	(null)
+2018-09-08 16:01:16.451 -0400	SUCCESS		Execution Time 0:05:11 CreatePatient.script	1	execute string	(null)

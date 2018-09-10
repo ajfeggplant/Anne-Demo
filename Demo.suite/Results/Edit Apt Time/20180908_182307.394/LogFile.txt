@@ -1,0 +1,13 @@
+﻿2018-09-08 18:23:07.395 -0400	START		Running Edit Apt Time.script	1	execute string	(null)
+2018-09-08 18:23:08.237 -0400	click	FlowBoard	at (339, 182)	3	on_edit_apt_time	Edit Apt Time.script
+2018-09-08 18:23:09.373 -0400	click	PatientName	at (645, 1031)	6	on_edit_apt_time	Edit Apt Time.script
+2018-09-08 18:23:09.703 -0400	typetext		marinated[returnKey]	7	on_edit_apt_time	Edit Apt Time.script
+2018-09-08 18:23:11.864 -0400	click	(TEXT:"Eggplant, marinated")	at (348, 1375)	10	on_edit_apt_time	Edit Apt Time.script
+2018-09-08 18:23:14.465 -0400	click	Appointment	at (1758, 1079)	11	on_edit_apt_time	Edit Apt Time.script
+2018-09-08 18:23:28.781 -0400	click	Time	at (1660, 591)	12	on_edit_apt_time	Edit Apt Time.script
+2018-09-08 18:23:30.821 -0400	typetext		[backspace][backspace]	14	on_edit_apt_time	Edit Apt Time.script
+2018-09-08 18:23:31.045 -0400	typetext		8[returnKey]	15	on_edit_apt_time	Edit Apt Time.script
+2018-09-08 18:23:31.247 -0400	scrollwheeldown		moved 20	16	on_edit_apt_time	Edit Apt Time.script
+2018-09-08 18:23:31.640 -0400	click	Save	at (626, 1594)	17	on_edit_apt_time	Edit Apt Time.script
+2018-09-08 18:23:31.752 -0400	EndTestCase		(Duration:"24.355255", Errors:"0", Exceptions:"0", StartTime:"2018-09-08 18:23:07 -0400", Successes:"1", TestCase:"Edit Apt Time.script", Warnings:"0")	1	execute string	(null)
+2018-09-08 18:23:32.196 -0400	SUCCESS		Execution Time 0:00:24 Edit Apt Time.script	1	execute string	(null)

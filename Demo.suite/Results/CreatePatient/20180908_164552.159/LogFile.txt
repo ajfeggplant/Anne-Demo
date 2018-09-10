@@ -1,0 +1,11 @@
+﻿2018-09-08 16:45:52.161 -0400	START		Running CreatePatient.script
+2018-09-08 16:45:58.096 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 16:45:59.453 -0400	click	NewSearch	at (958, 346)	10	on_createpatient	CreatePatient.script
+2018-09-08 16:46:02.544 -0400	typetext		[tab][tab][tab][tab][tab]	15	on_createpatient	CreatePatient.script
+2018-09-08 16:46:02.757 -0400	typetext		[downArrow]	17	on_createpatient	CreatePatient.script
+2018-09-08 16:46:02.970 -0400	typetext		[tab]	18	on_createpatient	CreatePatient.script
+2018-09-08 16:46:03.244 -0400	typetext		item[tab][tab]	20	on_createpatient	CreatePatient.script
+2018-09-08 16:46:03.577 -0400	typetext		Eggplant[tab][tab]	22	on_createpatient	CreatePatient.script
+2018-09-08 16:46:03.913 -0400	typetext		1992/9/16[tab]	24	on_createpatient	CreatePatient.script
+2018-09-08 16:46:20.061 -0400	EndTestCase		(Duration:"27.897918", Errors:"1", Exceptions:"0", StartTime:"2018-09-08 16:45:52 -0400", Successes:"0", TestCase:"CreatePatient.script", Warnings:"0")
+2018-09-08 16:46:20.066 -0400	ABORTED		Execution Time 0:00:27 CreatePatient.script

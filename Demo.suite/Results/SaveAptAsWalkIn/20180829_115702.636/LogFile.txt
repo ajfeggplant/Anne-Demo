@@ -1,0 +1,7 @@
+﻿2018-08-29 11:57:02.637 -0400	START		Running SaveAptAsWalkIn.script	1	execute string	(null)
+2018-08-29 11:57:03.626 -0400	click	-None	at (734, 534)	3	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-08-29 11:57:05.557 -0400	click	Arrived	at (737, 666)	4	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-08-29 11:57:07.483 -0400	click	Save	at (612, 692)	5	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-08-29 11:57:07.500 -0400	Exception	SlotAlreadyUsed	Could Not Open Image: SlotAlreadyUsed	6	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-08-29 11:57:07.503 -0400	EndTestCase		(Duration:"4.864467", Errors:"1", Exceptions:"1", StartTime:"2018-08-29 11:57:02 -0400", Successes:"0", TestCase:"SaveAptAsWalkIn.script", Warnings:"0")	1	execute string	(null)
+2018-08-29 11:57:07.620 -0400	FAILURE	Screen_Error.png	File Not Found imagefound Error - Could Not Open Image: SlotAlreadyUsed -- Execution Time 0:00:04 SaveAptAsWalkIn.script	1	execute string	(null)

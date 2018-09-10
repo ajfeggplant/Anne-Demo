@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="SaveAptAsWalkIn_script" package="Demo.suite" timestamp="2018-09-05 17:31:15.231 -0400"
+ tests="1"  failures="1" errors="1" time="15.942099">
+  <properties>
+   <property name="RunDate" value="2018-09-05 17:31:15.231 -0400"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="SaveAptAsWalkIn.script" assertions="1" status="error"  time="15.940189">
+    <failure type="FAILURE" message="Image Not Found click Error - No Image Found On Screen: &quot;Ok1&quot; -- Execution Time 0:00:15 SaveAptAsWalkIn.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;Ok1&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

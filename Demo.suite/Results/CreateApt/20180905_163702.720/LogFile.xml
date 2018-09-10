@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="CreateApt_script" package="Demo.suite" timestamp="2018-09-05 16:37:02.720 -0400"
+ tests="1"  failures="0" errors="0" time="9.469103">
+  <properties>
+   <property name="RunDate" value="2018-09-05 16:37:02.720 -0400"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="CreateApt.script" assertions="1" status="error"  time="9.466557">
+    <error type="Exception" message="No Image Found On Screen: &quot;Calendar&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

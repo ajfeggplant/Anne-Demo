@@ -1,0 +1,7 @@
+﻿2018-09-05 16:28:54.448 -0400	START		Running VerifyApt.script	1	execute string	(null)
+2018-09-05 16:28:55.315 -0400	click	FlowBoard	at (339, 182)	3	on_verifyapt	VerifyApt.script
+2018-09-05 16:28:57.205 -0400	click	PatientName	at (647, 1031)	5	on_verifyapt	VerifyApt.script
+2018-09-05 16:28:57.908 -0400	typetext		biringanya, POC[returnKey]	6	on_verifyapt	VerifyApt.script
+2018-09-05 16:29:01.251 -0400	Log		Visit Completed	8	on_verifyapt	VerifyApt.script
+2018-09-05 16:29:01.267 -0400	EndTestCase		(Duration:"6.816692", Errors:"0", Exceptions:"0", StartTime:"2018-09-05 16:28:54 -0400", Successes:"1", TestCase:"VerifyApt.script", Warnings:"0")	1	execute string	(null)
+2018-09-05 16:29:01.286 -0400	SUCCESS		Execution Time 0:00:06 VerifyApt.script	1	execute string	(null)

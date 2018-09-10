@@ -1,0 +1,75 @@
+﻿<?xml version="1.0"?>
+<runHistory script="No Show">
+ <run>
+  <RunDate>2018-09-08 18:26:23.722 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>92.354753</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180908_182623.722/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-08 21:10:22.435 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>58.251547</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180908_211022.435/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-10 10:12:27.207 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>100.903707</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180910_101227.207/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-10 10:27:26.643 -0400</RunDate>
+  <Status>Aborted</Status>
+  <Duration>64.201881</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180910_102726.643/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-10 10:34:58.434 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>16.882755</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180910_103458.434/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;FlowBoard&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-10 10:44:53.872 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.099465</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180910_104453.872/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]</ErrorMessage>
+ </run>
+</runHistory>

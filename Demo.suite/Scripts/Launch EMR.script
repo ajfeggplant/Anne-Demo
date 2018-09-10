@@ -1,0 +1,2 @@
+﻿DoubleClick "Chrome"
+WaitFor 8.0, "OpenEmrIcon"

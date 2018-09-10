@@ -1,0 +1,1 @@
+2018-09-10 10:48:02.606 -0400,Failure,0:00:02,1,0,1,20180910_104802.606/LogFile.txt,"","Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]",0

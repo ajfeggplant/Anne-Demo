@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="CreatePatient_script" package="Demo.suite" timestamp="2018-09-05 16:35:33.428 -0400"
+ tests="1"  failures="1" errors="1" time="24.092648">
+  <properties>
+   <property name="RunDate" value="2018-09-05 16:35:33.428 -0400"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="CreatePatient.script" assertions="1" status="error"  time="24.090292">
+    <failure type="FAILURE" message="Image Not Found click Error - No Image Found On Screen: &quot;ConfirmCreateNewPatient&quot; -- Execution Time 0:00:24 CreatePatient.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;ConfirmCreateNewPatient&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

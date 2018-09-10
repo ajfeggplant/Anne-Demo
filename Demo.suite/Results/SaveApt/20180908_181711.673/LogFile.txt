@@ -1,0 +1,4 @@
+﻿2018-09-08 18:17:11.674 -0400	START		Running SaveApt.script	1	execute string	(null)
+2018-09-08 18:19:29.213 -0400	Exception	Save	No Image Found On Screen: "Save"	3	on_saveapt	SaveApt.script
+2018-09-08 18:19:29.218 -0400	EndTestCase		(Duration:"137.542002", Errors:"1", Exceptions:"1", StartTime:"2018-09-08 18:17:11 -0400", Successes:"0", TestCase:"SaveApt.script", Warnings:"0")	1	execute string	(null)
+2018-09-08 18:19:29.545 -0400	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Save" -- Execution Time 0:02:17 SaveApt.script	1	execute string	(null)

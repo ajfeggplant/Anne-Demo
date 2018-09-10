@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="SelectProvider_script" package="Demo.suite" timestamp="2018-08-28 17:10:11.458 -0400"
+ tests="1"  failures="1" errors="1" time="1021.075282">
+  <properties>
+   <property name="RunDate" value="2018-08-28 17:10:11.458 -0400"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="SelectProvider.script" assertions="1" status="error"  time="1021.073337">
+    <failure type="FAILURE" message="Image Not Found click Error - No Text Found On Screen: &quot;(TEXT:&quot;stone&quot;)&quot;  Restricted Search Rectangle ((1,398),(286,475))\n -- Execution Time 0:17:01 SelectProvider.script" />
+    <error type="Exception" message="No Text Found On Screen: &quot;(TEXT:&quot;stone&quot;)&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

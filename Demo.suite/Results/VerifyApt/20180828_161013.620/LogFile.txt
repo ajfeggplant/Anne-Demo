@@ -1,0 +1,4 @@
+﻿2018-08-28 16:10:13.621 -0400	START		Running VerifyApt.script
+2018-08-28 16:10:14.264 -0400	Exception		Searching For Image: OCR Error: OCR operation was aborted	6	on_verifyapt	VerifyApt.script
+2018-08-28 16:10:14.632 -0400	EndTestCase		(Duration:"1.009016", Errors:"1", Exceptions:"1", StartTime:"2018-08-28 16:10:13 -0400", Successes:"0", TestCase:"VerifyApt.script", Warnings:"0")
+2018-08-28 16:10:14.634 -0400	ABORTED		Execution Time 0:00:01 VerifyApt.script

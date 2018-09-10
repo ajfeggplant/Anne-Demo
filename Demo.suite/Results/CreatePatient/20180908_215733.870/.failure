@@ -1,0 +1,1 @@
+2018-09-08 21:57:33.870 -0400,Failure,0:00:01,1,0,0,20180908_215733.870/LogFile.txt,"","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got '(1,1)' and 'PatientClient'",0

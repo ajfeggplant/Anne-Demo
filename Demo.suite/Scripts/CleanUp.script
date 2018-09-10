@@ -1,0 +1,2 @@
+﻿TypeText altkey, F4
+waitfor 5, "Chrome"

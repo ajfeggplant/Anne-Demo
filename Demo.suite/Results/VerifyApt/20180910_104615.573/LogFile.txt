@@ -1,0 +1,7 @@
+﻿2018-09-10 10:46:15.574 -0400	START		Running VerifyApt.script	1	execute string	(null)
+2018-09-10 10:46:15.799 -0400	click	FlowBoard	at (339, 182)	3	on_verifyapt	VerifyApt.script
+2018-09-10 10:46:17.147 -0400	click	PatientName	at (645, 1031)	5	on_verifyapt	VerifyApt.script
+2018-09-10 10:46:17.543 -0400	typetext		ratatouille[returnKey]	6	on_verifyapt	VerifyApt.script
+2018-09-10 10:46:17.851 -0400	Exception		Too Few Parameters, please use waitfor time, image1[, imageX]	7	on_verifyapt	VerifyApt.script
+2018-09-10 10:46:17.855 -0400	EndTestCase		(Duration:"2.278629", Errors:"1", Exceptions:"1", StartTime:"2018-09-10 10:46:15 -0400", Successes:"0", TestCase:"VerifyApt.script", Warnings:"0")	1	execute string	(null)
+2018-09-10 10:46:18.836 -0400	FAILURE	Screen_Error.png	Error Running Script Command waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX] -- Execution Time 0:00:02 VerifyApt.script	1	execute string	(null)

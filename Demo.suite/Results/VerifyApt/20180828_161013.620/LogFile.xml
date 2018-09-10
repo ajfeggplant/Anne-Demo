@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="VerifyApt_script" package="Demo.suite" timestamp="2018-08-28 16:10:13.620 -0400"
+ tests="1"  failures="0" errors="0" time="1.011744">
+  <properties>
+   <property name="RunDate" value="2018-08-28 16:10:13.620 -0400"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="VerifyApt.script" assertions="1" status="error"  time="1.009016">
+    <error type="Exception" message="Searching For Image: OCR Error: OCR operation was aborted" />
+  </testcase>
+ </testsuite>
+</testsuites>

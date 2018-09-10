@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="CreateApt_script" package="Demo.suite" timestamp="2018-09-05 11:02:06.060 -0400"
+ tests="1"  failures="1" errors="1" time="19.382930">
+  <properties>
+   <property name="RunDate" value="2018-09-05 11:02:06.060 -0400"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="CreateApt.script" assertions="1" status="error"  time="19.381052">
+    <failure type="FAILURE" message="Image Not Found click Error - No Image Found On Screen: &quot;addNewApt&quot; -- Execution Time 0:00:19 CreateApt.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;addNewApt&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

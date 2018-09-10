@@ -1,0 +1,10 @@
+﻿2018-09-10 10:25:22.049 -0400	START		Running SelectProvider.script	1	execute string	(null)
+2018-09-10 10:25:22.327 -0400	click	Calendar	at (158, 183)	3	on_selectprovider	SelectProvider.script
+2018-09-10 10:25:27.249 -0400	set		SEARCHRECTANGLE = (ProviderList_A,ProviderList_B)	7	on_selectprovider	SelectProvider.script
+2018-09-10 10:25:28.527 -0400	click	(TEXT:"Smith")	at (34, 1066)	8	on_selectprovider	SelectProvider.script
+2018-09-10 10:25:28.832 -0400	set		SEARCHRECTANGLE = ()	9	on_selectprovider	SelectProvider.script
+2018-09-10 10:25:30.245 -0400	set		SEARCHRECTANGLE = (WhoseSchedule_A,WhoseSchedule_B)	12	on_selectprovider	SelectProvider.script
+2018-09-10 10:25:31.255 -0400	waitfor	(TEXT:"Smith")	found at (1602, 662)	13	on_selectprovider	SelectProvider.script
+2018-09-10 10:25:31.619 -0400	set		SEARCHRECTANGLE = ()	14	on_selectprovider	SelectProvider.script
+2018-09-10 10:25:31.620 -0400	EndTestCase		(Duration:"9.569248", Errors:"0", Exceptions:"0", StartTime:"2018-09-10 10:25:22 -0400", Successes:"1", TestCase:"SelectProvider.script", Warnings:"0")	1	execute string	(null)
+2018-09-10 10:25:32.031 -0400	SUCCESS		Execution Time 0:00:09 SelectProvider.script	1	execute string	(null)

@@ -1,0 +1,12 @@
+﻿2018-08-29 09:47:36.376 -0400	START		Running Login.script	1	execute string	(null)
+2018-08-29 09:47:36.638 -0400	click	Username	at (635, 411)	3	on_login	Login.script
+2018-08-29 09:47:37.717 -0400	typetext		admin[tab]	4	on_login	Login.script
+2018-08-29 09:47:38.771 -0400	typetext		pass	5	on_login	Login.script
+2018-08-29 09:47:40.189 -0400	click	LoginButton	at (1271, 584)	6	on_login	Login.script
+2018-08-29 09:47:41.719 -0400	waitfor	About	found at (1088, 91)	7	on_login	Login.script
+2018-08-29 09:47:41.848 -0400	click	searchButton	at (17, 142)	2	on_selectpatient	SelectPatient.script
+2018-08-29 09:47:44.767 -0400	click	(TEXT:"123456789")	at (916, 378)	3	on_selectpatient	SelectPatient.script
+2018-08-29 09:47:45.914 -0400	click	closePatient	at (580, 211)	4	on_selectpatient	SelectPatient.script
+2018-08-29 09:47:47.395 -0400	click	Calendar	at (69, 91)	5	on_selectpatient	SelectPatient.script
+2018-08-29 09:47:47.397 -0400	EndTestCase		(Duration:"11.019849", Errors:"0", Exceptions:"0", StartTime:"2018-08-29 09:47:36 -0400", Successes:"1", TestCase:"Login.script", Warnings:"0")	1	execute string	(null)
+2018-08-29 09:47:47.439 -0400	SUCCESS		Execution Time 0:00:11 Login.script	1	execute string	(null)

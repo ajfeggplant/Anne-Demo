@@ -1,0 +1,10 @@
+﻿2018-09-05 17:18:45.314 -0400	START		Running CheckInApt.script	1	execute string	(null)
+2018-09-05 17:19:25.838 -0400	click	FlowBoard	at (339, 182)	3	on_checkinapt	CheckInApt.script
+2018-09-05 17:19:27.263 -0400	click	PatientName	at (647, 1078)	6	on_checkinapt	CheckInApt.script
+2018-09-05 17:19:27.949 -0400	typetext		jajcevec, EMR[returnKey]	7	on_checkinapt	CheckInApt.script
+2018-09-05 17:20:26.190 -0400	click	aptStatus	at (1359, 1415)	10	on_checkinapt	CheckInApt.script
+2018-09-05 17:20:28.459 -0400	click	-None	at (936, 416)	11	on_checkinapt	CheckInApt.script
+2018-09-05 17:20:29.598 -0400	click	Arrived	at (959, 704)	12	on_checkinapt	CheckInApt.script
+2018-09-05 17:20:31.374 -0400	click	Save	at (934, 643)	13	on_checkinapt	CheckInApt.script
+2018-09-05 17:20:31.417 -0400	EndTestCase		(Duration:"106.101622", Errors:"1", Exceptions:"0", StartTime:"2018-09-05 17:18:45 -0400", Successes:"0", TestCase:"CheckInApt.script", Warnings:"0")	1	execute string	(null)
+2018-09-05 17:20:32.162 -0400	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Command: 'ß' -- Execution Time 0:01:46 CheckInApt.script	1	execute string	(null)

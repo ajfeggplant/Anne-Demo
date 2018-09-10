@@ -1,0 +1,4 @@
+﻿2018-08-28 14:53:57.205 -0400	START		Running SelectProvider.script	1	execute string	(null)
+2018-08-28 14:54:09.869 -0400	click	(TEXT:"smith")	at (14, 445)	3	on_selectprovider	SelectProvider.script
+2018-08-28 14:54:17.911 -0400	EndTestCase		(Duration:"20.704896", Errors:"1", Exceptions:"0", StartTime:"2018-08-28 14:53:57 -0400", Successes:"0", TestCase:"SelectProvider.script", Warnings:"0")	1	execute string	(null)
+2018-08-28 14:54:17.913 -0400	ABORTED		Execution Time 0:00:20 SelectProvider.script	1	execute string	(null)

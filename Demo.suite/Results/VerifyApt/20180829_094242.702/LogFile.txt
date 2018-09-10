@@ -1,0 +1,5 @@
+﻿2018-08-29 09:42:42.703 -0400	START		Running VerifyApt.script	1	execute string	(null)
+2018-08-29 09:43:53.187 -0400	set		SEARCHRECTANGLE = (flowBoard_A,flowBoard_B)	6	on_verifyapt	VerifyApt.script
+2018-08-29 09:44:10.543 -0400	Exception	(TEXT:"Doe, Jane")	Unable To Find Any Image On Screen "(TEXT:"Doe, Jane")" within 5.00 seconds	8	on_verifyapt	VerifyApt.script
+2018-08-29 09:44:10.546 -0400	EndTestCase		(Duration:"87.841657", Errors:"1", Exceptions:"1", StartTime:"2018-08-29 09:42:42 -0400", Successes:"0", TestCase:"VerifyApt.script", Warnings:"0")	1	execute string	(null)
+2018-08-29 09:44:10.641 -0400	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "(TEXT:"Doe, Jane")" within 5.00 seconds  Restricted Search Rectangle ((156,590),(1804,654))\n -- Execution Time 0:01:27 VerifyApt.script	1	execute string	(null)

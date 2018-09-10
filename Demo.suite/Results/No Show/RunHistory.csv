@@ -1,0 +1,7 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-09-08 18:26:23.722 -0400,"Success",0:01:32,0,0,0,"20180908_182623.722/LogFile.txt","","",1
+2018-09-08 21:10:22.435 -0400,"Success",0:00:58,0,0,0,"20180908_211022.435/LogFile.txt","","",1
+2018-09-10 10:12:27.207 -0400,"Success",0:01:40,0,0,0,"20180910_101227.207/LogFile.txt","","",1
+2018-09-10 10:27:26.643 -0400,"Aborted",0:01:04,1,0,0,"20180910_102726.643/LogFile.txt","","",0
+2018-09-10 10:34:58.434 -0400,"Failure",0:00:16,1,0,1,"20180910_103458.434/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""FlowBoard""",0
+2018-09-10 10:44:53.872 -0400,"Failure",0:00:10,1,0,1,"20180910_104453.872/LogFile.txt","","Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]",0

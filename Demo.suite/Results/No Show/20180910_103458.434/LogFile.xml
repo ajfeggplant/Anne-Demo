@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="No Show_script" package="Demo.suite" timestamp="2018-09-10 10:34:58.434 -0400"
+ tests="1"  failures="1" errors="1" time="16.882755">
+  <properties>
+   <property name="RunDate" value="2018-09-10 10:34:58.434 -0400"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="No Show.script" assertions="1" status="error"  time="16.880767">
+    <failure type="FAILURE" message="Image Not Found click Error - No Image Found On Screen: &quot;FlowBoard&quot; -- Execution Time 0:00:16 No Show.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;FlowBoard&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

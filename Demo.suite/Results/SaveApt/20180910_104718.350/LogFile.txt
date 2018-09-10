@@ -1,0 +1,7 @@
+﻿2018-09-10 10:47:18.351 -0400	START		Running SaveApt.script	1	execute string	(null)
+2018-09-10 10:47:19.318 -0400	click	Save	at (578, 1506)	3	on_saveapt	SaveApt.script
+2018-09-10 10:47:21.104 -0400	imagefound	Ok1	found at (1540, 317)	5	on_saveapt	SaveApt.script
+2018-09-10 10:47:21.389 -0400	click		at (1540, 317)	6	on_saveapt	SaveApt.script
+2018-09-10 10:47:22.684 -0400	waitfor	Reports	found at (2037, 184)	10	on_saveapt	SaveApt.script
+2018-09-10 10:47:22.685 -0400	EndTestCase		(Duration:"4.332742", Errors:"0", Exceptions:"0", StartTime:"2018-09-10 10:47:18 -0400", Successes:"1", TestCase:"SaveApt.script", Warnings:"0")	1	execute string	(null)
+2018-09-10 10:47:22.792 -0400	SUCCESS		Execution Time 0:00:04 SaveApt.script	1	execute string	(null)

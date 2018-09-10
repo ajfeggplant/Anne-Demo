@@ -1,0 +1,10 @@
+﻿2018-09-08 21:04:45.604 -0400	START		Running CheckInApt.script	1	execute string	(null)
+2018-09-08 21:04:46.314 -0400	click	FlowBoard	at (339, 182)	3	on_checkinapt	CheckInApt.script
+2018-09-08 21:04:47.657 -0400	click	PatientName	at (645, 1031)	6	on_checkinapt	CheckInApt.script
+2018-09-08 21:04:47.961 -0400	typetext		Charred[returnKey]	7	on_checkinapt	CheckInApt.script
+2018-09-08 21:05:15.900 -0400	click	aptStatus	at (1331, 1368)	10	on_checkinapt	CheckInApt.script
+2018-09-08 21:05:24.265 -0400	click	-None	at (936, 488)	11	on_checkinapt	CheckInApt.script
+2018-09-08 21:05:24.651 -0400	click	Arrived	at (959, 776)	12	on_checkinapt	CheckInApt.script
+2018-09-08 21:05:26.299 -0400	click	Save	at (934, 715)	13	on_checkinapt	CheckInApt.script
+2018-09-08 21:05:26.303 -0400	EndTestCase		(Duration:"40.697446", Errors:"0", Exceptions:"0", StartTime:"2018-09-08 21:04:45 -0400", Successes:"1", TestCase:"CheckInApt.script", Warnings:"0")	1	execute string	(null)
+2018-09-08 21:05:26.319 -0400	SUCCESS		Execution Time 0:00:40 CheckInApt.script	1	execute string	(null)

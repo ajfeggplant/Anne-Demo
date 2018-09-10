@@ -1,0 +1,3 @@
+﻿2018-08-28 17:08:20.877 -0400	START		Running blank.script	1	execute string	(null)
+2018-08-28 17:08:21.389 -0400	EndTestCase		(Duration:"0.509075", Errors:"0", Exceptions:"0", StartTime:"2018-08-28 17:08:20 -0400", Successes:"1", TestCase:"blank.script", Warnings:"0")	1	execute string	(null)
+2018-08-28 17:08:21.411 -0400	SUCCESS		Execution Time 0:00:00 blank.script	1	execute string	(null)

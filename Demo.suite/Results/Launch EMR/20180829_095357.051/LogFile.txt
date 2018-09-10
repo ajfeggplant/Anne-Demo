@@ -1,0 +1,4 @@
+﻿2018-08-29 09:53:57.055 -0400	START		Running Launch EMR.script	1	execute string	(null)
+2018-08-29 09:54:10.309 -0400	Exception	Chrome	No Image Found On Screen: "Chrome"	1	on_launch_emr	Launch EMR.script
+2018-08-29 09:54:10.314 -0400	EndTestCase		(Duration:"13.257515", Errors:"1", Exceptions:"1", StartTime:"2018-08-29 09:53:57 -0400", Successes:"0", TestCase:"Launch EMR.script", Warnings:"0")	1	execute string	(null)
+2018-08-29 09:54:10.317 -0400	ABORTED		Execution Time 0:00:13 Launch EMR.script	1	execute string	(null)

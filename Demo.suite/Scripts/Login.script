@@ -1,0 +1,8 @@
+﻿Params user, password
+
+Click "Username"
+typetext user, tabKey
+typetext password
+Click "LoginButton"
+WaitFor 8.0, "About"
+

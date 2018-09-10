@@ -1,0 +1,18 @@
+﻿2018-09-08 17:30:29.976 -0400	START		Running CreateApt.script	1	execute string	(null)
+2018-09-08 17:30:30.886 -0400	click	addNewApt	at (53, 591)	5	on_createapt	CreateApt.script
+2018-09-08 17:30:33.091 -0400	set		SEARCHRECTANGLE = (VisitType_A,VisitType_B)	8	on_createapt	CreateApt.script
+2018-09-08 17:30:33.442 -0400	click	dropDown	at (1448, 364)	9	on_createapt	CreateApt.script
+2018-09-08 17:30:45.459 -0400	LogWarning		OCR Text read in search rect: Category:\nDate:\nTitle:\nOffice Visit\t▼\nO Al\nNo Show\n\nOffice Visit\n• Til\nEstablished Patient\n\nNp\a/ Patipnt\n\n1\tVV 1 G L 1 II L\nHealth and Behavioral Assessment\ndi\nPreventive Care Services\n\nOphthalmological Services\n( \
+2018-09-08 17:31:07.951 -0400	OCRUpdateWarning	(TEXT:"New Patient")	Found Text -- Using ValidWords:"*"
+2018-09-08 17:31:09.596 -0400	click	(TEXT:"New Patient")	at (846, 507)	10	on_createapt	CreateApt.script
+2018-09-08 17:31:09.880 -0400	typetext		[tab]	13	on_createapt	CreateApt.script
+2018-09-08 17:31:10.098 -0400	typetext		[returnKey]	14	on_createapt	CreateApt.script
+2018-09-08 17:31:11.122 -0400	typetext		[tab]	16	on_createapt	CreateApt.script
+2018-09-08 17:31:11.364 -0400	typetext		10[returnKey]	17	on_createapt	CreateApt.script
+2018-09-08 17:31:11.371 -0400	set		SEARCHRECTANGLE = ()	18	on_createapt	CreateApt.script
+2018-09-08 17:31:16.049 -0400	set		SEARCHRECTANGLE = (apointmentPopUp_A,apointmentPopUp_B)	21	on_createapt	CreateApt.script
+2018-09-08 17:31:18.616 -0400	waitfor	(TEXT:"Smith")	found at (808, 951)	25	on_createapt	CreateApt.script
+2018-09-08 17:31:20.628 -0400	waitfor	(TEXT:"New Patient")	found at (849, 363)	26	on_createapt	CreateApt.script
+2018-09-08 17:31:20.968 -0400	set		SEARCHRECTANGLE = ()	28	on_createapt	CreateApt.script
+2018-09-08 17:31:20.970 -0400	EndTestCase		(Duration:"50.990787", Errors:"0", Exceptions:"0", StartTime:"2018-09-08 17:30:29 -0400", Successes:"1", TestCase:"CreateApt.script", Warnings:"1")	1	execute string	(null)
+2018-09-08 17:31:20.988 -0400	SUCCESS		Execution Time 0:00:50 CreateApt.script	1	execute string	(null)

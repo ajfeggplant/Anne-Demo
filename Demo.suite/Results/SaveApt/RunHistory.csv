@@ -1,0 +1,22 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-09-05 17:18:43.345 -0400,"Failure",0:00:00,1,0,0,"20180905_171843.345/LogFile.txt","","SenseTalk Compiler Exception -- in saveapt:\nSyntax Error at line 6: Syntax Error - can't understand ""end"" at or near character 78",0
+2018-09-05 17:29:10.780 -0400,"Failure",0:00:00,1,0,0,"20180905_172910.780/LogFile.txt","","SenseTalk Compiler Exception -- in saveapt:\nSyntax Error at line 6: Syntax Error - can't understand ""end"" at or near character 78",0
+2018-09-08 16:02:34.161 -0400,"Failure",0:00:00,1,0,0,"20180908_160234.161/LogFile.txt","","SenseTalk Compiler Exception -- in saveapt:\nSyntax Error at line 6: Syntax Error - can't understand ""end"" at or near character 78",0
+2018-09-08 17:31:21.808 -0400,"Failure",0:00:00,1,0,0,"20180908_173121.808/LogFile.txt","","SenseTalk Compiler Exception -- in saveapt:\nSyntax Error at line 6: Syntax Error - can't understand ""end"" at or near character 78",0
+2018-09-08 17:57:46.206 -0400,"Aborted",0:00:03,1,0,0,"20180908_175746.206/LogFile.txt","","",0
+2018-09-08 18:01:37.995 -0400,"Failure",0:00:22,1,0,1,"20180908_180137.995/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Save""",0
+2018-09-08 18:06:40.130 -0400,"Failure",0:02:56,1,0,1,"20180908_180640.130/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: IT",0
+2018-09-08 18:12:27.127 -0400,"Success",0:00:07,0,0,0,"20180908_181227.127/LogFile.txt","","",1
+2018-09-08 18:13:40.981 -0400,"Success",0:00:07,0,0,0,"20180908_181340.981/LogFile.txt","","",1
+2018-09-08 18:17:11.673 -0400,"Failure",0:02:17,1,0,1,"20180908_181711.673/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Save""",0
+2018-09-08 18:23:00.249 -0400,"Success",0:00:05,0,0,0,"20180908_182300.249/LogFile.txt","","",1
+2018-09-08 18:26:15.067 -0400,"Success",0:00:07,0,0,0,"20180908_182615.067/LogFile.txt","","",1
+2018-09-08 21:04:40.267 -0400,"Success",0:00:04,0,0,0,"20180908_210440.267/LogFile.txt","","",1
+2018-09-08 21:10:15.071 -0400,"Success",0:00:06,0,0,0,"20180908_211015.071/LogFile.txt","","",1
+2018-09-08 21:15:56.113 -0400,"Success",0:00:04,0,0,0,"20180908_211556.113/LogFile.txt","","",1
+2018-09-08 21:20:27.008 -0400,"Success",0:00:04,0,0,0,"20180908_212027.008/LogFile.txt","","",1
+2018-09-10 10:12:19.610 -0400,"Success",0:00:06,0,0,0,"20180910_101219.610/LogFile.txt","","",1
+2018-09-10 10:27:18.178 -0400,"Success",0:00:07,0,0,0,"20180910_102718.178/LogFile.txt","","",1
+2018-09-10 10:34:28.652 -0400,"Success",0:00:08,0,0,0,"20180910_103428.652/LogFile.txt","","",1
+2018-09-10 10:44:44.816 -0400,"Success",0:00:07,0,0,0,"20180910_104444.816/LogFile.txt","","",1
+2018-09-10 10:47:18.350 -0400,"Success",0:00:04,0,0,0,"20180910_104718.350/LogFile.txt","","",1

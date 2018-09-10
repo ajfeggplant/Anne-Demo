@@ -1,0 +1,4 @@
+﻿2018-08-29 09:44:32.592 -0400	START		Running CleanUp.script	1	execute string	(null)
+2018-08-29 09:44:33.690 -0400	click	closeX	at (1898, 14)	1	on_cleanup	CleanUp.script
+2018-08-29 09:44:34.407 -0400	EndTestCase		(Duration:"1.81285", Errors:"1", Exceptions:"0", StartTime:"2018-08-29 09:44:32 -0400", Successes:"0", TestCase:"CleanUp.script", Warnings:"0")	1	execute string	(null)
+2018-08-29 09:44:34.409 -0400	ABORTED		Execution Time 0:00:01 CleanUp.script	1	execute string	(null)

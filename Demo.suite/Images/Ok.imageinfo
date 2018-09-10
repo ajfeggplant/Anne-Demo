@@ -1,0 +1,23 @@
+﻿{
+    CaptureDate = "2018-08-28 19:45:40 +0000";
+    CaptureHost = "Amazon Windows 10";
+    CaptureScreenSize =     (
+        1920,
+        1080
+    );
+    CropRectangle = "282,74,359,111";
+    HasAlpha = 1;
+    HotSpotX = 323;
+    HotSpotY = 92;
+    ImageDescription = <>;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 737;
+    OriginalLocationY = 66;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+    tags =     (
+    );
+}

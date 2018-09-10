@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="CreatePatient_script" package="Demo.suite" timestamp="2018-09-08 21:57:33.870 -0400"
+ tests="1"  failures="1" errors="0" time="1.547824">
+  <properties>
+   <property name="RunDate" value="2018-09-08 21:57:33.870 -0400"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="CreatePatient.script" assertions="1" status="failure"  time="1.545565">
+    <failure type="FAILURE" message="SenseTalk Runtime Exception Invalid operands for addition: expected numbers, dates and/or lists; got '(1,1)' and 'PatientClient' -- Execution Time 0:00:01 CreatePatient.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

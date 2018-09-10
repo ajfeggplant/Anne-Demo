@@ -1,0 +1,7 @@
+﻿2018-08-28 17:09:50.468 -0400	START		Running Launch EMR.script	1	execute string	(null)
+2018-08-28 17:09:51.059 -0400	doubleclick	Chrome	at (38, 240)	1	on_launch_emr	Launch EMR.script
+2018-08-28 17:09:54.659 -0400	click	addressbar	at (152, 48)	2	on_launch_emr	Launch EMR.script
+2018-08-28 17:09:55.997 -0400	typetext		demo.openemr.io/c/openemr[returnKey]	3	on_launch_emr	Launch EMR.script
+2018-08-28 17:09:58.094 -0400	waitfor	OpenEmrIcon	found at (962, 281)	4	on_launch_emr	Launch EMR.script
+2018-08-28 17:09:58.097 -0400	EndTestCase		(Duration:"7.627591", Errors:"0", Exceptions:"0", StartTime:"2018-08-28 17:09:50 -0400", Successes:"1", TestCase:"Launch EMR.script", Warnings:"0")	1	execute string	(null)
+2018-08-28 17:09:58.177 -0400	SUCCESS		Execution Time 0:00:07 Launch EMR.script	1	execute string	(null)

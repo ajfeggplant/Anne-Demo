@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Edit Apt Time_script" package="Demo.suite" timestamp="2018-09-08 21:20:32.638 -0400"
+ tests="1"  failures="1" errors="1" time="27.176363">
+  <properties>
+   <property name="RunDate" value="2018-09-08 21:20:32.638 -0400"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Edit Apt Time.script" assertions="1" status="error"  time="27.174453">
+    <failure type="FAILURE" message="Image Not Found click Error - No Text Found On Screen: &quot;(TEXT:&quot;Eggplant, Charred&quot;)&quot; -- Execution Time 0:00:27 Edit Apt Time.script" />
+    <error type="Exception" message="No Text Found On Screen: &quot;(TEXT:&quot;Eggplant, Charred&quot;)&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

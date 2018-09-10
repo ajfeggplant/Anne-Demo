@@ -1,0 +1,4 @@
+﻿2018-09-05 17:26:56.635 -0400	START		Running CleanUp.script	1	execute string	(null)
+2018-09-05 17:26:56.659 -0400	Exception		Remote Connection Unavailable	1	on_cleanup	CleanUp.script
+2018-09-05 17:26:56.662 -0400	EndTestCase		(Duration:"0.025091", Errors:"1", Exceptions:"1", StartTime:"2018-09-05 17:26:56 -0400", Successes:"0", TestCase:"CleanUp.script", Warnings:"0")	1	execute string	(null)
+2018-09-05 17:26:56.681 -0400	FAILURE		No Remote Connection typetext Error - Remote Connection Unavailable -- Execution Time 0:00:00 CleanUp.script	1	execute string	(null)

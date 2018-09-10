@@ -1,0 +1,9 @@
+﻿2018-09-05 17:00:29.504 -0400	START		Running CreateApt.script	1	execute string	(null)
+2018-09-05 17:00:30.182 -0400	click	addNewApt	at (53, 638)	5	on_createapt	CreateApt.script
+2018-09-05 17:00:32.472 -0400	set		SEARCHRECTANGLE = (VisitType_A,VisitType_B)	8	on_createapt	CreateApt.script
+2018-09-05 17:00:32.869 -0400	click	dropDown	at (1422, 364)	9	on_createapt	CreateApt.script
+2018-09-05 17:00:34.250 -0400	click	(TEXT:"New Patient")	at (846, 509)	10	on_createapt	CreateApt.script
+2018-09-05 17:00:34.851 -0400	typetext		[tab][tab]tabjey	13	on_createapt	CreateApt.script
+2018-09-05 17:00:35.378 -0400	typetext		11	14	on_createapt	CreateApt.script
+2018-09-05 17:18:42.900 -0400	EndTestCase		(Duration:"1093.393658", Errors:"1", Exceptions:"0", StartTime:"2018-09-05 17:00:29 -0400", Successes:"0", TestCase:"CreateApt.script", Warnings:"0")	1	execute string	(null)
+2018-09-05 17:18:42.905 -0400	ABORTED		Execution Time 0:18:13 CreateApt.script	1	execute string	(null)

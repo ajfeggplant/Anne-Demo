@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="CreatePatient_script" package="Demo.suite" timestamp="2018-09-05 17:27:54.025 -0400"
+ tests="1"  failures="0" errors="0" time="22.301969">
+  <properties>
+   <property name="RunDate" value="2018-09-05 17:27:54.025 -0400"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="CreatePatient.script" assertions="1" status="error"  time="22.299842">
+    <error type="Exception" message="No Image Found On Screen: &quot;NewSearch&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

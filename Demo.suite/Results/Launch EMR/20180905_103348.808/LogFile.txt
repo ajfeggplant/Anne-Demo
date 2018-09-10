@@ -1,0 +1,5 @@
+﻿2018-09-05 10:33:48.809 -0400	START		Running Launch EMR.script	1	execute string	(null)
+2018-09-05 10:34:07.997 -0400	doubleclick	Chrome	at (79, 269)	1	on_launch_emr	Launch EMR.script
+2018-09-05 10:34:47.464 -0400	waitfor	OpenEmrIcon	found at (1336, 517)	2	on_launch_emr	Launch EMR.script
+2018-09-05 10:34:47.467 -0400	EndTestCase		(Duration:"58.656528", Errors:"0", Exceptions:"0", StartTime:"2018-09-05 10:33:48 -0400", Successes:"1", TestCase:"Launch EMR.script", Warnings:"0")	1	execute string	(null)
+2018-09-05 10:34:47.786 -0400	SUCCESS		Execution Time 0:00:58 Launch EMR.script	1	execute string	(null)

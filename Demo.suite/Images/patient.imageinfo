@@ -1,0 +1,23 @@
+﻿{
+    CaptureDate = "2018-09-05 14:45:01 +0000";
+    CaptureHost = "Windows 10";
+    CaptureScreenSize =     (
+        2688,
+        1628
+    );
+    CropRectangle = "4,4,96,21";
+    HasAlpha = 1;
+    HotSpotX = 245;
+    HotSpotY = 34;
+    ImageDescription = <>;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 534;
+    OriginalLocationY = 824;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    tags =     (
+        makeApt
+    );
+}

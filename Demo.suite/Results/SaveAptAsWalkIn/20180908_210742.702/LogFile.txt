@@ -1,0 +1,10 @@
+﻿2018-09-08 21:07:42.703 -0400	START		Running SaveAptAsWalkIn.script	1	execute string	(null)
+2018-09-08 21:07:43.498 -0400	click	-None	at (833, 1157)	3	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-09-08 21:07:43.888 -0400	click	Arrived	at (857, 644)	4	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-09-08 21:07:44.290 -0400	click	Save	at (578, 1506)	5	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-09-08 21:07:48.118 -0400	click	Ok1	at (1540, 317)	9	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-09-08 21:07:50.695 -0400	imagefound	Ok1	found at (1696, 317)	13	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-09-08 21:07:50.879 -0400	click		at (1696, 317)	14	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-09-08 21:07:51.824 -0400	waitfor	Reports	found at (2037, 184)	18	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-09-08 21:07:52.152 -0400	EndTestCase		(Duration:"9.446958", Errors:"0", Exceptions:"0", StartTime:"2018-09-08 21:07:42 -0400", Successes:"1", TestCase:"SaveAptAsWalkIn.script", Warnings:"0")	1	execute string	(null)
+2018-09-08 21:07:52.173 -0400	SUCCESS		Execution Time 0:00:09 SaveAptAsWalkIn.script	1	execute string	(null)

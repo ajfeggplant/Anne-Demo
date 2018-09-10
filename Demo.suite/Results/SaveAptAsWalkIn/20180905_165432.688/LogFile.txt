@@ -1,0 +1,9 @@
+﻿2018-09-05 16:54:32.690 -0400	START		Running SaveAptAsWalkIn.script	1	execute string	(null)
+2018-09-05 16:54:33.640 -0400	click	-None	at (827, 1157)	3	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-09-05 16:54:35.852 -0400	click	Arrived	at (851, 644)	4	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-09-05 16:54:37.159 -0400	click	Save	at (572, 1506)	5	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-09-05 16:54:39.323 -0400	click	Ok1	at (1540, 317)	7	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-09-05 16:54:42.045 -0400	imagefound	Ok1	found at (1696, 317)	11	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-09-05 16:54:42.382 -0400	Exception	IT	Could Not Open Image: IT	12	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-09-05 16:54:42.386 -0400	EndTestCase		(Duration:"9.694325", Errors:"1", Exceptions:"1", StartTime:"2018-09-05 16:54:32 -0400", Successes:"0", TestCase:"SaveAptAsWalkIn.script", Warnings:"0")	1	execute string	(null)
+2018-09-05 16:54:43.418 -0400	FAILURE	Screen_Error.png	File Not Found click Error - Could Not Open Image: IT -- Execution Time 0:00:09 SaveAptAsWalkIn.script	1	execute string	(null)

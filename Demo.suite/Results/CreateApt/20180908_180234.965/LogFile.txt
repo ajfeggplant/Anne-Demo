@@ -1,0 +1,20 @@
+﻿2018-09-08 18:02:34.966 -0400	START		Running CreateApt.script	1	execute string	(null)
+2018-09-08 18:02:35.801 -0400	click	addNewApt	at (53, 591)	5	on_createapt	CreateApt.script
+2018-09-08 18:02:38.481 -0400	set		SEARCHRECTANGLE = (VisitType_A,VisitType_B)	8	on_createapt	CreateApt.script
+2018-09-08 18:02:39.550 -0400	click	dropDown	at (1465, 364)	9	on_createapt	CreateApt.script
+2018-09-08 18:02:40.778 -0400	click	(TEXT:"Office Visit")	at (840, 363)	10	on_createapt	CreateApt.script
+2018-09-08 18:02:40.991 -0400	typetext		[tab]	13	on_createapt	CreateApt.script
+2018-09-08 18:02:41.374 -0400	typetext		[returnKey]	14	on_createapt	CreateApt.script
+2018-09-08 18:02:42.431 -0400	typetext		[tab]	16	on_createapt	CreateApt.script
+2018-09-08 18:02:42.672 -0400	typetext		10[returnKey]	17	on_createapt	CreateApt.script
+2018-09-08 18:02:42.679 -0400	set		SEARCHRECTANGLE = ()	18	on_createapt	CreateApt.script
+2018-09-08 18:02:47.338 -0400	set		SEARCHRECTANGLE = (apointmentPopUp_A,apointmentPopUp_B)	21	on_createapt	CreateApt.script
+2018-09-08 18:02:48.528 -0400	click	Patient_1	at (776, 854)	24	on_createapt	CreateApt.script
+2018-09-08 18:02:51.039 -0400	typetext		smoked[return]	26	on_createapt	CreateApt.script
+2018-09-08 18:02:51.963 -0400	click	(TEXT:"smoked")	at (1525, 355)	27	on_createapt	CreateApt.script
+2018-09-08 18:03:01.821 -0400	LogWarning		OCR Text read in search rect: Categor\n\nSearch\nDate:\nTitle:\nName\nEggplant, Smoked\nSearch by:\nName ▼\nfor:\nPhone\n1 records found.\nss\nsmo|ked\nsmoked\n540632375\nDOB\n1970-05-25\nID\n36\nFacility:\nBilling F\nPatient:\nProvide\n4\nT\n□ Days Of\nWeek:\tSu Mo Tu We Th Fr Sa\nStatus:\nRoom Number:\n- None\nuntil date\n▼\nComments:\nSave\nFind Available\nDelete\nCancel\nCreate Duplicate
+2018-09-08 18:06:36.864 -0400	waitfor	(TEXT:"Smith")	found at (814, 951)	30	on_createapt	CreateApt.script
+2018-09-08 18:06:39.236 -0400	waitfor	(TEXT:"Office Visit")	found at (829, 563)	31	on_createapt	CreateApt.script
+2018-09-08 18:06:39.591 -0400	set		SEARCHRECTANGLE = ()	33	on_createapt	CreateApt.script
+2018-09-08 18:06:39.592 -0400	EndTestCase		(Duration:"244.625065", Errors:"0", Exceptions:"0", StartTime:"2018-09-08 18:02:34 -0400", Successes:"1", TestCase:"CreateApt.script", Warnings:"1")	1	execute string	(null)
+2018-09-08 18:06:39.642 -0400	SUCCESS		Execution Time 0:04:04 CreateApt.script	1	execute string	(null)

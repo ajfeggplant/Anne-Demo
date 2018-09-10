@@ -1,0 +1,8 @@
+﻿2018-09-10 10:43:53.723 -0400	START		Running Login.script	1	execute string	(null)
+2018-09-10 10:43:54.590 -0400	click	Username	at (619, 798)	3	on_login	Login.script
+2018-09-10 10:43:54.994 -0400	typetext		frontdesk[tab]	4	on_login	Login.script
+2018-09-10 10:43:55.357 -0400	typetext		pass	5	on_login	Login.script
+2018-09-10 10:43:56.139 -0400	click	LoginButton	at (2032, 1169)	6	on_login	Login.script
+2018-09-10 10:44:01.311 -0400	waitfor	About	found at (86, 181)	7	on_login	Login.script
+2018-09-10 10:44:01.596 -0400	EndTestCase		(Duration:"7.871294", Errors:"0", Exceptions:"0", StartTime:"2018-09-10 10:43:53 -0400", Successes:"1", TestCase:"Login.script", Warnings:"0")	1	execute string	(null)
+2018-09-10 10:44:01.615 -0400	SUCCESS		Execution Time 0:00:07 Login.script	1	execute string	(null)

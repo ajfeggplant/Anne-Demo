@@ -1,0 +1,75 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Edit Apt Time">
+ <run>
+  <RunDate>2018-09-08 18:13:49.204 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>138.619211</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180908_181349.204/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Appointment&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-08 18:23:07.394 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>24.357931</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180908_182307.394/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-08 21:16:02.363 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>23.895392</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180908_211602.363/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-08 21:20:32.638 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>27.176363</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180908_212032.638/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Text Found On Screen: &quot;(TEXT:&quot;Eggplant, Charred&quot;)&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-10 10:34:38.253 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>19.609774</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180910_103438.253/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-09-10 10:47:24.384 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>19.505534</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180910_104724.384/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="SelectProvider_script" package="Demo.suite" timestamp="2018-09-05 11:32:44.665 -0400"
+ tests="1"  failures="0" errors="0" time="4.948580">
+  <properties>
+   <property name="RunDate" value="2018-09-05 11:32:44.665 -0400"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="SelectProvider.script" assertions="1" status="success"  time="4.946813">
+  </testcase>
+ </testsuite>
+</testsuites>

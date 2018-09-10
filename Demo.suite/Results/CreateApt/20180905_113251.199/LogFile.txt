@@ -1,0 +1,15 @@
+﻿2018-09-05 11:32:51.200 -0400	START		Running CreateApt.script	1	execute string	(null)
+2018-09-05 11:32:52.103 -0400	click	addNewApt	at (53, 591)	3	on_createapt	CreateApt.script
+2018-09-05 11:32:54.071 -0400	set		SEARCHRECTANGLE = (VisitType_A,VisitType_B)	6	on_createapt	CreateApt.script
+2018-09-05 11:32:54.528 -0400	click	dropDown	at (1388, 364)	7	on_createapt	CreateApt.script
+2018-09-05 11:32:56.072 -0400	click	(TEXT:"New Patient")	at (846, 509)	8	on_createapt	CreateApt.script
+2018-09-05 11:32:56.073 -0400	set		SEARCHRECTANGLE = ()	9	on_createapt	CreateApt.script
+2018-09-05 11:32:58.077 -0400	set		SEARCHRECTANGLE = (apointmentPopUp_A,apointmentPopUp_B)	12	on_createapt	CreateApt.script
+2018-09-05 11:32:58.969 -0400	click	patient	at (779, 858)	14	on_createapt	CreateApt.script
+2018-09-05 11:33:01.084 -0400	typetext		eggplant[enter]	16	on_createapt	CreateApt.script
+2018-09-05 11:33:02.264 -0400	click	eggplant	at (719, 567)	17	on_createapt	CreateApt.script
+2018-09-05 11:33:04.099 -0400	click	(TEXT:"smith")	at (814, 951)	19	on_createapt	CreateApt.script
+2018-09-05 11:33:06.313 -0400	click	(TEXT:"New Patient")	at (854, 363)	20	on_createapt	CreateApt.script
+2018-09-05 11:33:06.314 -0400	set		SEARCHRECTANGLE = ()	23	on_createapt	CreateApt.script
+2018-09-05 11:33:06.315 -0400	EndTestCase		(Duration:"15.114092", Errors:"0", Exceptions:"0", StartTime:"2018-09-05 11:32:51 -0400", Successes:"1", TestCase:"CreateApt.script", Warnings:"0")	1	execute string	(null)
+2018-09-05 11:33:06.330 -0400	SUCCESS		Execution Time 0:00:15 CreateApt.script	1	execute string	(null)

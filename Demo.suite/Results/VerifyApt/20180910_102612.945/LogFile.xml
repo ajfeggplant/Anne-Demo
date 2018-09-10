@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="VerifyApt_script" package="Demo.suite" timestamp="2018-09-10 10:26:12.945 -0400"
+ tests="1"  failures="1" errors="1" time="3.164407">
+  <properties>
+   <property name="RunDate" value="2018-09-10 10:26:12.945 -0400"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="VerifyApt.script" assertions="1" status="error"  time="3.161854">
+    <failure type="FAILURE" message="Error Running Script Command waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX] -- Execution Time 0:00:03 VerifyApt.script" />
+    <error type="Exception" message="Too Few Parameters, please use waitfor time, image1[, imageX]" />
+  </testcase>
+ </testsuite>
+</testsuites>

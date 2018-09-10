@@ -1,0 +1,4 @@
+﻿2018-08-28 14:54:57.503 -0400	START		Running SelectProvider.script
+2018-08-28 14:54:59.032 -0400	click	(TEXT:"smit")	at (12, 445)	5	on_selectprovider	SelectProvider.script
+2018-08-28 14:55:05.432 -0400	EndTestCase		(Duration:"7.927949", Errors:"1", Exceptions:"0", StartTime:"2018-08-28 14:54:57 -0400", Successes:"0", TestCase:"SelectProvider.script", Warnings:"0")
+2018-08-28 14:55:05.434 -0400	ABORTED		Execution Time 0:00:07 SelectProvider.script

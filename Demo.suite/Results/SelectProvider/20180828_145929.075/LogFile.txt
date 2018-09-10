@@ -1,0 +1,6 @@
+﻿2018-08-28 14:59:29.076 -0400	START		Running SelectProvider.script	1	execute string	(null)
+2018-08-28 14:59:29.622 -0400	set		SEARCHRECTANGLE = (ProviderList_A,ProviderList_B)	4	on_selectprovider	SelectProvider.script
+2018-08-28 14:59:30.286 -0400	click	(TEXT:"stone")	at (15, 456)	5	on_selectprovider	SelectProvider.script
+2018-08-28 14:59:30.288 -0400	set		SEARCHRECTANGLE = ()	6	on_selectprovider	SelectProvider.script
+2018-08-28 15:01:12.651 -0400	EndTestCase		(Duration:"103.573829", Errors:"1", Exceptions:"0", StartTime:"2018-08-28 14:59:29 -0400", Successes:"0", TestCase:"SelectProvider.script", Warnings:"0")	1	execute string	(null)
+2018-08-28 15:01:12.654 -0400	ABORTED		Execution Time 0:01:43 SelectProvider.script	1	execute string	(null)

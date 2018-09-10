@@ -1,0 +1,4 @@
+﻿2018-09-08 21:57:33.872 -0400	START		Running CreatePatient.script
+2018-09-08 21:57:35.090 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 21:57:35.418 -0400	EndTestCase		(Duration:"1.545565", Errors:"1", Exceptions:"0", StartTime:"2018-09-08 21:57:33 -0400", Successes:"0", TestCase:"CreatePatient.script", Warnings:"0")
+2018-09-08 21:57:36.457 -0400	FAILURE	Screen_Error.png	SenseTalk Runtime Exception Invalid operands for addition: expected numbers, dates and/or lists; got '(1,1)' and 'PatientClient' -- Execution Time 0:00:01 CreatePatient.script

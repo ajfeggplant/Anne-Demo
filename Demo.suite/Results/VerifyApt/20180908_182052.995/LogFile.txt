@@ -1,0 +1,7 @@
+﻿2018-09-08 18:20:52.996 -0400	START		Running VerifyApt.script	1	execute string	(null)
+2018-09-08 18:20:53.802 -0400	click	FlowBoard	at (339, 182)	3	on_verifyapt	VerifyApt.script
+2018-09-08 18:20:55.079 -0400	click	PatientName	at (645, 1031)	5	on_verifyapt	VerifyApt.script
+2018-09-08 18:20:55.580 -0400	typetext		curried[returnKey]	6	on_verifyapt	VerifyApt.script
+2018-09-08 18:21:57.967 -0400	Log		Visit Completed	8	on_verifyapt	VerifyApt.script
+2018-09-08 18:21:57.990 -0400	EndTestCase		(Duration:"64.992477", Errors:"0", Exceptions:"0", StartTime:"2018-09-08 18:20:52 -0400", Successes:"1", TestCase:"VerifyApt.script", Warnings:"0")	1	execute string	(null)
+2018-09-08 18:21:58.010 -0400	SUCCESS		Execution Time 0:01:04 VerifyApt.script	1	execute string	(null)

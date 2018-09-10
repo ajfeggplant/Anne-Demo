@@ -1,0 +1,15 @@
+﻿2018-09-05 16:35:33.429 -0400	START		Running CreatePatient.script	1	execute string	(null)
+2018-09-05 16:35:33.909 -0400	click	PatientClient	at (956, 183)	4	on_createpatient	CreatePatient.script
+2018-09-05 16:35:34.753 -0400	click	NewSearch	at (958, 346)	5	on_createpatient	CreatePatient.script
+2018-09-05 16:35:36.841 -0400	typetext		[tab][tab][tab][tab][tab]	8	on_createpatient	CreatePatient.script
+2018-09-05 16:35:37.355 -0400	typetext		[downArrow]	9	on_createpatient	CreatePatient.script
+2018-09-05 16:35:37.869 -0400	typetext		[tab]	10	on_createpatient	CreatePatient.script
+2018-09-05 16:35:38.440 -0400	typetext		POC[tab][tab]	11	on_createpatient	CreatePatient.script
+2018-09-05 16:35:39.075 -0400	typetext		eggaldin[tab][tab]	12	on_createpatient	CreatePatient.script
+2018-09-05 16:35:39.709 -0400	typetext		1990/01/01[tab]	13	on_createpatient	CreatePatient.script
+2018-09-05 16:35:40.238 -0400	typetext		[downArrow][tab]	14	on_createpatient	CreatePatient.script
+2018-09-05 16:35:40.864 -0400	typetext		671884779[tab]	15	on_createpatient	CreatePatient.script
+2018-09-05 16:35:41.753 -0400	click	CreateNewPatient	at (456, 874)	16	on_createpatient	CreatePatient.script
+2018-09-05 16:35:57.518 -0400	Exception	ConfirmCreateNewPatient	No Image Found On Screen: "ConfirmCreateNewPatient"	17	on_createpatient	CreatePatient.script
+2018-09-05 16:35:57.521 -0400	EndTestCase		(Duration:"24.090292", Errors:"1", Exceptions:"1", StartTime:"2018-09-05 16:35:33 -0400", Successes:"0", TestCase:"CreatePatient.script", Warnings:"0")	1	execute string	(null)
+2018-09-05 16:35:57.669 -0400	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "ConfirmCreateNewPatient" -- Execution Time 0:00:24 CreatePatient.script	1	execute string	(null)

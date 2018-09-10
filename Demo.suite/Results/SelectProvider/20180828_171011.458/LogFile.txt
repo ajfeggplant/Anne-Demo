@@ -1,0 +1,5 @@
+﻿2018-08-28 17:10:11.459 -0400	START		Running SelectProvider.script	1	execute string	(null)
+2018-08-28 17:10:12.774 -0400	set		SEARCHRECTANGLE = (ProviderList_A,ProviderList_B)	4	on_selectprovider	SelectProvider.script
+2018-08-28 17:27:12.529 -0400	Exception	(TEXT:"stone")	No Text Found On Screen: "(TEXT:"stone")"	5	on_selectprovider	SelectProvider.script
+2018-08-28 17:27:12.534 -0400	EndTestCase		(Duration:"1021.073337", Errors:"1", Exceptions:"1", StartTime:"2018-08-28 17:10:11 -0400", Successes:"0", TestCase:"SelectProvider.script", Warnings:"0")	1	execute string	(null)
+2018-08-28 17:27:12.623 -0400	FAILURE	Screen_Error.png	Image Not Found click Error - No Text Found On Screen: "(TEXT:"stone")"  Restricted Search Rectangle ((1,398),(286,475))\n -- Execution Time 0:17:01 SelectProvider.script	1	execute string	(null)

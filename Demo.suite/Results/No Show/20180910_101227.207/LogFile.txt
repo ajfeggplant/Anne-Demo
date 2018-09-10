@@ -1,0 +1,10 @@
+﻿2018-09-10 10:12:27.208 -0400	START		Running No Show.script	1	execute string	(null)
+2018-09-10 10:12:27.455 -0400	click	FlowBoard	at (339, 182)	3	on_no_show	No Show.script
+2018-09-10 10:13:03.825 -0400	click	PatientName	at (645, 1031)	6	on_no_show	No Show.script
+2018-09-10 10:13:04.114 -0400	typetext		smoked[returnKey]	7	on_no_show	No Show.script
+2018-09-10 10:13:12.719 -0400	click	aptStatus	at (1389, 1368)	10	on_no_show	No Show.script
+2018-09-10 10:13:26.043 -0400	click	-None	at (936, 488)	11	on_no_show	No Show.script
+2018-09-10 10:14:06.547 -0400	click	Arrived	at (959, 776)	12	on_no_show	No Show.script
+2018-09-10 10:14:08.103 -0400	click	Save	at (934, 715)	13	on_no_show	No Show.script
+2018-09-10 10:14:08.111 -0400	EndTestCase		(Duration:"100.901748", Errors:"0", Exceptions:"0", StartTime:"2018-09-10 10:12:27 -0400", Successes:"1", TestCase:"No Show.script", Warnings:"0")	1	execute string	(null)
+2018-09-10 10:14:08.157 -0400	SUCCESS		Execution Time 0:01:40 No Show.script	1	execute string	(null)

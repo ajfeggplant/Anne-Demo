@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="No Show_script" package="Demo.suite" timestamp="2018-09-10 10:44:53.872 -0400"
+ tests="1"  failures="1" errors="1" time="10.099465">
+  <properties>
+   <property name="RunDate" value="2018-09-10 10:44:53.872 -0400"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="No Show.script" assertions="1" status="error"  time="10.097218">
+    <failure type="FAILURE" message="Error Running Script Command waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX] -- Execution Time 0:00:10 No Show.script" />
+    <error type="Exception" message="Too Few Parameters, please use waitfor time, image1[, imageX]" />
+  </testcase>
+ </testsuite>
+</testsuites>

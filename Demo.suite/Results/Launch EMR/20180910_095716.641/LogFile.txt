@@ -1,0 +1,4 @@
+﻿2018-09-10 09:57:16.643 -0400	START		Running Launch EMR.script	1	execute string	(null)
+2018-09-10 09:57:35.243 -0400	Exception	Chrome	No Image Found On Screen: "Chrome"	1	on_launch_emr	Launch EMR.script
+2018-09-10 09:57:35.250 -0400	EndTestCase		(Duration:"18.599485", Errors:"1", Exceptions:"1", StartTime:"2018-09-10 09:57:16 -0400", Successes:"0", TestCase:"Launch EMR.script", Warnings:"0")	1	execute string	(null)
+2018-09-10 09:57:35.482 -0400	FAILURE	Screen_Error.png	Image Not Found doubleclick Error - No Image Found On Screen: "Chrome" -- Execution Time 0:00:18 Launch EMR.script	1	execute string	(null)

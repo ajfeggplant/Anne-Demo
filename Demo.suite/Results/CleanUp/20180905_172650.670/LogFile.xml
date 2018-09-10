@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="CleanUp_script" package="Demo.suite" timestamp="2018-09-05 17:26:50.670 -0400"
+ tests="1"  failures="1" errors="1" time="0.010365">
+  <properties>
+   <property name="RunDate" value="2018-09-05 17:26:50.670 -0400"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="CleanUp.script" assertions="1" status="error"  time="0.008383">
+    <failure type="FAILURE" message="No Remote Connection typetext Error - Remote Connection Unavailable -- Execution Time 0:00:00 CleanUp.script" />
+    <error type="Exception" message="Remote Connection Unavailable" />
+  </testcase>
+ </testsuite>
+</testsuites>

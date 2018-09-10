@@ -1,0 +1,4 @@
+﻿2018-08-28 13:50:25.178 -0400	START		Running Untitled1.script
+2018-08-28 13:50:25.257 -0400	Log		(description:"", helperSuites:(), imagesFolder:"/Users/anne/Documents/Eggplant Suites/Demo.suite/Images", name:"Demo.suite", path:"/Users/anne/Documents/Eggplant Suites/Demo.suite", resultsFolder:"/Users/anne/Documents/Eggplant Suites/Demo.suite/Results", scriptsFolder:"/Users/anne/Documents/Eggplant Suites/Demo.suite/Scripts", version:"1808031152")	1	on_untitled1	Untitled1.script
+2018-08-28 13:50:25.459 -0400	EndTestCase		(Duration:"0.278059", Errors:"0", Exceptions:"0", StartTime:"2018-08-28 13:50:25 -0400", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2018-08-28 13:50:25.474 -0400	SUCCESS		Execution Time 0:00:00 Untitled1.script

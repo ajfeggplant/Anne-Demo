@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Launch EMR_script" package="Demo.suite" timestamp="2018-08-29 09:54:13.803 -0400"
+ tests="1"  failures="0" errors="0" time="9.039306">
+  <properties>
+   <property name="RunDate" value="2018-08-29 09:54:13.803 -0400"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="Launch EMR.script" assertions="1" status="error"  time="9.037277">
+    <error type="Exception" message="No Image Found On Screen: &quot;Chrome&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

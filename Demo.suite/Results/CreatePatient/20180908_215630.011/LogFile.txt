@@ -1,0 +1,5 @@
+﻿2018-09-08 21:56:30.012 -0400	START		Running CreatePatient.script
+2018-09-08 21:56:30.881 -0400	click	PatientClient	at (956, 183)	8	on_createpatient	CreatePatient.script
+2018-09-08 21:56:31.287 -0400	moveto	PatientClient	at (956, 183)	9	on_createpatient	CreatePatient.script
+2018-09-08 21:56:43.462 -0400	EndTestCase		(Duration:"13.449282", Errors:"1", Exceptions:"0", StartTime:"2018-09-08 21:56:30 -0400", Successes:"0", TestCase:"CreatePatient.script", Warnings:"0")
+2018-09-08 21:56:43.464 -0400	ABORTED		Execution Time 0:00:13 CreatePatient.script

@@ -1,0 +1,7 @@
+﻿2018-09-05 17:31:15.232 -0400	START		Running SaveAptAsWalkIn.script	1	execute string	(null)
+2018-09-05 17:31:15.763 -0400	click	-None	at (827, 1157)	3	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-09-05 17:31:16.970 -0400	click	Arrived	at (851, 644)	4	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-09-05 17:31:18.305 -0400	click	Save	at (572, 1506)	5	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-09-05 17:31:31.171 -0400	Exception	Ok1	No Image Found On Screen: "Ok1"	7	on_saveaptaswalkin	SaveAptAsWalkIn.script
+2018-09-05 17:31:31.174 -0400	EndTestCase		(Duration:"15.940189", Errors:"1", Exceptions:"1", StartTime:"2018-09-05 17:31:15 -0400", Successes:"0", TestCase:"SaveAptAsWalkIn.script", Warnings:"0")	1	execute string	(null)
+2018-09-05 17:31:31.335 -0400	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Ok1" -- Execution Time 0:00:15 SaveAptAsWalkIn.script	1	execute string	(null)

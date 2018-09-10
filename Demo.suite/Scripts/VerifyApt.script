@@ -1,0 +1,8 @@
+﻿params provider, visitType, ptName
+
+Click "FlowBoard"
+
+Click "PatientName"
+TypeText ptName,  returnkey
+waitfor 10, "AptArrived"
+log ("Visit Completed")

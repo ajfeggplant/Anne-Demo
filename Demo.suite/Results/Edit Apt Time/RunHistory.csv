@@ -1,0 +1,7 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-09-08 18:13:49.204 -0400,"Failure",0:02:18,1,0,1,"20180908_181349.204/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Appointment""",0
+2018-09-08 18:23:07.394 -0400,"Success",0:00:24,0,0,0,"20180908_182307.394/LogFile.txt","","",1
+2018-09-08 21:16:02.363 -0400,"Success",0:00:23,0,0,0,"20180908_211602.363/LogFile.txt","","",1
+2018-09-08 21:20:32.638 -0400,"Failure",0:00:27,1,1,1,"20180908_212032.638/LogFile.txt","","Image Not Found -- click Error - No Text Found On Screen: ""(TEXT:""Eggplant, Charred"")""",0
+2018-09-10 10:34:38.253 -0400,"Success",0:00:19,0,0,0,"20180910_103438.253/LogFile.txt","","",1
+2018-09-10 10:47:24.384 -0400,"Success",0:00:19,0,0,0,"20180910_104724.384/LogFile.txt","","",1

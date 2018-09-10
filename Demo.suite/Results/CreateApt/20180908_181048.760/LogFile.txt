@@ -1,0 +1,17 @@
+﻿2018-09-08 18:10:48.762 -0400	START		Running CreateApt.script	1	execute string	(null)
+2018-09-08 18:10:49.588 -0400	click	addNewApt	at (53, 591)	5	on_createapt	CreateApt.script
+2018-09-08 18:10:52.326 -0400	set		SEARCHRECTANGLE = (VisitType_A,VisitType_B)	8	on_createapt	CreateApt.script
+2018-09-08 18:10:53.219 -0400	click	dropDown	at (1465, 364)	9	on_createapt	CreateApt.script
+2018-09-08 18:10:54.384 -0400	click	(TEXT:"New Patient")	at (846, 509)	10	on_createapt	CreateApt.script
+2018-09-08 18:10:54.600 -0400	typetext		[tab]	13	on_createapt	CreateApt.script
+2018-09-08 18:10:54.815 -0400	typetext		[returnKey]	14	on_createapt	CreateApt.script
+2018-09-08 18:10:55.846 -0400	typetext		[tab]	16	on_createapt	CreateApt.script
+2018-09-08 18:10:56.089 -0400	typetext		15[returnKey]	17	on_createapt	CreateApt.script
+2018-09-08 18:10:56.098 -0400	set		SEARCHRECTANGLE = ()	18	on_createapt	CreateApt.script
+2018-09-08 18:11:00.752 -0400	set		SEARCHRECTANGLE = (apointmentPopUp_A,apointmentPopUp_B)	21	on_createapt	CreateApt.script
+2018-09-08 18:11:01.543 -0400	click	Patient_1	at (776, 854)	24	on_createapt	CreateApt.script
+2018-09-08 18:11:03.686 -0400	typetext		battered[return]	26	on_createapt	CreateApt.script
+2018-09-08 18:11:34.590 -0400	set		SEARCHRECTANGLE = (PatientSearchName,apointmentPopUp_B)	27	on_createapt	CreateApt.script
+2018-09-08 18:11:35.769 -0400	click	(TEXT:"battered")	at (854, 563)	28	on_createapt	CreateApt.script
+2018-09-08 18:12:25.342 -0400	EndTestCase		(Duration:"96.578677", Errors:"1", Exceptions:"0", StartTime:"2018-09-08 18:10:48 -0400", Successes:"0", TestCase:"CreateApt.script", Warnings:"0")	1	execute string	(null)
+2018-09-08 18:12:25.633 -0400	FAILURE	Screen_Error.png	Image Not Found set Error - Unable To Find Image: apointmentPopUp_A  Restricted Search Rectangle ((655,535),(2047,955))\n -- Execution Time 0:01:36 CreateApt.script	1	execute string	(null)

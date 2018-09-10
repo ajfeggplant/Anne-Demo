@@ -1,0 +1,115 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="CreateApt">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>49</NumberOfRuns>
+  <NumberOfFails>7</NumberOfFails>
+  <FirstRun>2018-08-29 09:38:18 -0400</FirstRun>
+  <LastRun>2018-09-10 10:46:52 -0400</LastRun>
+  <TotalTimeOnSuccess>2055.056888</TotalTimeOnSuccess>
+ </script>
+ <script name="SaveAptAsWalkIn">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>26</NumberOfRuns>
+  <NumberOfFails>5</NumberOfFails>
+  <FirstRun>2018-08-29 09:38:58 -0400</FirstRun>
+  <LastRun>2018-09-10 10:46:05 -0400</LastRun>
+  <TotalTimeOnSuccess>1869.836713</TotalTimeOnSuccess>
+ </script>
+ <script name="Launch EMR1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-08-28 13:50:25 -0400</FirstRun>
+  <LastRun>2018-08-28 13:50:25 -0400</LastRun>
+  <TotalTimeOnSuccess>0.282633</TotalTimeOnSuccess>
+ </script>
+ <script name="Edit Apt Time">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2018-09-08 18:13:49 -0400</FirstRun>
+  <LastRun>2018-09-10 10:47:24 -0400</LastRun>
+  <TotalTimeOnSuccess>87.368631</TotalTimeOnSuccess>
+ </script>
+ <script name="SelectProvider">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>64</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2018-08-28 15:03:13 -0400</FirstRun>
+  <LastRun>2018-09-10 10:46:41 -0400</LastRun>
+  <TotalTimeOnSuccess>822.071556</TotalTimeOnSuccess>
+ </script>
+ <script name="blank">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>64</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-08-28 17:04:58 -0400</FirstRun>
+  <LastRun>2018-09-10 10:46:50 -0400</LastRun>
+  <TotalTimeOnSuccess>33.302424</TotalTimeOnSuccess>
+ </script>
+ <script name="Login">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>71</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-08-28 14:53:43 -0400</FirstRun>
+  <LastRun>2018-09-10 10:46:32 -0400</LastRun>
+  <TotalTimeOnSuccess>833.794531</TotalTimeOnSuccess>
+ </script>
+ <script name="CreatePatient">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>14</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2018-09-05 16:35:33 -0400</FirstRun>
+  <LastRun>2018-09-08 22:00:31 -0400</LastRun>
+  <TotalTimeOnSuccess>1515.873055</TotalTimeOnSuccess>
+ </script>
+ <script name="SaveApt">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>20</NumberOfRuns>
+  <NumberOfFails>7</NumberOfFails>
+  <FirstRun>2018-09-05 17:18:43 -0400</FirstRun>
+  <LastRun>2018-09-10 10:47:18 -0400</LastRun>
+  <TotalTimeOnSuccess>81.423093</TotalTimeOnSuccess>
+ </script>
+ <script name="Launch EMR">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>84</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2018-08-28 14:07:03 -0400</FirstRun>
+  <LastRun>2018-09-10 10:46:26 -0400</LastRun>
+  <TotalTimeOnSuccess>870.728656</TotalTimeOnSuccess>
+ </script>
+ <script name="CheckInApt">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>8</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2018-08-28 17:08:22 -0400</FirstRun>
+  <LastRun>2018-09-10 10:47:45 -0400</LastRun>
+  <TotalTimeOnSuccess>378.763126</TotalTimeOnSuccess>
+ </script>
+ <script name="CleanUp">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>73</NumberOfRuns>
+  <NumberOfFails>12</NumberOfFails>
+  <FirstRun>2018-08-28 15:01:19 -0400</FirstRun>
+  <LastRun>2018-09-10 10:48:06 -0400</LastRun>
+  <TotalTimeOnSuccess>115.618123</TotalTimeOnSuccess>
+ </script>
+ <script name="No Show">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2018-09-08 18:26:23 -0400</FirstRun>
+  <LastRun>2018-09-10 10:44:53 -0400</LastRun>
+  <TotalTimeOnSuccess>251.510007</TotalTimeOnSuccess>
+ </script>
+ <script name="VerifyApt">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>29</NumberOfRuns>
+  <NumberOfFails>7</NumberOfFails>
+  <FirstRun>2018-08-28 16:59:07 -0400</FirstRun>
+  <LastRun>2018-09-10 10:48:02 -0400</LastRun>
+  <TotalTimeOnSuccess>867.055681</TotalTimeOnSuccess>
+ </script>
+</statistics>
