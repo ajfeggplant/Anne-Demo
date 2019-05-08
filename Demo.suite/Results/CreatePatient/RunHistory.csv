@@ -31,3 +31,10 @@
 2018-09-08 21:59:51.179 -0400,"Aborted",0:00:12,1,0,0,"20180908_215951.179/LogFile.txt","","",0
 2018-09-08 22:00:09.562 -0400,"Aborted",0:00:05,1,0,0,"20180908_220009.562/LogFile.txt","","",0
 2018-09-08 22:00:31.391 -0400,"Success",0:03:49,0,0,0,"20180908_220031.391/LogFile.txt","","",1
+2019-04-01 14:45:02.755 -0400,"Failure",0:00:00,1,0,1,"20190401_144502.755/LogFile.txt","","No Remote Connection -- click Error - Remote Connection Unavailable",0
+2019-04-01 14:45:11.512 -0400,"Failure",0:01:21,1,1,1,"20190401_144511.512/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""ConfirmCreateNewPatient""",0
+2019-04-01 14:46:45.529 -0400,"Failure",0:03:05,1,1,1,"20190401_144645.529/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""PatientClient""",0
+2019-04-01 14:50:01.479 -0400,"Failure",0:03:06,1,1,1,"20190401_145001.479/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""PatientClient""",0
+2019-04-01 14:54:06.271 -0400,"Aborted",0:00:02,1,0,0,"20190401_145406.271/LogFile.txt","","",0
+2019-04-01 14:54:54.019 -0400,"Failure",0:03:11,1,1,1,"20190401_145454.019/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""CreateNewPatient""",0
+2019-04-01 14:59:01.952 -0400,"Failure",0:03:04,1,1,1,"20190401_145901.952/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""CreateNewPatient""",0

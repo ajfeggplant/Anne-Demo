@@ -8,6 +8,7 @@
     HasAlpha = 1;
     HotSpotX = 166;
     HotSpotY = 18;
+    ImageDescription = <>;
     ImageTags =     (
         newpatient
     );

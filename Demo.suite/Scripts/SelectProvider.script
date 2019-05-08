@@ -1,7 +1,7 @@
 ﻿Params provider
 
 click Calendar
-wait 3
+waitfor 10, "ProviderList_A"
 
 //Select Provider in provider list
 set the SearchRectangle to ("ProviderList_A","ProviderList_B")

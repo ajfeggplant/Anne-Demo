@@ -24,7 +24,7 @@ Set the SearchRectangle to ("apointmentPopUp_A","apointmentPopUp_B")
 Click "Patient_1"
 wait 2
 typetext ptName, return
-click (text:"Eggplant,"&&ptName, DPI:170)
+click (text:"Eggplant,"&&ptName, DPI:170, TextDifference:1)
 wait 3
 
 //Verify Apt info
