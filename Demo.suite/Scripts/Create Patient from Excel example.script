@@ -1,0 +1,72 @@
+﻿//File Location, will need to be updated for different lists. Using the Resource section in Functional allows easier access to the document. If you do not see the resource section on the righthand column, click the shopping cart to unside that section. 
+//You can also enter the full path to the file
+put  ResourcePath("Patient Creation.xlsx") into filename
+
+set myExcelDB to (file:filename,  type:"excel", writable:"YES") //can also be used with a CSV file 
+set PatientList to table ("Sheet1") of myExcelDB
+
+//log in to EMR
+Run "Launch EMR" 
+run Login "frontdesk", "pass"
+
+//Loop through each row in the spreadsheet. The by reference at the end tells eggplant to read and write directly to the spreadsheet
+repeat with each item row of the records of PatientList by reference 
+	log row //for troubleshooting
+	
+	//skip any patient that might have. The syntax of "row"."columnname" will return the value at the current row in the spesific column. if column name has a space simply put " " around it.  
+	if row.MRN is not equal to ()
+		next repeat
+	end if
+	
+	//Patient creation steps
+	Click "PatientClient"
+	MoveTo (FoundImageLocation() + (10,0))
+	
+	wait 1
+	Click "NewSearch"
+	
+	//click the start
+	Click image:"name1", waitfor:10
+	
+	//patient fist name
+	typetext row."First Name", tabKey, tabKey,
+	//patient last name
+	typetext row."Last Name", tabKey, tabKey
+	
+	//Birth date - a random age between 18 and 58
+	put random (1953, 2000) into year
+	put random (1,12) into month
+	put random (1,30) into day
+	
+	//saving Brithdate to the file
+	put date(month &"/" & day & "/" & year ) into row.Birthdate
+	typetext (year & "/" & month & "/" & day), tabKey
+	
+	//SSN
+	put random(100000000, 999999999) into SSN
+	put SSN into row.SSN
+	TypeText SSN, tabKey
+	
+	//Create the patient
+	Click "CreateNewPatient"
+	Click "ConfirmCreateNewPatient"
+	
+	wait 2
+	
+	//reading the MRN from the screen. 
+	doubleclick (image:"MRN", hotspot:(10,50)) //doubleclicks the spot next to the MRN image. This can also be done by moving the hotspot in the image. 
+	typetext controlkey, "c" //saves the MRN to the clipboard
+	
+	put RemoteClipboard() into MRN //puts the value of the clipbord into the variable MRN
+	SetRemoteClipboard " " // clears out the SUT's clipboard incase something goes wrong for the next round
+	
+	log "Patient MRN: " && MRN
+	Put MRN into row.MRN
+	
+	if imagefound("Ok1") then click FoundImageLocation()
+	
+end repeat
+
+//close EMR
+typetext altKey, f4
+

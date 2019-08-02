@@ -1,21 +1,19 @@
 ﻿{
-    CaptureDate = "2018-09-08 21:36:36 +0000";
-    CaptureHost = "Windows 10";
+    CaptureDate = "2019-07-31 15:16:45 +0000";
+    CaptureHost = "Windows_VM";
     CaptureScreenSize =     (
-        2688,
-        1628
+        1920,
+        1080
     );
     HasAlpha = 1;
-    HotSpotX = 83;
-    HotSpotY = 78;
+    HotSpotX = 40;
+    HotSpotY = 43;
+    ImageDescription = <>;
     LastKnownLocationX = 0;
     LastKnownLocationY = 0;
-    OriginalLocationX = 1675;
-    OriginalLocationY = 1000;
+    OriginalLocationX = 758;
+    OriginalLocationY = 439;
     Precise = 0;
     Pulsing = 0;
     Scale = 1;
-    SearchAlgorithm = TextSmoothSquare;
-    tags =     (
-    );
 }

@@ -5,3 +5,4 @@
 2018-09-10 10:27:26.643 -0400,"Aborted",0:01:04,1,0,0,"20180910_102726.643/LogFile.txt","","",0
 2018-09-10 10:34:58.434 -0400,"Failure",0:00:16,1,0,1,"20180910_103458.434/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""FlowBoard""",0
 2018-09-10 10:44:53.872 -0400,"Failure",0:00:10,1,0,1,"20180910_104453.872/LogFile.txt","","Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]",0
+2019-07-31 15:18:09 +0000,"Failure",0:03:32,1,0,1,"20190731_111809.885/LogFile.txt","","Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]",0

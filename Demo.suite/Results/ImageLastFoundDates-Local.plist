@@ -10,104 +10,90 @@
 	<string>2018-09-10 14:47 +0000</string>
 	<key>-None/-None_new_1.png</key>
 	<string>2018-09-09 01:16 +0000</string>
+	<key>-None/1-None.png</key>
+	<string>2019-07-31 15:24 +0000</string>
 	<key>About.png</key>
 	<string>2018-09-05 15:04 +0000</string>
 	<key>About/About.png</key>
-	<string>2018-09-05 15:36 +0000</string>
-	<key>About/About_new.png</key>
-	<string>2018-09-10 14:46 +0000</string>
+	<string>2019-07-31 19:32 +0000</string>
 	<key>Appointment.png</key>
-	<string>2018-09-10 14:47 +0000</string>
+	<string>2019-07-31 15:27 +0000</string>
 	<key>AptArrived.png</key>
-	<string>2018-09-10 14:19 +0000</string>
+	<string>2019-07-31 15:25 +0000</string>
 	<key>Arrived.png</key>
 	<string>2018-08-28 20:59 +0000</string>
 	<key>Arrived/Arrived.png</key>
-	<string>2018-09-10 14:47 +0000</string>
+	<string>2019-07-31 15:24 +0000</string>
 	<key>Arrived/Arrived_new.png</key>
 	<string>2018-08-28 21:00 +0000</string>
 	<key>Calendar.png</key>
 	<string>2018-09-05 20:40 +0000</string>
-	<key>Calendar/Calendar_new.png</key>
-	<string>2018-09-10 14:46 +0000</string>
+	<key>Calendar/Calendar.png</key>
+	<string>2019-07-31 19:32 +0000</string>
 	<key>Chrome.png</key>
-	<string>2018-09-10 14:48 +0000</string>
-	<key>ClickHeretoaddanewpatient.png</key>
-	<string>2018-09-05 20:02 +0000</string>
+	<string>2019-08-01 13:05 +0000</string>
 	<key>ConfirmCreateNewPatient.png</key>
 	<string>2018-09-09 02:04 +0000</string>
 	<key>CreateNewPatient.png</key>
 	<string>2019-04-01 18:45 +0000</string>
 	<key>FlowBoard.png</key>
-	<string>2018-09-10 14:48 +0000</string>
+	<string>2019-07-31 15:27 +0000</string>
 	<key>LoginButton.png</key>
-	<string>2019-04-01 19:43 +0000</string>
+	<string>2019-07-31 19:32 +0000</string>
 	<key>NewSearch.png</key>
 	<string>2019-04-01 18:59 +0000</string>
 	<key>Noshow.png</key>
-	<string>2018-09-10 14:45 +0000</string>
+	<string>2019-07-31 15:20 +0000</string>
 	<key>Noshow_1_Apt.png</key>
 	<string>2018-09-10 14:32 +0000</string>
 	<key>Ok1.png</key>
-	<string>2018-09-10 14:47 +0000</string>
+	<string>2019-07-31 15:24 +0000</string>
 	<key>OpenEmrIcon.png</key>
-	<string>2018-09-10 14:46 +0000</string>
+	<string>2019-07-31 19:32 +0000</string>
 	<key>PatientClient.png</key>
 	<string>2019-04-01 18:59 +0000</string>
 	<key>PatientName.png</key>
 	<string>2018-09-10 14:12 +0000</string>
-	<key>PatientName/PatientName.png</key>
-	<string>2018-09-10 14:48 +0000</string>
 	<key>PatientName/PatientName_new.png</key>
-	<string>2018-09-10 14:44 +0000</string>
-	<key>PatientSearchName.png</key>
-	<string>2018-09-08 22:13 +0000</string>
+	<string>2019-07-31 15:27 +0000</string>
 	<key>Patient_1.png</key>
-	<string>2018-09-10 14:47 +0000</string>
+	<string>2019-07-31 19:33 +0000</string>
 	<key>ProviderList_A.png</key>
-	<string>2018-09-10 14:46 +0000</string>
+	<string>2019-07-31 19:32 +0000</string>
 	<key>ProviderList_B.png</key>
-	<string>2018-09-10 14:46 +0000</string>
+	<string>2019-07-31 19:32 +0000</string>
 	<key>Reports.png</key>
 	<string>2018-09-05 14:50 +0000</string>
 	<key>Reports/Reports.png</key>
-	<string>2018-09-10 14:47 +0000</string>
-	<key>Reports/Reports_new.png</key>
-	<string>2018-09-05 15:37 +0000</string>
+	<string>2019-07-31 19:33 +0000</string>
 	<key>Save.png</key>
 	<string>2018-08-28 19:44 +0000</string>
 	<key>Save/Save.png</key>
-	<string>2018-09-05 14:47 +0000</string>
-	<key>Save/Save_new.png</key>
-	<string>2018-09-10 14:47 +0000</string>
-	<key>Save/Save_new_new.png</key>
 	<string>2018-09-10 14:48 +0000</string>
+	<key>Save/Save_blue.png</key>
+	<string>2019-07-31 19:33 +0000</string>
 	<key>SlotAlreadyUsed.png</key>
 	<string>2018-08-28 19:45 +0000</string>
 	<key>Time.png</key>
-	<string>2018-09-10 14:47 +0000</string>
+	<string>2019-07-31 15:27 +0000</string>
 	<key>Username.png</key>
-	<string>2018-09-10 14:46 +0000</string>
+	<string>2019-07-31 19:32 +0000</string>
 	<key>VisitType_A.png</key>
-	<string>2018-09-10 14:46 +0000</string>
+	<string>2019-07-31 19:33 +0000</string>
 	<key>VisitType_B.png</key>
-	<string>2018-09-10 14:46 +0000</string>
+	<string>2019-07-31 19:33 +0000</string>
 	<key>WhoseSchedule_A.png</key>
-	<string>2018-09-10 14:46 +0000</string>
+	<string>2019-07-31 19:32 +0000</string>
 	<key>WhoseSchedule_B.png</key>
-	<string>2018-09-10 14:46 +0000</string>
+	<string>2019-07-31 19:32 +0000</string>
 	<key>addNewApt.png</key>
-	<string>2018-09-10 14:46 +0000</string>
-	<key>addressbar.png</key>
-	<string>2018-09-05 14:26 +0000</string>
+	<string>2019-07-31 19:33 +0000</string>
 	<key>apointmentPopUp_A.png</key>
-	<string>2018-09-10 14:47 +0000</string>
+	<string>2019-07-31 19:33 +0000</string>
 	<key>apointmentPopUp_B.png</key>
-	<string>2018-09-10 14:47 +0000</string>
+	<string>2019-07-31 19:33 +0000</string>
 	<key>aptStatus.png</key>
-	<string>2018-09-10 14:47 +0000</string>
-	<key>background.png</key>
-	<string>2018-08-29 13:44 +0000</string>
+	<string>2019-07-31 15:19 +0000</string>
 	<key>closePatient.png</key>
 	<string>2018-08-29 15:54 +0000</string>
 	<key>closeX.png</key>
@@ -117,15 +103,9 @@
 	<key>closeX/closeX_new.png</key>
 	<string>2018-08-29 13:44 +0000</string>
 	<key>dropDown.png</key>
-	<string>2018-09-10 14:46 +0000</string>
+	<string>2019-07-31 19:33 +0000</string>
 	<key>eggplant.png</key>
 	<string>2018-09-05 15:37 +0000</string>
-	<key>flowBoard_A.png</key>
-	<string>2018-09-05 18:50 +0000</string>
-	<key>flowBoard_B.png</key>
-	<string>2019-05-14 14:51 +0000</string>
-	<key>patient.png</key>
-	<string>2018-09-08 21:34 +0000</string>
 	<key>searchButton.png</key>
 	<string>2018-08-29 15:54 +0000</string>
 </dict>

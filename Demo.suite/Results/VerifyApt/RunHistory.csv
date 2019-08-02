@@ -37,3 +37,5 @@
 2018-09-10 10:26:12.945 -0400,"Failure",0:00:03,1,0,1,"20180910_102612.945/LogFile.txt","","Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]",0
 2018-09-10 10:46:15.573 -0400,"Failure",0:00:02,1,0,1,"20180910_104615.573/LogFile.txt","","Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]",0
 2018-09-10 10:48:02.606 -0400,"Failure",0:00:02,1,0,1,"20180910_104802.606/LogFile.txt","","Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]",0
+2019-07-31 15:02:13 +0000,"Success",0:01:28,0,0,0,"20190731_110213.929/LogFile.txt","","",1
+2019-07-31 15:24:55 +0000,"Success",0:00:05,0,0,0,"20190731_112455.578/LogFile.txt","","",1

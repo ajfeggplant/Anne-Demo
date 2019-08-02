@@ -1,3 +1,0 @@
-﻿2018-09-05 14:47:12.356 -0400	START		Running CheckInApt.script	1	execute string	(null)
-2018-09-05 14:47:13.512 -0400	EndTestCase		(Duration:"1.153729", Errors:"1", Exceptions:"0", StartTime:"2018-09-05 14:47:12 -0400", Successes:"0", TestCase:"CheckInApt.script", Warnings:"0")	1	execute string	(null)
-2018-09-05 14:47:13.515 -0400	ABORTED		Execution Time 0:00:01 CheckInApt.script	1	execute string	(null)

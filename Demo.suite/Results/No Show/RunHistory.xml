@@ -72,4 +72,16 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]</ErrorMessage>
  </run>
+ <run>
+  <RunDate>2019-07-31 15:18:09 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>212.498849</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190731_111809.885/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]</ErrorMessage>
+ </run>
 </runHistory>

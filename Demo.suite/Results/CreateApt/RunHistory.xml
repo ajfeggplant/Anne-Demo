@@ -807,4 +807,113 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
+ <run>
+  <RunDate>2019-07-31 14:47:15 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>730.159868</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190731_104715.485/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-07-31 15:06:10 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>137.718282</Duration>
+  <Errors>0</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190731_110610.052/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-07-31 15:24:05 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>32.258563</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190731_112405.463/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-07-31 15:26:05 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>31.820851</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190731_112605.957/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-07-31 15:28:51 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>457.645811</Duration>
+  <Errors>0</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190731_112851.333/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-07-31 19:02:31 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>70.344688</Duration>
+  <Errors>0</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190731_150231.953/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-07-31 19:26:54 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>124.092964</Duration>
+  <Errors>1</Errors>
+  <Warnings>3</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190731_152654.395/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;New Patient&quot;)&quot; within 3.00 seconds. Text might be too low contrast to detect.  Restricted Search Rectangle ((590,151),(1333,760))
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-07-31 19:30:22 +0000</RunDate>
+  <Status>Aborted</Status>
+  <Duration>52.333158</Duration>
+  <Errors>1</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190731_153022.793/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-07-31 19:33:08 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>30.823709</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190731_153308.562/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
 </runHistory>

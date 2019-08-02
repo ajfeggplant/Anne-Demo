@@ -1,102 +1,38 @@
 ﻿<?xml version="1.0"?>
 <statistics>
- <script name="CreateApt">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>49</NumberOfRuns>
-  <NumberOfFails>7</NumberOfFails>
-  <FirstRun>2018-08-29 09:38:18 -0400</FirstRun>
-  <LastRun>2018-09-10 10:46:52 -0400</LastRun>
-  <TotalTimeOnSuccess>2055.056888</TotalTimeOnSuccess>
- </script>
- <script name="SaveAptAsWalkIn">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>26</NumberOfRuns>
-  <NumberOfFails>5</NumberOfFails>
-  <FirstRun>2018-08-29 09:38:58 -0400</FirstRun>
-  <LastRun>2018-09-10 10:46:05 -0400</LastRun>
-  <TotalTimeOnSuccess>1869.836713</TotalTimeOnSuccess>
- </script>
- <script name="Launch EMR1">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>1</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2018-08-28 13:50:25 -0400</FirstRun>
-  <LastRun>2018-08-28 13:50:25 -0400</LastRun>
-  <TotalTimeOnSuccess>0.282633</TotalTimeOnSuccess>
- </script>
- <script name="Edit Apt Time">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>6</NumberOfRuns>
-  <NumberOfFails>2</NumberOfFails>
-  <FirstRun>2018-09-08 18:13:49 -0400</FirstRun>
-  <LastRun>2018-09-10 10:47:24 -0400</LastRun>
-  <TotalTimeOnSuccess>87.368631</TotalTimeOnSuccess>
- </script>
- <script name="SelectProvider">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>64</NumberOfRuns>
-  <NumberOfFails>2</NumberOfFails>
-  <FirstRun>2018-08-28 15:03:13 -0400</FirstRun>
-  <LastRun>2018-09-10 10:46:41 -0400</LastRun>
-  <TotalTimeOnSuccess>822.071556</TotalTimeOnSuccess>
- </script>
  <script name="blank">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>64</NumberOfRuns>
+  <NumberOfRuns>82</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
   <FirstRun>2018-08-28 17:04:58 -0400</FirstRun>
-  <LastRun>2018-09-10 10:46:50 -0400</LastRun>
-  <TotalTimeOnSuccess>33.302424</TotalTimeOnSuccess>
- </script>
- <script name="Login">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>71</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2018-08-28 14:53:43 -0400</FirstRun>
-  <LastRun>2018-09-10 10:46:32 -0400</LastRun>
-  <TotalTimeOnSuccess>833.794531</TotalTimeOnSuccess>
- </script>
- <script name="CreatePatient">
-  <LastStatus>Failure</LastStatus>
-  <NumberOfRuns>20</NumberOfRuns>
-  <NumberOfFails>8</NumberOfFails>
-  <FirstRun>2018-09-05 16:35:33 -0400</FirstRun>
-  <LastRun>2019-04-01 14:59:01 -0400</LastRun>
-  <TotalTimeOnSuccess>1515.873055</TotalTimeOnSuccess>
- </script>
- <script name="Untitled1">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>1</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2019-04-01 15:42:58 -0400</FirstRun>
-  <LastRun>2019-04-01 15:42:58 -0400</LastRun>
-  <TotalTimeOnSuccess>10.023631</TotalTimeOnSuccess>
+  <LastRun>Aug 1, 2019 at 11:37:30 AM</LastRun>
+  <TotalTimeOnSuccess>51.026289</TotalTimeOnSuccess>
  </script>
  <script name="SaveApt">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>20</NumberOfRuns>
-  <NumberOfFails>7</NumberOfFails>
+  <NumberOfRuns>26</NumberOfRuns>
+  <NumberOfFails>8</NumberOfFails>
   <FirstRun>2018-09-05 17:18:43 -0400</FirstRun>
-  <LastRun>2018-09-10 10:47:18 -0400</LastRun>
-  <TotalTimeOnSuccess>81.423093</TotalTimeOnSuccess>
+  <LastRun>Jul 31, 2019 at 3:33:40 PM</LastRun>
+  <TotalTimeOnSuccess>124.203314</TotalTimeOnSuccess>
  </script>
- <script name="Launch EMR">
+ <script name="SelectProvider">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>84</NumberOfRuns>
+  <NumberOfRuns>74</NumberOfRuns>
   <NumberOfFails>3</NumberOfFails>
-  <FirstRun>2018-08-28 14:07:03 -0400</FirstRun>
-  <LastRun>2018-09-10 10:46:26 -0400</LastRun>
-  <TotalTimeOnSuccess>870.728656</TotalTimeOnSuccess>
+  <FirstRun>2018-08-28 15:03:13 -0400</FirstRun>
+  <LastRun>Jul 31, 2019 at 3:32:51 PM</LastRun>
+  <TotalTimeOnSuccess>1065.577500</TotalTimeOnSuccess>
  </script>
- <script name="VerifyApt">
+ <script name="No Show">
   <LastStatus>Failure</LastStatus>
-  <NumberOfRuns>29</NumberOfRuns>
-  <NumberOfFails>7</NumberOfFails>
-  <FirstRun>2018-08-28 16:59:07 -0400</FirstRun>
-  <LastRun>2018-09-10 10:48:02 -0400</LastRun>
-  <TotalTimeOnSuccess>867.055681</TotalTimeOnSuccess>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2018-09-08 18:26:23 -0400</FirstRun>
+  <LastRun>Jul 31, 2019 at 11:18:09 AM</LastRun>
+  <TotalTimeOnSuccess>251.510007</TotalTimeOnSuccess>
  </script>
- <script name="CheckInApt">
+ <script name="Clinical/CheckInApt">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>8</NumberOfRuns>
   <NumberOfFails>2</NumberOfFails>
@@ -106,18 +42,74 @@
  </script>
  <script name="CleanUp">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>73</NumberOfRuns>
+  <NumberOfRuns>82</NumberOfRuns>
   <NumberOfFails>12</NumberOfFails>
   <FirstRun>2018-08-28 15:01:19 -0400</FirstRun>
-  <LastRun>2018-09-10 10:48:06 -0400</LastRun>
-  <TotalTimeOnSuccess>115.618123</TotalTimeOnSuccess>
+  <LastRun>Jul 31, 2019 at 3:33:54 PM</LastRun>
+  <TotalTimeOnSuccess>119.608937</TotalTimeOnSuccess>
  </script>
- <script name="No Show">
-  <LastStatus>Failure</LastStatus>
-  <NumberOfRuns>5</NumberOfRuns>
+ <script name="Edit Apt Time">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>9</NumberOfRuns>
   <NumberOfFails>2</NumberOfFails>
-  <FirstRun>2018-09-08 18:26:23 -0400</FirstRun>
-  <LastRun>2018-09-10 10:44:53 -0400</LastRun>
-  <TotalTimeOnSuccess>251.510007</TotalTimeOnSuccess>
+  <FirstRun>2018-09-08 18:13:49 -0400</FirstRun>
+  <LastRun>Jul 31, 2019 at 11:27:19 AM</LastRun>
+  <TotalTimeOnSuccess>710.387040</TotalTimeOnSuccess>
+ </script>
+ <script name="CreatePatient">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>20</NumberOfRuns>
+  <NumberOfFails>8</NumberOfFails>
+  <FirstRun>2018-09-05 16:35:33 -0400</FirstRun>
+  <LastRun>2019-04-01 14:59:01 -0400</LastRun>
+  <TotalTimeOnSuccess>1515.873055</TotalTimeOnSuccess>
+ </script>
+ <script name="VerifyApt">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>31</NumberOfRuns>
+  <NumberOfFails>7</NumberOfFails>
+  <FirstRun>2018-08-28 16:59:07 -0400</FirstRun>
+  <LastRun>Jul 31, 2019 at 11:24:55 AM</LastRun>
+  <TotalTimeOnSuccess>961.168768</TotalTimeOnSuccess>
+ </script>
+ <script name="Launch EMR1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-08-28 13:50:25 -0400</FirstRun>
+  <LastRun>2018-08-28 13:50:25 -0400</LastRun>
+  <TotalTimeOnSuccess>0.282633</TotalTimeOnSuccess>
+ </script>
+ <script name="Login">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>80</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-08-28 14:53:43 -0400</FirstRun>
+  <LastRun>Jul 31, 2019 at 3:32:32 PM</LastRun>
+  <TotalTimeOnSuccess>1127.103311</TotalTimeOnSuccess>
+ </script>
+ <script name="Launch EMR">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>92</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2018-08-28 14:07:03 -0400</FirstRun>
+  <LastRun>Jul 31, 2019 at 3:32:23 PM</LastRun>
+  <TotalTimeOnSuccess>1004.705373</TotalTimeOnSuccess>
+ </script>
+ <script name="SaveAptAsWalkIn">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>28</NumberOfRuns>
+  <NumberOfFails>5</NumberOfFails>
+  <FirstRun>2018-08-29 09:38:58 -0400</FirstRun>
+  <LastRun>Jul 31, 2019 at 11:24:39 AM</LastRun>
+  <TotalTimeOnSuccess>2047.716973</TotalTimeOnSuccess>
+ </script>
+ <script name="CreateApt">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>57</NumberOfRuns>
+  <NumberOfFails>8</NumberOfFails>
+  <FirstRun>2018-08-29 09:38:18 -0400</FirstRun>
+  <LastRun>Jul 31, 2019 at 3:33:08 PM</LastRun>
+  <TotalTimeOnSuccess>3545.828660</TotalTimeOnSuccess>
  </script>
 </statistics>

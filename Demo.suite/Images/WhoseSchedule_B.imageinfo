@@ -1,17 +1,17 @@
 ﻿{
-    CaptureDate = "2018-09-05 15:06:57 +0000";
-    CaptureHost = "Windows 10";
+    CaptureDate = "2019-07-31 14:47:06 +0000";
+    CaptureHost = "Windows_VM";
     CaptureScreenSize =     (
-        2688,
-        1628
+        1920,
+        1080
     );
     HasAlpha = 1;
-    HotSpotX = 63;
-    HotSpotY = 111;
+    HotSpotX = 1855;
+    HotSpotY = 58;
     LastKnownLocationX = 0;
     LastKnownLocationY = 0;
-    OriginalLocationX = 2492;
-    OriginalLocationY = 465;
+    OriginalLocationX = 4;
+    OriginalLocationY = 219;
     Precise = 0;
     Pulsing = 0;
     Scale = 1;
