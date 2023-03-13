@@ -1,0 +1,34 @@
+{
+  "ocrcapturestring" : "Home File eppRLMLicenseCreator_1.0.4 Share",
+  "originalcapturelocation" : [
+    0,
+    0,
+    175,
+    50
+  ],
+  "createddate" : 1650393949.588515,
+  "lastmodifieddate" : 1650393949.588515,
+  "name" : "Home",
+  "testlocationdata" : [
+    {
+      "capturerect" : [
+        0,
+        0,
+        175,
+        50
+      ],
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_73",
+        "HotSpot" : "[87,25]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "capturedocrtext" : "Home File eppRLMLicenseCreator_1.0.4 Share",
+      "name" : "Home.png",
+      "type" : 1
+    }
+  ]
+}

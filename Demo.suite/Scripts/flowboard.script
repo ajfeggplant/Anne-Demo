@@ -1,0 +1,12 @@
+(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2019-08-28 08:13:49
+  From session:  flowboard
+  Captured on:  2019-08-28 08:10:46
+  From server:  Windows_VM
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+DoubleClick "Chrome"
+TypeText "frontdesk",Tab,"pass",Return
+Click (Image:"FlowBoard", WaitFor:20)
+Click "PatientName"
+TypeText "eggplant",Return

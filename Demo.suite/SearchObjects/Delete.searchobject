@@ -1,0 +1,34 @@
+{
+  "ocrcapturestring" : "X",
+  "originalcapturelocation" : [
+    365,
+    54,
+    32,
+    32
+  ],
+  "createddate" : 1650393951.901541,
+  "lastmodifieddate" : 1650393951.901541,
+  "name" : "Delete",
+  "testlocationdata" : [
+    {
+      "capturerect" : [
+        365,
+        54,
+        32,
+        32
+      ],
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_73",
+        "HotSpot" : "[16,16]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "capturedocrtext" : "X",
+      "name" : "Delete.png",
+      "type" : 1
+    }
+  ]
+}

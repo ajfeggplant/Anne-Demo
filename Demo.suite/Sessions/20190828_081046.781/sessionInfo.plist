@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveConstant</key>
+	<integer>7</integer>
+	<key>commandList</key>
+	<string>[{captureRect:[0, 505.822295, 290, 549.822295], elementName:"RJRj", eventNum:2, folderPath:"", hotSpot:[48.221477, 552.177705], imageName:"RJRj", itemEvent:"TurboListItemEvent_DoubleClick", itemMode:"TurboListItemMode_New", itemType:"TurboListItemType_Image", OCRText:"RJRj", screenShotFile:"Screen0002.png", searchType:"Smooth", skipStep:False, userModified:False, usingTempImageName:True, waitForTime:-1}, {captureRect:[0, 0, 0, 0], elementName:"UNKNOWN", eventNum:6, folderPath:"", imageName:"", itemEvent:"TurboListItemEvent_TypeText", itemMode:"TurboListItemMode_New", itemType:"TurboListItemType_TypeText", screenShotFile:"Screen0006.png", skipStep:False, text:@"\"frontdesk\",Tab,\"pass\",Return", userModified:False, usingTempImageName:True, waitForTime:-1}, {captureRect:[0, 0, 0, 0], elementName:"UNKNOWN", eventNum:36, folderPath:"", hotSpot:[140.587248, 90.596082], imageName:"", itemEvent:"TurboListItemEvent_Click", itemMode:"TurboListItemMode_New", itemType:"TurboListItemType_Image", screenShotFile:"Screen0036.png", skipStep:False, userModified:False, usingTempImageName:True, waitForTime:14}, {captureRect:[0, 0, 0, 0], elementName:"UNKNOWN", eventNum:38, folderPath:"", hotSpot:[387.432886, 395.076493], imageName:"", itemEvent:"TurboListItemEvent_Click", itemMode:"TurboListItemMode_New", itemType:"TurboListItemType_Image", screenShotFile:"Screen0038.png", skipStep:False, userModified:False, usingTempImageName:True, waitForTime:-1}, {captureRect:[0, 0, 0, 0], elementName:"UNKNOWN", eventNum:40, folderPath:"", imageName:"", itemEvent:"TurboListItemEvent_TypeText", itemMode:"TurboListItemMode_New", itemType:"TurboListItemType_TypeText", screenShotFile:"Screen0040.png", skipStep:False, text:@"\"eggplant\",Return", userModified:False, usingTempImageName:True, waitForTime:-1}]</string>
+	<key>dilations</key>
+	<integer>3</integer>
+	<key>maxSize</key>
+	<integer>300</integer>
+	<key>minSize</key>
+	<integer>16</integer>
+	<key>savedWithEpfVersion</key>
+	<integer>1906241512</integer>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>sessionUsesDOMObjects</key>
+	<false/>
+</dict>
+</plist>

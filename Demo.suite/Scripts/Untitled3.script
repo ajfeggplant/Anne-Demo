@@ -1,0 +1,11 @@
+(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2022-12-16 15:29:50
+  From session:  untitled session
+  Captured on:  2022-03-25 09:09:49
+  From server:  Windows_VM
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+DoubleClick "Chrome"
+Click "Yourstore"
+Click (Image:"Computers", WaitFor:4)
+Click "Notebooks"

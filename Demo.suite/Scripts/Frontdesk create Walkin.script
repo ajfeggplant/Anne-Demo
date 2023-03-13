@@ -2,4 +2,5 @@
 Login "frontdesk", "password"
 
 SelectPatient
-SelectPatient
+CreateApt
+Run "Edit Apt Time"

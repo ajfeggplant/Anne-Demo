@@ -1,0 +1,5 @@
+params user, password
+
+DoubleClick "Chrome"
+TypeText user,Tab,password,Return
+Click (Image:"FlowBoard", WaitFor:20)
