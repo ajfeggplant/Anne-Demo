@@ -1,12 +1,57 @@
-(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
   Script generated:  2019-08-28 08:13:49
   From session:  flowboard
   Captured on:  2019-08-28 08:10:46
   From server:  Windows_VM
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+put "frontdesk" into user
+set password to "pass"
 
-DoubleClick "Chrome"
-TypeText "frontdesk",Tab,"pass",Return
-Click (Image:"FlowBoard", WaitFor:20)
+
+login2 user, password
+
 Click "PatientName"
 TypeText "eggplant",Return
+
+put ("1", "2", "3") into aList
+
+repeat with each item something in aList
+	log something
+end repeat
+
+if ImageFound("ok1")
+	click FoundImageLocation()
+end if
+
+
+
+click text:patientName
+
+put "Eggplant, Pesto" into patientName
+put ImageRectangle("schedule") into location
+
+repeat 20 times
+	put readtext(location) into read
+	log read
+	if read contains patientName
+		click FoundImageLocation()
+		exit repeat
+	end if
+	add (0,20,0,20) to location
+	wait 1
+end repeat
+
+put random(5,11) into hour
+click text:hour
+
+typetext altKey
+
+CaptureScreen (Name: "test")
+
+put (ResourcePath("Orders.xlsx"), ResourcePath("SuiteStatistics.csv")) into attachemnts
+log attachemnts
+insert ResourcePath("Orders.xlsx") into attachemnts
+insert  ResourcePath("SuiteStatistics.csv") into attachemnts
+log attachemnts
+
+SendMail to:"anne.foster@eggplant.io", subject:"testing Attachemnt", message:"This is a test for the email", attachment:attachemnts

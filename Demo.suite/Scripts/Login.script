@@ -5,3 +5,5 @@ typetext user, tabKey
 typetext password
 Click "LoginButton"
 WaitFor 8.0, "About"
+
+log "testing"

@@ -1212,4 +1212,52 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
+ <run>
+  <RunDate>2019-09-04 16:03:28 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.898287</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190904_120328.428/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- doubleclick Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-09-04 16:03:39 +0000</RunDate>
+  <Status>Aborted</Status>
+  <Duration>91.896377</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190904_120339.548/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-09-04 16:05:12 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.987918</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190904_120512.417/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- doubleclick Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-09-04 16:07:08 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>5.671054</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190904_120708.870/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
 </runHistory>

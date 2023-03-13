@@ -14,4 +14,5 @@
     Precise = 0;
     Pulsing = 0;
     Scale = 1;
+    SearchObjectName = "image0001";
 }

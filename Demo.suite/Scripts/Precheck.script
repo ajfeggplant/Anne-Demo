@@ -1,0 +1,5 @@
+﻿log params()
+
+if file ResourcePath("Runcheck.txt") contains "Fail"
+	exit all
+end if

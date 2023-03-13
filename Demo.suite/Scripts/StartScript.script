@@ -1,0 +1,2 @@
+﻿Params user, password
+RunWithNewResults "Login", user, password

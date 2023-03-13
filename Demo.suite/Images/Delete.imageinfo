@@ -2,11 +2,12 @@
     CaptureDate = "2022-04-19 18:45:51 +0000";
     CaptureHost = "Windows_VM";
     CaptureScreenSize = (
-        1920,
-        1080);
+        "1920",
+        "1080");
     HasAlpha = 1;
     HotSpotX = 16;
     HotSpotY = 16;
+    ImageDescription = <>;
     LastKnownLocationX = 0;
     LastKnownLocationY = 0;
     OriginalLocationX = 365;
@@ -14,6 +15,6 @@
     Precise = 0;
     Pulsing = 0;
     Scale = 1;
-    SearchAlgorithm = "TextSmoothSquare";
+    SearchAlgorithm = "Adaptive";
     SearchObjectName = "Delete";
 }

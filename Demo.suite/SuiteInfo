@@ -1,6 +1,7 @@
 ﻿{
-    EPVersionNumber = 1906241512;
-    PostRunScript = "Untitled1.script";
+    EPVersionNumber = 2212191810;
+    PostRunScript = "Postcheck.script";
+    RunPreScript = NO;
     Schedules =     (
     );
     ScriptMetaData =     {

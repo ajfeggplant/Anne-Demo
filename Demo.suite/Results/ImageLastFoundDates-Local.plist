@@ -15,7 +15,7 @@
 	<key>About.png</key>
 	<string>2018-09-05 15:04 +0000</string>
 	<key>About/About.png</key>
-	<string>2019-07-31 19:32 +0000</string>
+	<string>2019-08-28 12:38 +0000</string>
 	<key>Appointment.png</key>
 	<string>2019-07-31 15:27 +0000</string>
 	<key>AptArrived.png</key>
@@ -29,15 +29,19 @@
 	<key>Calendar.png</key>
 	<string>2018-09-05 20:40 +0000</string>
 	<key>Calendar/Calendar.png</key>
-	<string>2019-07-31 19:32 +0000</string>
+	<string>2019-08-28 12:38 +0000</string>
 	<key>Chrome.png</key>
-	<string>2019-08-01 13:05 +0000</string>
+	<string>2022-06-08 17:11 +0000</string>
+	<key>Chrome2.png</key>
+	<string>2022-12-16 20:30 +0000</string>
+	<key>Computers.png</key>
+	<string>2022-12-16 20:33 +0000</string>
 	<key>ConfirmCreateNewPatient.png</key>
 	<string>2018-09-09 02:04 +0000</string>
 	<key>CreateNewPatient.png</key>
 	<string>2019-04-01 18:45 +0000</string>
 	<key>FlowBoard.png</key>
-	<string>2019-07-31 15:27 +0000</string>
+	<string>2019-08-28 12:38 +0000</string>
 	<key>LoginButton.png</key>
 	<string>2019-07-31 19:32 +0000</string>
 	<key>NewSearch.png</key>
@@ -46,16 +50,20 @@
 	<string>2019-07-31 15:20 +0000</string>
 	<key>Noshow_1_Apt.png</key>
 	<string>2018-09-10 14:32 +0000</string>
+	<key>Notebooks.png</key>
+	<string>2022-12-16 20:38 +0000</string>
 	<key>Ok1.png</key>
 	<string>2019-07-31 15:24 +0000</string>
 	<key>OpenEmrIcon.png</key>
-	<string>2019-07-31 19:32 +0000</string>
+	<string>2019-09-04 16:07 +0000</string>
+	<key>PID.png</key>
+	<string>2019-08-07 21:11 +0000</string>
 	<key>PatientClient.png</key>
 	<string>2019-04-01 18:59 +0000</string>
 	<key>PatientName.png</key>
 	<string>2018-09-10 14:12 +0000</string>
 	<key>PatientName/PatientName_new.png</key>
-	<string>2019-07-31 15:27 +0000</string>
+	<string>2019-08-28 12:38 +0000</string>
 	<key>Patient_1.png</key>
 	<string>2019-07-31 19:33 +0000</string>
 	<key>ProviderList_A.png</key>
@@ -65,7 +73,7 @@
 	<key>Reports.png</key>
 	<string>2018-09-05 14:50 +0000</string>
 	<key>Reports/Reports.png</key>
-	<string>2019-07-31 19:33 +0000</string>
+	<string>2022-03-25 13:09 +0000</string>
 	<key>Save.png</key>
 	<string>2018-08-28 19:44 +0000</string>
 	<key>Save/Save.png</key>
@@ -76,6 +84,8 @@
 	<string>2018-08-28 19:45 +0000</string>
 	<key>Time.png</key>
 	<string>2019-07-31 15:27 +0000</string>
+	<key>UpdatedBy.png</key>
+	<string>2019-08-07 21:11 +0000</string>
 	<key>Username.png</key>
 	<string>2019-07-31 19:32 +0000</string>
 	<key>VisitType_A.png</key>
@@ -86,6 +96,8 @@
 	<string>2019-07-31 19:32 +0000</string>
 	<key>WhoseSchedule_B.png</key>
 	<string>2019-07-31 19:32 +0000</string>
+	<key>Yourstore.png</key>
+	<string>2022-12-16 20:05 +0000</string>
 	<key>addNewApt.png</key>
 	<string>2019-07-31 19:33 +0000</string>
 	<key>apointmentPopUp_A.png</key>
@@ -104,8 +116,16 @@
 	<string>2018-08-29 13:44 +0000</string>
 	<key>dropDown.png</key>
 	<string>2019-07-31 19:33 +0000</string>
+	<key>eclipse.png</key>
+	<string>2022-06-08 16:10 +0000</string>
 	<key>eggplant.png</key>
 	<string>2018-09-05 15:37 +0000</string>
+	<key>openEMR.png</key>
+	<string>2019-08-28 12:22 +0000</string>
+	<key>openEMRicon2.png</key>
+	<string>2019-08-28 12:38 +0000</string>
+	<key>schedule.png</key>
+	<string>2019-08-28 12:36 +0000</string>
 	<key>searchButton.png</key>
 	<string>2018-08-29 15:54 +0000</string>
 </dict>

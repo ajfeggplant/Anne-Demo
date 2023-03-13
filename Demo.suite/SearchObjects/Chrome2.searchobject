@@ -1,0 +1,39 @@
+{
+  "lastmodifieddate" : 1648213856.5094581,
+  "testlocationdata" : [
+    {
+      "capturerect" : [
+        88,
+        818,
+        48,
+        47
+      ],
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_69",
+        "HotSpot" : "[22,33]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "name" : "Chrome2.png",
+      "type" : 1
+    }
+  ],
+  "createddate" : 1648213856.5094581,
+  "lastfoundlocation" : [
+    88,
+    818,
+    48,
+    47
+  ],
+  "originalcapturelocation" : [
+    88,
+    818,
+    48,
+    47
+  ],
+  "lastfounddate" : 1671222642.5523071,
+  "name" : "Chrome2"
+}

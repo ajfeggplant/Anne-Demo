@@ -1,22 +1,17 @@
 ﻿{
-    CaptureDate = "2019-07-31 15:05:01 +0000";
+    CaptureDate = "2022-12-16 20:29:50 +0000";
     CaptureHost = "Windows_VM";
-    CaptureScreenSize =     (
+    CaptureScreenSize = (
         1920,
-        1080
-    );
-    CropRectangle = "0,0,36,22";
+        1080);
     HasAlpha = 1;
-    HotSpotX = 19;
-    HotSpotY = 11;
-    ImageDescription = <>;
+    HotSpotX = 24;
+    HotSpotY = 37;
     LastKnownLocationX = 0;
     LastKnownLocationY = 0;
-    OriginalLocationX = 21;
-    OriginalLocationY = 425;
+    OriginalLocationX = 87;
+    OriginalLocationY = 813;
     Precise = 0;
     Pulsing = 0;
     Scale = 1;
-    tags =     (
-    );
 }

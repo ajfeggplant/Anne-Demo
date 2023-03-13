@@ -1,5 +1,7 @@
-params user, password
+﻿params user, password
 
 DoubleClick "Chrome"
+WaitFor 10, "openEMR"
+
 TypeText user,Tab,password,Return
-Click (Image:"FlowBoard", WaitFor:20)
+waitfor 20, Image:"FlowBoard"

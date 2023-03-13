@@ -1,0 +1,41 @@
+{
+  "lastmodifieddate" : 1648213860.4431901,
+  "ocrcapturestring" : "Notebooks",
+  "testlocationdata" : [
+    {
+      "capturerect" : [
+        610,
+        478,
+        69,
+        14
+      ],
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_54",
+        "HotSpot" : "[43,2]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "capturedocrtext" : "Notebooks",
+      "name" : "Notebooks.png",
+      "type" : 1
+    }
+  ],
+  "createddate" : 1648213860.4431891,
+  "lastfoundlocation" : [
+    123,
+    1054,
+    69,
+    14
+  ],
+  "originalcapturelocation" : [
+    610,
+    478,
+    69,
+    14
+  ],
+  "lastfounddate" : 1648232607.6265001,
+  "name" : "Notebooks"
+}

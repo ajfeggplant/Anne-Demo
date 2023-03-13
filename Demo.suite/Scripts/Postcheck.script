@@ -1,0 +1,6 @@
+﻿params script, result
+
+log result.Status
+if result.Status = "Failure"
+	put "Fail" into file "C:/Runcheck1.txt"
+end if

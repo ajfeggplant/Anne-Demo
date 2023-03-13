@@ -1,0 +1,41 @@
+{
+  "lastmodifieddate" : 1648213859.445406,
+  "ocrcapturestring" : "Computers",
+  "testlocationdata" : [
+    {
+      "capturerect" : [
+        589,
+        397,
+        91,
+        21
+      ],
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_49",
+        "HotSpot" : "[56,11]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "capturedocrtext" : "Computers",
+      "name" : "Computers.png",
+      "type" : 1
+    }
+  ],
+  "createddate" : 1648213859.445405,
+  "lastfoundlocation" : [
+    589,
+    397,
+    91,
+    21
+  ],
+  "originalcapturelocation" : [
+    589,
+    397,
+    91,
+    21
+  ],
+  "lastfounddate" : 1648232579.926645,
+  "name" : "Computers"
+}

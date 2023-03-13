@@ -1,0 +1,10 @@
+﻿put 1 into a
+put 2 into b
+put 3 into C
+If a <> b
+	Set mathOp = plus
+Else
+	set mathOp = minus
+End If
+
+assert C = value(a&& mathOp && b)

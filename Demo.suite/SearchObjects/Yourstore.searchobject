@@ -1,0 +1,41 @@
+{
+  "lastmodifieddate" : 1648213858.4776449,
+  "ocrcapturestring" : "Yourstor",
+  "testlocationdata" : [
+    {
+      "capturerect" : [
+        1458,
+        161,
+        70,
+        30
+      ],
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_66",
+        "HotSpot" : "[35,14]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "capturedocrtext" : "Yourstor",
+      "name" : "Yourstore.png",
+      "type" : 1
+    }
+  ],
+  "createddate" : 1648213858.4776449,
+  "lastfoundlocation" : [
+    1458,
+    160,
+    70,
+    30
+  ],
+  "originalcapturelocation" : [
+    1458,
+    161,
+    70,
+    30
+  ],
+  "lastfounddate" : 1671221119.0001321,
+  "name" : "Yourstore"
+}

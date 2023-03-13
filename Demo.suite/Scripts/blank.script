@@ -1,1 +1,5 @@
 ﻿wait .5
+
+log the params
+
+log imageinfo("apointmentPopUp_B")

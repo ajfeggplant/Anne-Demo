@@ -1,0 +1,15 @@
+﻿(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2022-03-25 09:10:56
+  From session:  untitled session
+  Captured on:  2022-03-25 09:09:49
+  From server:  Windows_VM
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+logerror "testing"
+
+
+to handle Store
+	Click (Image:"Chrome2", WaitFor:494)
+	DoubleClick "Chrome"
+	Click "Yourstore"
+end Store
