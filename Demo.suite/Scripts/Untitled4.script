@@ -1,1 +1,24 @@
-﻿log the stack
+﻿//log item 2 of line 1 of  file ResourcePath("SuiteStatistics.csv")
+
+put JSONVALUE(file ResourcePath("model.json")) into mydata
+
+put mydata.elements into myorders
+
+set myExcelDB to {type: "excel", file: ResourcePath("Orders.xlsx"), table:"Sheet1"}
+
+put the records of myExcelDB into myresults
+
+repeat with each item myorder in myorders
+	log "JSON" & myorder
+	put the first item of each item of myresults where (each.id = myorder.id) into myresult
+	log "EXCEL " & myresult
+	
+	if myorder.type = myresult."IDCCode ID"
+		LogSuccess ""
+	else 
+		LogError ""
+	end if
+end repeat
+
+
+log mydata

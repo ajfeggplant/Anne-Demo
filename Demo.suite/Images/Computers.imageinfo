@@ -8,6 +8,7 @@
     HotSpotX = 56;
     HotSpotY = 11;
     ImageDescription = <>;
+    ImageTolerance = 50;
     LastKnownLocationX = 0;
     LastKnownLocationY = 0;
     OriginalLocationX = 589;

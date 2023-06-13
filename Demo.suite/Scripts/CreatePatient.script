@@ -1,6 +1,6 @@
 ﻿(* Creates Patients with the first name of Eggplant and a last name of the list below. The birthdate, SSN, and salutaton are all randomly generate" *)
 
-put ("DimSum", "HotPot", "Kimchi", "pancake", "pita", "poutine", "Tapas", "wrap", "PadThai", "FriedRice", "hummus") into lastnames
+put ("DimSum", "HotPot", "Kimchi", "pancake", "pita", "poutine", "Tapas", "wrap", "PadThai", "FriedRice", "hummus", "hash") into lastnames
 
 repeat for each item of lastnames
 	

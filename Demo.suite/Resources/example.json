@@ -1,0 +1,34 @@
+{
+  "elements": [
+    {
+      "id": "1",
+      "name": "Home",
+      "type": "Root"
+    },
+    {
+      "id": "2",
+      "name": "Login",
+      "type": "Node"
+    },
+    {
+      "id": "3",
+      "name": "Enter username",
+      "type": "Node"
+    },
+    {
+      "id": "4",
+      "name": "enter password",
+      "type": "Child"
+    },
+    {
+      "id": "5",
+      "name": "validate page",
+      "type": "Child"
+    },
+    {
+      "id": "6",
+      "name": "",
+      "type": "Child"
+    }
+  ]
+}
