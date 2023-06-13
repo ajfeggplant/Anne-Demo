@@ -1,1 +1,47 @@
-﻿
+﻿Put JSONValue(file ResourcePath("P0630 BIA with VA Prices 04.05.20231.json")) into myData
+Set myExcelAudit to {type:"excel", file:ResourcePath("4.12.23_enc.45132463.xls"), table:"4.12.23"} //put xIs into database
+Put the records of myExcelAudit into myAudit //put database into list
+
+
+
+Repeat with each item dataltem of myData
+	Put dataltem. Iong_description into orderNameData
+	Put dataltem.cpt into CPTdata
+	Put dataltem.hcpcs into HCPCSdata
+	Put dataltem."va revenue code facility" into RevCodeData
+	Put dataltem. bill_item_id into BillltemIDdata
+	
+	Repeat with each item auditltem of myAudit
+		Put auditltem.description into orderNameAudit
+		If orderNameData = orderNameAudit then
+			log "The order is posted for the order:" && orderNameData && "and the description matches the DCW and the audit"
+		else
+			LogWarning "The Description does not match the DCW to the Audit for the order:" && orderNameData
+		end If
+		Put auditltem.cpt into CPTaudit
+		If CPTdata = CPTaudit then
+			log "The CPT for the order:" && orderNameData && "matches the DCW and the audit"
+		else
+			LogWarning "The CPT does not match the DCW to the Audit for the order:" && orderNameData
+		end If
+		Put auditltem.hcpcs into HCPCSaudit
+		If HCPCSdata = HCPCSaudit then
+			Log "The HCPCS for the order:" && orderNameData && "matches the DCW and the audit"
+		else
+			LogWarning "The HCPCS does not match the DCW to the Audit for the order:" && orderNameData
+		end If
+		Put auditltem.rev into RevCodeAudit
+		If RevCodeData = RevCodeAudit then
+			log "The Revenue Code for the order:" && orderNameData && "matches the DCW and the audit"
+		else
+			LogWarning "The Revenue Code does not match the DCW to the Audit for the order:" && orderNameData
+		end If
+		Put auditltem.bill_item_id into BillltemIDaudit
+		If BillltemIDdata = BillltemIDaudit then
+			Log "The Bill Item ID for the order:" && orderNameData && "matches the DCW and the audit"
+		else
+			LogWarning "The Bill Item ID does not match the DCW to the Audit for the order:" && orderNameData
+		end If
+	end Repeat
+
+end Repeat
